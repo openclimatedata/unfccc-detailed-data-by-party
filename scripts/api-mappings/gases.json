@@ -1,0 +1,78 @@
+{
+    "annexOne": [
+        {
+            "id": 10467,
+            "name": "Aggregate GHGs"
+        },
+        {
+            "id": 10469,
+            "name": "CO2"
+        },
+        {
+            "id": 10468,
+            "name": "CH4"
+        },
+        {
+            "id": 10471,
+            "name": "N2O"
+        },
+        {
+            "id": 10466,
+            "name": "Aggregate F-gases"
+        },
+        {
+            "id": 10470,
+            "name": "HFCs"
+        },
+        {
+            "id": 10473,
+            "name": "PFCs"
+        },
+        {
+            "id": 10475,
+            "name": "Unspecified mix of HFCs and PFCs"
+        },
+        {
+            "id": 10474,
+            "name": "SF6"
+        },
+        {
+            "id": 10472,
+            "name": "NF3"
+        }
+    ],
+    "nonAnnexOne": [
+        {
+            "id": 10467,
+            "name": "Aggregate GHGs"
+        },
+        {
+            "id": 10469,
+            "name": "CO2"
+        },
+        {
+            "id": 10468,
+            "name": "CH4"
+        },
+        {
+            "id": 10471,
+            "name": "N2O"
+        },
+        {
+            "id": 10466,
+            "name": "Aggregate F-gases"
+        },
+        {
+            "id": 10470,
+            "name": "HFCs"
+        },
+        {
+            "id": 10473,
+            "name": "PFCs"
+        },
+        {
+            "id": 10474,
+            "name": "SF6"
+        }
+    ]
+}

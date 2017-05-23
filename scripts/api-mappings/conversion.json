@@ -1,0 +1,1728 @@
+{
+    "annexOne": [
+        {
+            "gasId": 10466,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 4,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 5,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 6,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 96,
+            "factor": 25.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 140,
+            "factor": 0.025
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 142,
+            "factor": 2.4999999999999998e-05
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 144,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 4,
+            "unitToId": 145,
+            "factor": 2.4999999999999996e-08
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 4,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 5,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 6,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 96,
+            "factor": 25000.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 140,
+            "factor": 25.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 142,
+            "factor": 0.025
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 144,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 5,
+            "unitToId": 145,
+            "factor": 2.4999999999999998e-05
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 4,
+            "factor": 0.04
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 5,
+            "factor": 4e-05
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 6,
+            "factor": 4e-08
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 144,
+            "factor": 3.999999999999999e-11
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 4,
+            "factor": 40.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 5,
+            "factor": 0.04
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 6,
+            "factor": 4e-05
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 144,
+            "factor": 4e-08
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 4,
+            "unitToId": 4,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 4,
+            "unitToId": 5,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 4,
+            "unitToId": 6,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 4,
+            "unitToId": 144,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 5,
+            "unitToId": 4,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 5,
+            "unitToId": 5,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 5,
+            "unitToId": 6,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 5,
+            "unitToId": 144,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 96,
+            "unitToId": 4,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 96,
+            "unitToId": 5,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 96,
+            "unitToId": 6,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 96,
+            "unitToId": 144,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 140,
+            "unitToId": 4,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 140,
+            "unitToId": 5,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 140,
+            "unitToId": 6,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 140,
+            "unitToId": 144,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 4,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 5,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 6,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 96,
+            "factor": 298.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 140,
+            "factor": 0.298
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 142,
+            "factor": 0.000298
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 144,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 4,
+            "unitToId": 145,
+            "factor": 2.9799999999999994e-07
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 4,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 5,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 6,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 96,
+            "factor": 298000.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 140,
+            "factor": 298.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 142,
+            "factor": 0.298
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 144,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 5,
+            "unitToId": 145,
+            "factor": 0.000298
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 4,
+            "factor": 0.003355704697986577
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 5,
+            "factor": 3.3557046979865773e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 6,
+            "factor": 3.355704697986577e-09
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 144,
+            "factor": 3.3557046979865768e-12
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 4,
+            "factor": 3.3557046979865772
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 5,
+            "factor": 0.003355704697986577
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 6,
+            "factor": 3.3557046979865773e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 144,
+            "factor": 3.355704697986577e-09
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 4,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 5,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 6,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 96,
+            "factor": 17200.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 140,
+            "factor": 17.2
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 142,
+            "factor": 0.0172
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 144,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 4,
+            "unitToId": 145,
+            "factor": 1.7199999999999998e-05
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 4,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 5,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 6,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 96,
+            "factor": 17200000.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 140,
+            "factor": 17200.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 142,
+            "factor": 17.2
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 144,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 5,
+            "unitToId": 145,
+            "factor": 0.0172
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 4,
+            "factor": 5.8139534883720933e-05
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 5,
+            "factor": 5.813953488372093e-08
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 6,
+            "factor": 5.813953488372093e-11
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 144,
+            "factor": 5.813953488372092e-14
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 4,
+            "factor": 0.05813953488372093
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 5,
+            "factor": 5.8139534883720933e-05
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 6,
+            "factor": 5.813953488372093e-08
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 144,
+            "factor": 5.813953488372093e-11
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 4,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 5,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 6,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 96,
+            "factor": 22800.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 140,
+            "factor": 22.8
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 142,
+            "factor": 0.022799999999999997
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 144,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 4,
+            "unitToId": 145,
+            "factor": 2.2799999999999995e-05
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 4,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 5,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 6,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 96,
+            "factor": 22800000.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 140,
+            "factor": 22800.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 142,
+            "factor": 22.8
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 144,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 5,
+            "unitToId": 145,
+            "factor": 0.022799999999999997
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 4,
+            "factor": 4.3859649122807014e-05
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 5,
+            "factor": 4.385964912280702e-08
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 6,
+            "factor": 4.3859649122807016e-11
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 144,
+            "factor": 4.385964912280701e-14
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 4,
+            "factor": 0.043859649122807015
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 5,
+            "factor": 4.3859649122807014e-05
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 6,
+            "factor": 4.385964912280702e-08
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 144,
+            "factor": 4.3859649122807016e-11
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 96,
+            "unitToId": 96,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 96,
+            "unitToId": 140,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 96,
+            "unitToId": 142,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 96,
+            "unitToId": 145,
+            "factor": 9.999999999999999e-10
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 140,
+            "unitToId": 96,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 140,
+            "unitToId": 140,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 140,
+            "unitToId": 142,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 140,
+            "unitToId": 145,
+            "factor": 1e-06
+        }
+    ],
+    "nonAnnexOne": [
+        {
+            "gasId": 10466,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10466,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10467,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 2,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 3,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 17,
+            "factor": 21.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 122,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 143,
+            "factor": 21000.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 146,
+            "factor": 0.021
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 147,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 3,
+            "unitToId": 148,
+            "factor": 2.1e-05
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 2,
+            "factor": 47.61904761904762
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 3,
+            "factor": 0.047619047619047616
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 122,
+            "factor": 4.761904761904762e-05
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 147,
+            "factor": 4.761904761904762e-08
+        },
+        {
+            "gasId": 10468,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 3,
+            "unitToId": 2,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 3,
+            "unitToId": 3,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 3,
+            "unitToId": 122,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 3,
+            "unitToId": 147,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 17,
+            "unitToId": 2,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 17,
+            "unitToId": 3,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 17,
+            "unitToId": 122,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10469,
+            "unitFromId": 17,
+            "unitToId": 147,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10470,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 2,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 3,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 17,
+            "factor": 310.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 122,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 143,
+            "factor": 310000.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 146,
+            "factor": 0.31
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 147,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 3,
+            "unitToId": 148,
+            "factor": 0.00031
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 2,
+            "factor": 3.225806451612903
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 3,
+            "factor": 0.0032258064516129032
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 122,
+            "factor": 3.225806451612903e-06
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 147,
+            "factor": 3.225806451612903e-09
+        },
+        {
+            "gasId": 10471,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 2,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 3,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 17,
+            "factor": 17200.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 122,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 143,
+            "factor": 17200000.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 146,
+            "factor": 17.2
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 147,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 3,
+            "unitToId": 148,
+            "factor": 0.0172
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 2,
+            "factor": 0.05813953488372093
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 3,
+            "factor": 5.8139534883720933e-05
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 122,
+            "factor": 5.813953488372093e-08
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 147,
+            "factor": 5.813953488372093e-11
+        },
+        {
+            "gasId": 10472,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10473,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 2,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 3,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 17,
+            "factor": 22800.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 122,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 143,
+            "factor": 22800000.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 146,
+            "factor": 22.8
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 147,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 3,
+            "unitToId": 148,
+            "factor": 0.022799999999999997
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 2,
+            "factor": 0.043859649122807015
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 3,
+            "factor": 4.3859649122807014e-05
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 122,
+            "factor": 4.385964912280702e-08
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 147,
+            "factor": 4.3859649122807016e-11
+        },
+        {
+            "gasId": 10474,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 17,
+            "unitToId": 17,
+            "factor": 1.0
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 17,
+            "unitToId": 143,
+            "factor": 1000.0
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 17,
+            "unitToId": 146,
+            "factor": 0.001
+        },
+        {
+            "gasId": 10475,
+            "unitFromId": 17,
+            "unitToId": 148,
+            "factor": 1e-06
+        }
+    ],
+    "units": [
+        {
+            "id": 3,
+            "name": "Gg"
+        },
+        {
+            "id": 17,
+            "name": "Gg CO2 equivalent"
+        },
+        {
+            "id": 144,
+            "name": "Gt"
+        },
+        {
+            "id": 145,
+            "name": "Gt CO2 equivalent"
+        },
+        {
+            "id": 2,
+            "name": "Mg"
+        },
+        {
+            "id": 143,
+            "name": "Mg CO2 equivalent"
+        },
+        {
+            "id": 6,
+            "name": "Mt"
+        },
+        {
+            "id": 142,
+            "name": "Mt CO2 equivalent"
+        },
+        {
+            "id": 147,
+            "name": "Pg"
+        },
+        {
+            "id": 148,
+            "name": "Pg CO2 equivalent"
+        },
+        {
+            "id": 122,
+            "name": "Tg"
+        },
+        {
+            "id": 146,
+            "name": "Tg CO2 equivalent"
+        },
+        {
+            "id": 5,
+            "name": "kt"
+        },
+        {
+            "id": 140,
+            "name": "kt CO2 equivalent"
+        },
+        {
+            "id": 4,
+            "name": "t"
+        },
+        {
+            "id": 96,
+            "name": "t CO2 equivalent"
+        }
+    ]
+}

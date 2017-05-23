@@ -1,0 +1,2008 @@
+{
+    "annexOne": [
+        {
+            "id": 10465,
+            "name": "Totals",
+            "children": [
+                {
+                    "id": 10464,
+                    "name": "Total GHG emissions without LULUCF",
+                    "children": [
+                        {
+                            "id": 10481,
+                            "name": "1.  Energy"
+                        },
+                        {
+                            "id": 10482,
+                            "name": "2.  Industrial Processes and Product Use"
+                        },
+                        {
+                            "id": 10483,
+                            "name": "3.  Agriculture"
+                        },
+                        {
+                            "id": 10484,
+                            "name": "5.  Waste"
+                        },
+                        {
+                            "id": 10485,
+                            "name": "6.  Other"
+                        }
+                    ]
+                },
+                {
+                    "id": 8677,
+                    "name": "Total GHG emissions with LULUCF",
+                    "children": [
+                        {
+                            "id": 8819,
+                            "name": "1.  Energy",
+                            "children": [
+                                {
+                                    "id": 9089,
+                                    "name": "1.A  Fuel Combustion - Sectoral approach",
+                                    "children": [
+                                        {
+                                            "id": 10402,
+                                            "name": "1.A.1  Energy Industries",
+                                            "children": [
+                                                {
+                                                    "id": 9422,
+                                                    "name": "1.A.1.a  Public Electricity and Heat Production",
+                                                    "children": [
+                                                        {
+                                                            "id": 8616,
+                                                            "name": "1.A.1.a.i  Electricity Generation"
+                                                        },
+                                                        {
+                                                            "id": 9614,
+                                                            "name": "1.A.1.a.ii  Combined heat and power generation"
+                                                        },
+                                                        {
+                                                            "id": 9971,
+                                                            "name": "1.A.1.a.iii  Heat plants"
+                                                        },
+                                                        {
+                                                            "id": 8368,
+                                                            "name": "1.A.1.a.iv  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 9771,
+                                                    "name": "1.A.1.b  Petroleum Refining"
+                                                },
+                                                {
+                                                    "id": 9004,
+                                                    "name": "1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries",
+                                                    "children": [
+                                                        {
+                                                            "id": 10306,
+                                                            "name": "1.A.1.c.i  Manufacture of solid fuels"
+                                                        },
+                                                        {
+                                                            "id": 10425,
+                                                            "name": "1.A.1.c.ii  Oil and gas extraction"
+                                                        },
+                                                        {
+                                                            "id": 8335,
+                                                            "name": "1.A.1.c.iii  Other energy industries"
+                                                        },
+                                                        {
+                                                            "id": 8656,
+                                                            "name": "1.A.1.c.iv  Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8556,
+                                            "name": "1.A.2  Manufacturing Industries and Construction",
+                                            "children": [
+                                                {
+                                                    "id": 10329,
+                                                    "name": "1.A.2.a  Iron and Steel"
+                                                },
+                                                {
+                                                    "id": 9859,
+                                                    "name": "1.A.2.b  Non-Ferrous Metals"
+                                                },
+                                                {
+                                                    "id": 9369,
+                                                    "name": "1.A.2.c  Chemicals"
+                                                },
+                                                {
+                                                    "id": 10119,
+                                                    "name": "1.A.2.d  Pulp, Paper and Print"
+                                                },
+                                                {
+                                                    "id": 8321,
+                                                    "name": "1.A.2.e  Food Processing, Beverages and Tobacco"
+                                                },
+                                                {
+                                                    "id": 8876,
+                                                    "name": "1.A.2.f  Non-metallic Minerals"
+                                                },
+                                                {
+                                                    "id": 9832,
+                                                    "name": "1.A.2.g  Other",
+                                                    "children": [
+                                                        {
+                                                            "id": 10308,
+                                                            "name": "1.A.2.g.i  Manufacturing of machinery"
+                                                        },
+                                                        {
+                                                            "id": 10150,
+                                                            "name": "1.A.2.g.ii  Manufacturing of transport equipment"
+                                                        },
+                                                        {
+                                                            "id": 8527,
+                                                            "name": "1.A.2.g.iii  Mining (excluding fuels) and quarrying"
+                                                        },
+                                                        {
+                                                            "id": 8424,
+                                                            "name": "1.A.2.g.iv  Wood and wood products"
+                                                        },
+                                                        {
+                                                            "id": 10287,
+                                                            "name": "1.A.2.g.v  Construction"
+                                                        },
+                                                        {
+                                                            "id": 8721,
+                                                            "name": "1.A.2.g.vi  Textile and leather"
+                                                        },
+                                                        {
+                                                            "id": 8587,
+                                                            "name": "1.A.2.g.vii  Off-road vehicles and other machinery"
+                                                        },
+                                                        {
+                                                            "id": 8794,
+                                                            "name": "1.A.2.g.viii  Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8322,
+                                            "name": "1.A.3  Transport",
+                                            "children": [
+                                                {
+                                                    "id": 10419,
+                                                    "name": "1.A.3.a  Domestic Aviation"
+                                                },
+                                                {
+                                                    "id": 9607,
+                                                    "name": "1.A.3.b  Road Transportation",
+                                                    "children": [
+                                                        {
+                                                            "id": 9279,
+                                                            "name": "1.A.3.b.i  Cars"
+                                                        },
+                                                        {
+                                                            "id": 9702,
+                                                            "name": "1.A.3.b.ii  Light duty trucks"
+                                                        },
+                                                        {
+                                                            "id": 8358,
+                                                            "name": "1.A.3.b.iii  Heavy duty trucks and buses"
+                                                        },
+                                                        {
+                                                            "id": 9622,
+                                                            "name": "1.A.3.b.iv  Motorcycles"
+                                                        },
+                                                        {
+                                                            "id": 9083,
+                                                            "name": "1.A.3.b.v  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 8924,
+                                                    "name": "1.A.3.c  Railways"
+                                                },
+                                                {
+                                                    "id": 9670,
+                                                    "name": "1.A.3.d  Domestic Navigation"
+                                                },
+                                                {
+                                                    "id": 8456,
+                                                    "name": "1.A.3.e  Other Transportation",
+                                                    "children": [
+                                                        {
+                                                            "id": 9504,
+                                                            "name": "1.A.3.e.i  Pipeline Transport"
+                                                        },
+                                                        {
+                                                            "id": 9935,
+                                                            "name": "1.A.3.e.ii  Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9815,
+                                            "name": "1.A.4  Other Sectors",
+                                            "children": [
+                                                {
+                                                    "id": 8597,
+                                                    "name": "1.A.4.a  Commercial/Institutional",
+                                                    "children": [
+                                                        {
+                                                            "id": 8216,
+                                                            "name": "1.A.4.a.i  Stationary combustion"
+                                                        },
+                                                        {
+                                                            "id": 8251,
+                                                            "name": "1.A.4.a.ii  Off-road vehicles and other machinery"
+                                                        },
+                                                        {
+                                                            "id": 8223,
+                                                            "name": "1.A.4.a.iii  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 9823,
+                                                    "name": "1.A.4.b  Residential",
+                                                    "children": [
+                                                        {
+                                                            "id": 8609,
+                                                            "name": "1.A.4.b.i  Stationary combustion"
+                                                        },
+                                                        {
+                                                            "id": 10435,
+                                                            "name": "1.A.4.b.ii  Off-road vehicles and other machinery"
+                                                        },
+                                                        {
+                                                            "id": 8632,
+                                                            "name": "1.A.4.b.iii  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 8554,
+                                                    "name": "1.A.4.c  Agriculture/Forestry/Fishing",
+                                                    "children": [
+                                                        {
+                                                            "id": 8364,
+                                                            "name": "1.A.4.c.i  Stationary"
+                                                        },
+                                                        {
+                                                            "id": 10080,
+                                                            "name": "1.A.4.c.ii  Off-road vehicles and other machinery"
+                                                        },
+                                                        {
+                                                            "id": 9812,
+                                                            "name": "1.A.4.c.iii  Fishing"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 10273,
+                                            "name": "1.A.5  Other (Not specified elsewhere)",
+                                            "children": [
+                                                {
+                                                    "id": 9861,
+                                                    "name": "1.A.5.a  Stationary"
+                                                },
+                                                {
+                                                    "id": 9101,
+                                                    "name": "1.A.5.b  Mobile"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8533,
+                                    "name": "1.AB  Fuel Combustion - Reference Approach"
+                                },
+                                {
+                                    "id": 8731,
+                                    "name": "1.AD  Feedstocks, reductants and other non-energy use of fuels"
+                                },
+                                {
+                                    "id": 9374,
+                                    "name": "1.B  Fugitive Emissions from Fuels",
+                                    "children": [
+                                        {
+                                            "id": 9455,
+                                            "name": "1.B.1  Solid Fuels",
+                                            "children": [
+                                                {
+                                                    "id": 9835,
+                                                    "name": "1.B.1.a  Coal Mining and Handling",
+                                                    "children": [
+                                                        {
+                                                            "id": 9116,
+                                                            "name": "1.B.1.a.1  Underground Mines",
+                                                            "children": [
+                                                                {
+                                                                    "id": 9933,
+                                                                    "name": "1.B.1.a.1.i  Mining Activities"
+                                                                },
+                                                                {
+                                                                    "id": 9427,
+                                                                    "name": "1.B.1.a.1.ii  Post-Mining Activities"
+                                                                },
+                                                                {
+                                                                    "id": 8211,
+                                                                    "name": "1.B.1.a.1.iii  Abandoned Underground Mines"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": 8573,
+                                                            "name": "1.B.1.a.2  Surface Mines",
+                                                            "children": [
+                                                                {
+                                                                    "id": 10282,
+                                                                    "name": "1.B.1.a.2.i  Mining Activities"
+                                                                },
+                                                                {
+                                                                    "id": 9601,
+                                                                    "name": "1.B.1.a.2.ii  Post-Mining Activities"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 8300,
+                                                    "name": "1.B.1.b  Solid Fuel Transformation"
+                                                },
+                                                {
+                                                    "id": 8964,
+                                                    "name": "1.B.1.c  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8806,
+                                            "name": "1.B.2  Oil and Natural Gas and Other Emissions from Energy Production",
+                                            "children": [
+                                                {
+                                                    "id": 9822,
+                                                    "name": "1.B.2.a  Oil",
+                                                    "children": [
+                                                        {
+                                                            "id": 8165,
+                                                            "name": "1.B.2.a.1  Exploration"
+                                                        },
+                                                        {
+                                                            "id": 10078,
+                                                            "name": "1.B.2.a.2  Production"
+                                                        },
+                                                        {
+                                                            "id": 9550,
+                                                            "name": "1.B.2.a.3  Transport"
+                                                        },
+                                                        {
+                                                            "id": 9891,
+                                                            "name": "1.B.2.a.4  Refining / Storage"
+                                                        },
+                                                        {
+                                                            "id": 8371,
+                                                            "name": "1.B.2.a.5  Distribution of Oil Products"
+                                                        },
+                                                        {
+                                                            "id": 8228,
+                                                            "name": "1.B.2.a.6  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 8493,
+                                                    "name": "1.B.2.b  Natural Gas",
+                                                    "children": [
+                                                        {
+                                                            "id": 9314,
+                                                            "name": "1.B.2.b.1  Exploration"
+                                                        },
+                                                        {
+                                                            "id": 8474,
+                                                            "name": "1.B.2.b.2  Production"
+                                                        },
+                                                        {
+                                                            "id": 9999,
+                                                            "name": "1.B.2.b.3  Processing"
+                                                        },
+                                                        {
+                                                            "id": 9902,
+                                                            "name": "1.B.2.b.4  Transmission and storage"
+                                                        },
+                                                        {
+                                                            "id": 9728,
+                                                            "name": "1.B.2.b.5  Distribution"
+                                                        },
+                                                        {
+                                                            "id": 9974,
+                                                            "name": "1.B.2.b.6  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 8333,
+                                                    "name": "1.B.2.c  Venting and Flaring",
+                                                    "children": [
+                                                        {
+                                                            "id": 10303,
+                                                            "name": "1.B.2.c.1  Venting",
+                                                            "children": [
+                                                                {
+                                                                    "id": 9827,
+                                                                    "name": "1.B.2.c.1.i  Oil"
+                                                                },
+                                                                {
+                                                                    "id": 10239,
+                                                                    "name": "1.B.2.c.1.ii  Gas"
+                                                                },
+                                                                {
+                                                                    "id": 8576,
+                                                                    "name": "1.B.2.c.1.iii  Combined"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": 10392,
+                                                            "name": "1.B.2.c.2  Flaring",
+                                                            "children": [
+                                                                {
+                                                                    "id": 9210,
+                                                                    "name": "1.B.2.c.2.i  Oil"
+                                                                },
+                                                                {
+                                                                    "id": 8904,
+                                                                    "name": "1.B.2.c.2.ii  Gas"
+                                                                },
+                                                                {
+                                                                    "id": 9824,
+                                                                    "name": "1.B.2.c.2.iii  Combined"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 9077,
+                                                    "name": "1.B.2.d  Other"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9070,
+                                    "name": "1.C  CO2 Transport and Storage",
+                                    "children": [
+                                        {
+                                            "id": 9365,
+                                            "name": "1.C.1  Transport of CO2",
+                                            "children": [
+                                                {
+                                                    "id": 9769,
+                                                    "name": "Pipelines"
+                                                },
+                                                {
+                                                    "id": 10197,
+                                                    "name": "Ships"
+                                                },
+                                                {
+                                                    "id": 9366,
+                                                    "name": "Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9474,
+                                            "name": "1.C.2  Injection and Storage",
+                                            "children": [
+                                                {
+                                                    "id": 8741,
+                                                    "name": "Injection"
+                                                },
+                                                {
+                                                    "id": 10333,
+                                                    "name": "Storage"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9330,
+                                            "name": "Other"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10393,
+                            "name": "2.  Industrial Processes and Product Use",
+                            "children": [
+                                {
+                                    "id": 8452,
+                                    "name": "2.A  Mineral Industry",
+                                    "children": [
+                                        {
+                                            "id": 8787,
+                                            "name": "2.A.1  Cement Production"
+                                        },
+                                        {
+                                            "id": 8702,
+                                            "name": "2.A.2  Lime Production"
+                                        },
+                                        {
+                                            "id": 8579,
+                                            "name": "2.A.3  Glass production"
+                                        },
+                                        {
+                                            "id": 9731,
+                                            "name": "2.A.4  Other Process Uses of Carbonates",
+                                            "children": [
+                                                {
+                                                    "id": 8539,
+                                                    "name": "2.A.4.a  Ceramics"
+                                                },
+                                                {
+                                                    "id": 9452,
+                                                    "name": "2.A.4.b  Other uses of Soda Ash"
+                                                },
+                                                {
+                                                    "id": 10101,
+                                                    "name": "2.A.4.c  Non-metallurgical Magnesium Production"
+                                                },
+                                                {
+                                                    "id": 9342,
+                                                    "name": "2.A.4.d  Other"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9304,
+                                    "name": "2.B  Chemical Industry",
+                                    "children": [
+                                        {
+                                            "id": 9658,
+                                            "name": "2.B.1  Ammonia Production"
+                                        },
+                                        {
+                                            "id": 9410,
+                                            "name": "2.B.2  Nitric Acid Production"
+                                        },
+                                        {
+                                            "id": 8468,
+                                            "name": "2.B.3  Adipic Acid Production"
+                                        },
+                                        {
+                                            "id": 8544,
+                                            "name": "2.B.4  Caprolactam, Glyoxal and Glyoxylic Acid Production",
+                                            "children": [
+                                                {
+                                                    "id": 9515,
+                                                    "name": "2.B.4.a  Caprolactam"
+                                                },
+                                                {
+                                                    "id": 9564,
+                                                    "name": "2.B.4.b  Glyoxal"
+                                                },
+                                                {
+                                                    "id": 8789,
+                                                    "name": "2.B.4.c  Glyoxylic Acid"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9531,
+                                            "name": "2.B.5  Carbide Production",
+                                            "children": [
+                                                {
+                                                    "id": 9683,
+                                                    "name": "2.B.5.a  Silicon Carbide"
+                                                },
+                                                {
+                                                    "id": 9206,
+                                                    "name": "2.B.5.b  Calcium Carbide"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9917,
+                                            "name": "2.B.6  Titanium Dioxide Production"
+                                        },
+                                        {
+                                            "id": 8530,
+                                            "name": "2.B.7  Soda Ash Production"
+                                        },
+                                        {
+                                            "id": 9000,
+                                            "name": "2.B.8  Petrochemical and Carbon Black Production",
+                                            "children": [
+                                                {
+                                                    "id": 8934,
+                                                    "name": "2.B.8.a  Methanol"
+                                                },
+                                                {
+                                                    "id": 9146,
+                                                    "name": "2.B.8.b  Ethylene"
+                                                },
+                                                {
+                                                    "id": 8686,
+                                                    "name": "2.B.8.c  Ethylene Dichloride and Vinyl Chloride Monomer"
+                                                },
+                                                {
+                                                    "id": 9468,
+                                                    "name": "2.B.8.d  Ethylene Oxide"
+                                                },
+                                                {
+                                                    "id": 9784,
+                                                    "name": "2.B.8.e  Acrylonitrile"
+                                                },
+                                                {
+                                                    "id": 8864,
+                                                    "name": "2.B.8.f  Carbon Black"
+                                                },
+                                                {
+                                                    "id": 9384,
+                                                    "name": "2.B.8.g  Other",
+                                                    "children": [
+                                                        {
+                                                            "id": 9941,
+                                                            "name": "Styrene"
+                                                        },
+                                                        {
+                                                            "id": 8276,
+                                                            "name": "Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8884,
+                                            "name": "2.B.9  Fluorochemical Production",
+                                            "children": [
+                                                {
+                                                    "id": 9517,
+                                                    "name": "2.B.9.a  By-Product Emissions",
+                                                    "children": [
+                                                        {
+                                                            "id": 9992,
+                                                            "name": "2.B.9.a.1  Production of HCFC-22"
+                                                        },
+                                                        {
+                                                            "id": 8782,
+                                                            "name": "2.B.9.a.2  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 9938,
+                                                    "name": "2.B.9.b  Fugitive Emissions",
+                                                    "children": [
+                                                        {
+                                                            "id": 8427,
+                                                            "name": "2.B.9.b.1  Production of HFC-134a"
+                                                        },
+                                                        {
+                                                            "id": 8150,
+                                                            "name": "2.B.9.b.2  Production of SF6"
+                                                        },
+                                                        {
+                                                            "id": 8419,
+                                                            "name": "2.B.9.b.3  Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9953,
+                                            "name": "2.B.10  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9064,
+                                    "name": "2.C  Metal Industry",
+                                    "children": [
+                                        {
+                                            "id": 8229,
+                                            "name": "2.C.1  Iron and Steel Production",
+                                            "children": [
+                                                {
+                                                    "id": 9540,
+                                                    "name": "2.C.1.a  Steel"
+                                                },
+                                                {
+                                                    "id": 9567,
+                                                    "name": "2.C.1.b  Pig Iron"
+                                                },
+                                                {
+                                                    "id": 9679,
+                                                    "name": "2.C.1.c  Direct Reduced Iron"
+                                                },
+                                                {
+                                                    "id": 8962,
+                                                    "name": "2.C.1.d  Sinter"
+                                                },
+                                                {
+                                                    "id": 9387,
+                                                    "name": "2.C.1.e  Pellet"
+                                                },
+                                                {
+                                                    "id": 10223,
+                                                    "name": "2.C.1.f  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 10390,
+                                            "name": "2.C.2  Ferroalloys Production"
+                                        },
+                                        {
+                                            "id": 10068,
+                                            "name": "2.C.3  Aluminium Production",
+                                            "children": [
+                                                {
+                                                    "id": 9079,
+                                                    "name": "2.C.3.a  CO2 Emissions"
+                                                },
+                                                {
+                                                    "id": 9445,
+                                                    "name": "2.C.3.b  By-Product Emissions"
+                                                },
+                                                {
+                                                    "id": 9072,
+                                                    "name": "2.C.3.c  F-gases used in foundries"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9635,
+                                            "name": "2.C.4  Magnesium Production"
+                                        },
+                                        {
+                                            "id": 10210,
+                                            "name": "2.C.5  Lead Production"
+                                        },
+                                        {
+                                            "id": 9667,
+                                            "name": "2.C.6  Zinc Production"
+                                        },
+                                        {
+                                            "id": 10447,
+                                            "name": "2.C.7  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 10094,
+                                    "name": "2.D  Non-energy Products from Fuels and Solvent Use",
+                                    "children": [
+                                        {
+                                            "id": 8852,
+                                            "name": "2.D.1  Lubricant Use"
+                                        },
+                                        {
+                                            "id": 8925,
+                                            "name": "2.D.2  Paraffin Wax Use"
+                                        },
+                                        {
+                                            "id": 8811,
+                                            "name": "2.D.3  Other",
+                                            "children": [
+                                                {
+                                                    "id": 8822,
+                                                    "name": "Asphalt roofing"
+                                                },
+                                                {
+                                                    "id": 10044,
+                                                    "name": "Road paving with asphalt"
+                                                },
+                                                {
+                                                    "id": 10214,
+                                                    "name": "Solvent use"
+                                                },
+                                                {
+                                                    "id": 8212,
+                                                    "name": "Other"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8938,
+                                    "name": "2.E  Electronics Industry",
+                                    "children": [
+                                        {
+                                            "id": 10075,
+                                            "name": "2.E.1  Integrated Circuit or Semiconductor"
+                                        },
+                                        {
+                                            "id": 10442,
+                                            "name": "2.E.2  TFT Flat Panel Display"
+                                        },
+                                        {
+                                            "id": 8601,
+                                            "name": "2.E.3  Photovoltaics"
+                                        },
+                                        {
+                                            "id": 9911,
+                                            "name": "2.E.4  Heat Transfer Fluid"
+                                        },
+                                        {
+                                            "id": 8434,
+                                            "name": "2.E.5  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8262,
+                                    "name": "2.F  Product Uses as Substitutes for ODS",
+                                    "children": [
+                                        {
+                                            "id": 9207,
+                                            "name": "2.F.1  Refrigeration and Air conditioning",
+                                            "children": [
+                                                {
+                                                    "id": 9129,
+                                                    "name": "2.F.1.a  Commercial Refrigeration"
+                                                },
+                                                {
+                                                    "id": 9780,
+                                                    "name": "2.F.1.b  Domestic Refrigeration"
+                                                },
+                                                {
+                                                    "id": 10252,
+                                                    "name": "2.F.1.c  Industrial Refrigeration"
+                                                },
+                                                {
+                                                    "id": 9634,
+                                                    "name": "2.F.1.d  Transport Refrigeration"
+                                                },
+                                                {
+                                                    "id": 10244,
+                                                    "name": "2.F.1.e  Mobile Air-Conditioning"
+                                                },
+                                                {
+                                                    "id": 10298,
+                                                    "name": "2.F.1.f  Stationary Air-Conditioning"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9352,
+                                            "name": "2.F.2  Foam Blowing Agents",
+                                            "children": [
+                                                {
+                                                    "id": 8642,
+                                                    "name": "2.F.2.a  Closed Cells"
+                                                },
+                                                {
+                                                    "id": 9224,
+                                                    "name": "2.F.2.b  Open Cells"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9296,
+                                            "name": "2.F.3  Fire Protection"
+                                        },
+                                        {
+                                            "id": 10383,
+                                            "name": "2.F.4  Aerosols",
+                                            "children": [
+                                                {
+                                                    "id": 8519,
+                                                    "name": "2.F.4.a  Metered Dose Inhalers"
+                                                },
+                                                {
+                                                    "id": 8379,
+                                                    "name": "2.F.4.b  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8316,
+                                            "name": "2.F.5  Solvents"
+                                        },
+                                        {
+                                            "id": 8607,
+                                            "name": "2.F.6  Other Applications",
+                                            "children": [
+                                                {
+                                                    "id": 10246,
+                                                    "name": "2.F.6.a  Emissive"
+                                                },
+                                                {
+                                                    "id": 10042,
+                                                    "name": "2.F.6.b  Contained"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8201,
+                                    "name": "2.G  Other Product Manufacture and Use",
+                                    "children": [
+                                        {
+                                            "id": 9490,
+                                            "name": "2.G.1  Electrical Equipment"
+                                        },
+                                        {
+                                            "id": 10301,
+                                            "name": "2.G.2  SF6 and PFCs from Other Product Use",
+                                            "children": [
+                                                {
+                                                    "id": 9055,
+                                                    "name": "2.G.2.a  Military Applications"
+                                                },
+                                                {
+                                                    "id": 9925,
+                                                    "name": "2.G.2.b  Accelerators"
+                                                },
+                                                {
+                                                    "id": 9789,
+                                                    "name": "2.G.2.c  Soundproof Windows"
+                                                },
+                                                {
+                                                    "id": 9610,
+                                                    "name": "2.G.2.d  Adiabatic Properties: Shoes and Tyres"
+                                                },
+                                                {
+                                                    "id": 8978,
+                                                    "name": "2.G.2.e  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 10433,
+                                            "name": "2.G.3  N2O from Product Uses",
+                                            "children": [
+                                                {
+                                                    "id": 8737,
+                                                    "name": "2.G.3.a  Medical Applications"
+                                                },
+                                                {
+                                                    "id": 9014,
+                                                    "name": "2.G.3.b  Other",
+                                                    "children": [
+                                                        {
+                                                            "id": 9201,
+                                                            "name": "Propellant for pressure and aerosol products"
+                                                        },
+                                                        {
+                                                            "id": 8566,
+                                                            "name": "Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8534,
+                                            "name": "2.G.4  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9899,
+                                    "name": "2.H  Other",
+                                    "children": [
+                                        {
+                                            "id": 8644,
+                                            "name": "2.H.1  Pulp and paper"
+                                        },
+                                        {
+                                            "id": 8797,
+                                            "name": "2.H.2  Food and beverages industry"
+                                        },
+                                        {
+                                            "id": 8883,
+                                            "name": "2.H.3  Other"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10096,
+                            "name": "3.  Agriculture",
+                            "children": [
+                                {
+                                    "id": 9559,
+                                    "name": "3.A  Enteric Fermentation"
+                                },
+                                {
+                                    "id": 9608,
+                                    "name": "3.B  Manure Management"
+                                },
+                                {
+                                    "id": 10228,
+                                    "name": "3.C  Rice Cultivation",
+                                    "children": [
+                                        {
+                                            "id": 9960,
+                                            "name": "3.C.1  Irrigated",
+                                            "children": [
+                                                {
+                                                    "id": 10315,
+                                                    "name": "3.C.1.1  Continuously Flooded"
+                                                },
+                                                {
+                                                    "id": 8915,
+                                                    "name": "3.C.1.2  Intermittently Flooded",
+                                                    "children": [
+                                                        {
+                                                            "id": 9184,
+                                                            "name": "3.C.1.2.1  Single Aeration"
+                                                        },
+                                                        {
+                                                            "id": 10065,
+                                                            "name": "3.C.1.2.2  Multiple aeration"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8984,
+                                            "name": "3.C.2  Rainfed",
+                                            "children": [
+                                                {
+                                                    "id": 9942,
+                                                    "name": "3.C.2.1  Flood Prone"
+                                                },
+                                                {
+                                                    "id": 8941,
+                                                    "name": "3.C.2.2  Drought Prone"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9094,
+                                            "name": "3.C.3  Deep Water",
+                                            "children": [
+                                                {
+                                                    "id": 8995,
+                                                    "name": "3.C.3.1  Water Depth 50-100 cm"
+                                                },
+                                                {
+                                                    "id": 8373,
+                                                    "name": "3.C.3.2  Water Depth > 100 cm"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8747,
+                                            "name": "3.C.4  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9678,
+                                    "name": "3.D  Agricultural Soils",
+                                    "children": [
+                                        {
+                                            "id": 9087,
+                                            "name": "3.D.A  Direct N2O Emissions From Managed Soils",
+                                            "children": [
+                                                {
+                                                    "id": 9566,
+                                                    "name": "3.D.1.1  Inorganic N Fertilizers"
+                                                },
+                                                {
+                                                    "id": 9523,
+                                                    "name": "3.D.1.2  Organic N Fertilizers",
+                                                    "children": [
+                                                        {
+                                                            "id": 8365,
+                                                            "name": "3.D.1.2.a  Animal Manure Applied to Soils"
+                                                        },
+                                                        {
+                                                            "id": 8482,
+                                                            "name": "3.D.1.2.b  Sewage Sludge Applied to Soils"
+                                                        },
+                                                        {
+                                                            "id": 8218,
+                                                            "name": "3.D.1.2.c  Other Organic Fertilizers Applied to Soils"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 9041,
+                                                    "name": "3.D.1.3  Urine and Dung Deposited by Grazing Animals"
+                                                },
+                                                {
+                                                    "id": 10142,
+                                                    "name": "3.D.1.4  Crop Residues"
+                                                },
+                                                {
+                                                    "id": 9302,
+                                                    "name": "3.D.1.5  Mineralization/Immobilization Associated with Loss/Gain of Soil Organic Matter"
+                                                },
+                                                {
+                                                    "id": 10437,
+                                                    "name": "3.D.1.6  Cultivation of Organic Soils"
+                                                },
+                                                {
+                                                    "id": 8502,
+                                                    "name": "3.D.1.7  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8920,
+                                            "name": "3.D.B  Indirect N2O Emissions From Managed Soils",
+                                            "children": [
+                                                {
+                                                    "id": 9821,
+                                                    "name": "3.D.2.1  Atmospheric Deposition"
+                                                },
+                                                {
+                                                    "id": 9875,
+                                                    "name": "3.D.2.2  Nitrogen Leaching and Run-off"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 10322,
+                                    "name": "3.E  Prescribed Burning of Savannas",
+                                    "children": [
+                                        {
+                                            "id": 9488,
+                                            "name": "Forest land (specify ecological zone)"
+                                        },
+                                        {
+                                            "id": 9970,
+                                            "name": "Grassland (specify ecological zone)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8783,
+                                    "name": "3.F  Field Burning of Agricultural Residues",
+                                    "children": [
+                                        {
+                                            "id": 10305,
+                                            "name": "3.F.1  Cereals",
+                                            "children": [
+                                                {
+                                                    "id": 8669,
+                                                    "name": "3.F.1.1  Wheat"
+                                                },
+                                                {
+                                                    "id": 10193,
+                                                    "name": "3.F.1.2  Barley"
+                                                },
+                                                {
+                                                    "id": 8990,
+                                                    "name": "3.F.1.3  Maize"
+                                                },
+                                                {
+                                                    "id": 9507,
+                                                    "name": "3.F.1.4  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9749,
+                                            "name": "3.F.2  Pulses",
+                                            "children": [
+                                                {
+                                                    "id": 8535,
+                                                    "name": "3.F.2.1  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 9142,
+                                            "name": "3.F.3  Tubers and Roots",
+                                            "children": [
+                                                {
+                                                    "id": 8913,
+                                                    "name": "3.F.3.1  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 10387,
+                                            "name": "3.F.4  Sugar Cane"
+                                        },
+                                        {
+                                            "id": 10336,
+                                            "name": "3.F.5  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8278,
+                                    "name": "3.G  Liming",
+                                    "children": [
+                                        {
+                                            "id": 8504,
+                                            "name": "3.G.1  Limestone CaCO3"
+                                        },
+                                        {
+                                            "id": 8267,
+                                            "name": "3.G.2  Dolomite CaMg(CO3)2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9927,
+                                    "name": "3.H  Urea Application"
+                                },
+                                {
+                                    "id": 8417,
+                                    "name": "3.I  Other Carbon-containing Fertilizers"
+                                },
+                                {
+                                    "id": 10025,
+                                    "name": "3.J  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9411,
+                            "name": "4.  Land Use, Land-Use Change and Forestry",
+                            "children": [
+                                {
+                                    "id": 10121,
+                                    "name": "4.A  Forest Land",
+                                    "children": [
+                                        {
+                                            "id": 8348,
+                                            "name": "4.A.1  Forest Land Remaining Forest Land"
+                                        },
+                                        {
+                                            "id": 8416,
+                                            "name": "4.A.2  Land Converted to Forest Land",
+                                            "children": [
+                                                {
+                                                    "id": 9741,
+                                                    "name": "4.A.2.1  Cropland Converted to Forest Land"
+                                                },
+                                                {
+                                                    "id": 9851,
+                                                    "name": "4.A.2.2  Grassland Converted to Forest Land"
+                                                },
+                                                {
+                                                    "id": 9306,
+                                                    "name": "4.A.2.3  Wetlands Converted to Forest Land"
+                                                },
+                                                {
+                                                    "id": 10297,
+                                                    "name": "4.A.2.4  Settlements Converted to Forest Land"
+                                                },
+                                                {
+                                                    "id": 8735,
+                                                    "name": "4.A.2.5  Other Land Converted to Forest Land"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9805,
+                                    "name": "4.B  Cropland",
+                                    "children": [
+                                        {
+                                            "id": 10430,
+                                            "name": "4.B.1  Cropland Remaining Cropland"
+                                        },
+                                        {
+                                            "id": 8678,
+                                            "name": "4.B.2  Land Converted to Cropland",
+                                            "children": [
+                                                {
+                                                    "id": 9799,
+                                                    "name": "4.B.2.1  Forest Land Converted to Cropland"
+                                                },
+                                                {
+                                                    "id": 9491,
+                                                    "name": "4.B.2.2  Grassland Converted to Cropland"
+                                                },
+                                                {
+                                                    "id": 10450,
+                                                    "name": "4.B.2.3  Wetlands Converted to Cropland"
+                                                },
+                                                {
+                                                    "id": 8709,
+                                                    "name": "4.B.2.4  Settlements Converted to Cropland"
+                                                },
+                                                {
+                                                    "id": 9560,
+                                                    "name": "4.B.2.5  Other Land Converted to Cropland"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8849,
+                                    "name": "4.C  Grassland",
+                                    "children": [
+                                        {
+                                            "id": 9360,
+                                            "name": "4.C.1  Grassland Remaining Grassland"
+                                        },
+                                        {
+                                            "id": 8259,
+                                            "name": "4.C.2  Land Converted to Grassland",
+                                            "children": [
+                                                {
+                                                    "id": 9405,
+                                                    "name": "4.C.2.1  Forest Land Converted to Grassland"
+                                                },
+                                                {
+                                                    "id": 9966,
+                                                    "name": "4.C.2.2  Cropland Converted to Grassland"
+                                                },
+                                                {
+                                                    "id": 10323,
+                                                    "name": "4.C.2.3  Wetlands Converted to Grassland"
+                                                },
+                                                {
+                                                    "id": 9444,
+                                                    "name": "4.C.2.4  Settlements Converted to Grassland"
+                                                },
+                                                {
+                                                    "id": 10189,
+                                                    "name": "4.C.2.5  Other Land Converted to Grassland"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9897,
+                                    "name": "4.D  Wetlands",
+                                    "children": [
+                                        {
+                                            "id": 9154,
+                                            "name": "4.D.1  Wetlands Remaining Wetlands",
+                                            "children": [
+                                                {
+                                                    "id": 10156,
+                                                    "name": "4.D.1.1  Peat Extraction Remaining Peat Extraction"
+                                                },
+                                                {
+                                                    "id": 9151,
+                                                    "name": "4.D.1.2  Flooded Land Remaining Flooded Land"
+                                                },
+                                                {
+                                                    "id": 8307,
+                                                    "name": "4.D.1.3  Other Wetlands Remaining Other Wetlands"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8232,
+                                            "name": "4.D.2  Land Converted to Wetlands"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 10314,
+                                    "name": "4.E  Settlements",
+                                    "children": [
+                                        {
+                                            "id": 10132,
+                                            "name": "4.E.1  Settlements Remaining Settlements"
+                                        },
+                                        {
+                                            "id": 9506,
+                                            "name": "4.E.2  Land Converted to Settlements",
+                                            "children": [
+                                                {
+                                                    "id": 10183,
+                                                    "name": "4.E.2.1  Forest Land Converted to Settlements"
+                                                },
+                                                {
+                                                    "id": 9914,
+                                                    "name": "4.E.2.2  Cropland Converted to Settlements"
+                                                },
+                                                {
+                                                    "id": 10026,
+                                                    "name": "4.E.2.3  Grassland Converted to Settlements"
+                                                },
+                                                {
+                                                    "id": 8465,
+                                                    "name": "4.E.2.4  Wetlands Converted to Settlements"
+                                                },
+                                                {
+                                                    "id": 9857,
+                                                    "name": "4.E.2.5  Other Land Converted to Settlements"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8288,
+                                    "name": "4.F  Other Land",
+                                    "children": [
+                                        {
+                                            "id": 8343,
+                                            "name": "4.F.2  Land Converted to Other Land",
+                                            "children": [
+                                                {
+                                                    "id": 8488,
+                                                    "name": "4.F.2.1  Forest Land Converted to Other Land"
+                                                },
+                                                {
+                                                    "id": 8234,
+                                                    "name": "4.F.2.2  Cropland Converted to Other Land"
+                                                },
+                                                {
+                                                    "id": 8574,
+                                                    "name": "4.F.2.3  Grassland Converted  to Other Land"
+                                                },
+                                                {
+                                                    "id": 10371,
+                                                    "name": "4.F.2.4  Wetlands Converted to Other Land"
+                                                },
+                                                {
+                                                    "id": 9019,
+                                                    "name": "4.F.2.5  Settlements Converted to Other Land"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9133,
+                                    "name": "4.G  Harvested Wood Products"
+                                },
+                                {
+                                    "id": 9158,
+                                    "name": "4.H  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10159,
+                            "name": "5.  Waste",
+                            "children": [
+                                {
+                                    "id": 9284,
+                                    "name": "5.A  Solid Waste Disposal",
+                                    "children": [
+                                        {
+                                            "id": 8477,
+                                            "name": "5.A.1  Managed Waste Disposal Sites",
+                                            "children": [
+                                                {
+                                                    "id": 9839,
+                                                    "name": "5.A.1.a  Anaerobic"
+                                                },
+                                                {
+                                                    "id": 9144,
+                                                    "name": "5.A.1.b  Semi-aerobic"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 10235,
+                                            "name": "5.A.2  Unmanaged Waste Disposal Sites"
+                                        },
+                                        {
+                                            "id": 8652,
+                                            "name": "5.A.3  Uncategorized Waste Disposal Sites"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9245,
+                                    "name": "5.B  Biological Treatment of Solid Waste",
+                                    "children": [
+                                        {
+                                            "id": 8701,
+                                            "name": "5.B.1  Composting",
+                                            "children": [
+                                                {
+                                                    "id": 9682,
+                                                    "name": "5.B.1.a  Municipal Solid Waste"
+                                                },
+                                                {
+                                                    "id": 8640,
+                                                    "name": "5.B.1.b  Other"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8225,
+                                            "name": "5.B.2  Anaerobic Digestion at Biogas Facilities",
+                                            "children": [
+                                                {
+                                                    "id": 9290,
+                                                    "name": "5.B.2.a  Municipal Solid Waste"
+                                                },
+                                                {
+                                                    "id": 9639,
+                                                    "name": "5.B.2.b  Other"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8227,
+                                    "name": "5.C  Incineration and Open Burning of Waste",
+                                    "children": [
+                                        {
+                                            "id": 10408,
+                                            "name": "5.C.1  Waste Incineration",
+                                            "children": [
+                                                {
+                                                    "id": 8776,
+                                                    "name": "5.C.1.1  Biogenic",
+                                                    "children": [
+                                                        {
+                                                            "id": 9069,
+                                                            "name": "5.C.1.1.a  Municipal Solid Waste"
+                                                        },
+                                                        {
+                                                            "id": 8401,
+                                                            "name": "5.C.1.1.b  Other",
+                                                            "children": [
+                                                                {
+                                                                    "id": 9141,
+                                                                    "name": "Clinical Waste"
+                                                                },
+                                                                {
+                                                                    "id": 9329,
+                                                                    "name": "Hazardous Waste"
+                                                                },
+                                                                {
+                                                                    "id": 8260,
+                                                                    "name": "Industrial Solid Wastes"
+                                                                },
+                                                                {
+                                                                    "id": 9538,
+                                                                    "name": "Sewage Sludge"
+                                                                },
+                                                                {
+                                                                    "id": 9218,
+                                                                    "name": "Other"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 9979,
+                                                    "name": "5.C.1.2  Non-biogenic",
+                                                    "children": [
+                                                        {
+                                                            "id": 10302,
+                                                            "name": "5.C.1.2.a  Municipal Solid Waste"
+                                                        },
+                                                        {
+                                                            "id": 9696,
+                                                            "name": "5.C.1.2.b  Other",
+                                                            "children": [
+                                                                {
+                                                                    "id": 10050,
+                                                                    "name": "Clinical Waste"
+                                                                },
+                                                                {
+                                                                    "id": 9730,
+                                                                    "name": "Fossil liquid waste"
+                                                                },
+                                                                {
+                                                                    "id": 9250,
+                                                                    "name": "Hazardous Waste"
+                                                                },
+                                                                {
+                                                                    "id": 8158,
+                                                                    "name": "Industrial Solid Wastes"
+                                                                },
+                                                                {
+                                                                    "id": 8619,
+                                                                    "name": "Sewage Sludge"
+                                                                },
+                                                                {
+                                                                    "id": 9649,
+                                                                    "name": "Other"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 8943,
+                                            "name": "5.C.2  Open Burning of Waste",
+                                            "children": [
+                                                {
+                                                    "id": 8825,
+                                                    "name": "5.C.2.1  Biogenic",
+                                                    "children": [
+                                                        {
+                                                            "id": 10182,
+                                                            "name": "5.C.2.1.a  Municipal Solid Waste"
+                                                        },
+                                                        {
+                                                            "id": 8772,
+                                                            "name": "5.C.2.1.b  Other"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 8910,
+                                                    "name": "5.C.2.2  Non-biogenic",
+                                                    "children": [
+                                                        {
+                                                            "id": 8768,
+                                                            "name": "5.C.2.2.a  Municipal Solid Waste"
+                                                        },
+                                                        {
+                                                            "id": 9181,
+                                                            "name": "5.C.2.2.b  Other"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8423,
+                                    "name": "5.D  Wastewater Treatment and Discharge",
+                                    "children": [
+                                        {
+                                            "id": 10391,
+                                            "name": "5.D.1  Domestic Wastewater"
+                                        },
+                                        {
+                                            "id": 9831,
+                                            "name": "5.D.2  Industrial Wastewater"
+                                        },
+                                        {
+                                            "id": 8153,
+                                            "name": "5.D.3  Other"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8284,
+                                    "name": "5.E  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10476,
+                            "name": "6.  Other"
+                        },
+                        {
+                            "id": 8869,
+                            "name": "Memo items",
+                            "children": [
+                                {
+                                    "id": 8564,
+                                    "name": "1.D.1  International Bunkers",
+                                    "children": [
+                                        {
+                                            "id": 10357,
+                                            "name": "1.D.1.a  International Aviation"
+                                        },
+                                        {
+                                            "id": 8828,
+                                            "name": "1.D.1.b  International Navigation"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8987,
+                                    "name": "1.D.2  Multilateral Operations"
+                                },
+                                {
+                                    "id": 8270,
+                                    "name": "1.D.3  CO2 Emissions from Biomass"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 10479,
+                    "name": "Total GHG emissions, including indirect CO2,  without LULUCF"
+                },
+                {
+                    "id": 10480,
+                    "name": "Total GHG emissions, including indirect CO2,  with LULUCF"
+                }
+            ]
+        }
+    ],
+    "nonAnnexOne": [
+        {
+            "id": 15164,
+            "name": "Totals",
+            "children": [
+                {
+                    "id": 15163,
+                    "name": "Total GHG emissions excluding LULUCF/LUCF",
+                    "children": [
+                        {
+                            "id": 14544,
+                            "name": "1.  Energy"
+                        },
+                        {
+                            "id": 14542,
+                            "name": "2.  Industrial Processes"
+                        },
+                        {
+                            "id": 14541,
+                            "name": "3.  Solvent and Other Product Use"
+                        },
+                        {
+                            "id": 14545,
+                            "name": "4.  Agriculture"
+                        },
+                        {
+                            "id": 14546,
+                            "name": "6.  Waste"
+                        },
+                        {
+                            "id": 14547,
+                            "name": "7.  Other"
+                        },
+                        {
+                            "id": 14568,
+                            "name": "Memo items"
+                        }
+                    ]
+                },
+                {
+                    "id": 24540,
+                    "name": "Total GHG emissions including LULUCF/LUCF",
+                    "children": [
+                        {
+                            "id": 24544,
+                            "name": "1.  Energy",
+                            "children": [
+                                {
+                                    "id": 14645,
+                                    "name": "1.A  Fuel Combustion - Sectoral Approach",
+                                    "children": [
+                                        {
+                                            "id": 14434,
+                                            "name": "1.A.1  Energy Industries"
+                                        },
+                                        {
+                                            "id": 14432,
+                                            "name": "1.A.2  Manufacturing Industries and Construction"
+                                        },
+                                        {
+                                            "id": 14435,
+                                            "name": "1.A.3  Transport"
+                                        },
+                                        {
+                                            "id": 14436,
+                                            "name": "1.A.4  Other Sectors"
+                                        },
+                                        {
+                                            "id": 14433,
+                                            "name": "1.A.5  Other (Not elsewhere specified)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 14569,
+                                    "name": "1.B  Fugitive Emissions from Fuels",
+                                    "children": [
+                                        {
+                                            "id": 14640,
+                                            "name": "1.B.1  Solid Fuels"
+                                        },
+                                        {
+                                            "id": 14641,
+                                            "name": "1.B.2  Oil and Natural Gas"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24542,
+                            "name": "2.  Industrial Processes",
+                            "children": [
+                                {
+                                    "id": 14553,
+                                    "name": "2.A  Mineral Products"
+                                },
+                                {
+                                    "id": 14558,
+                                    "name": "2.B  Chemical Industry"
+                                },
+                                {
+                                    "id": 14552,
+                                    "name": "2.C  Metal Production"
+                                },
+                                {
+                                    "id": 14556,
+                                    "name": "2.D  Other Production"
+                                },
+                                {
+                                    "id": 14557,
+                                    "name": "2.E  Production of Halocarbons and SF6"
+                                },
+                                {
+                                    "id": 14559,
+                                    "name": "2.F  Consumption of Halocarbons and SF6"
+                                },
+                                {
+                                    "id": 14554,
+                                    "name": "2.G  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24541,
+                            "name": "3.  Solvent and Other Product Use"
+                        },
+                        {
+                            "id": 24545,
+                            "name": "4.  Agriculture",
+                            "children": [
+                                {
+                                    "id": 14577,
+                                    "name": "4.A  Enteric Fermentation"
+                                },
+                                {
+                                    "id": 14571,
+                                    "name": "4.B  Manure Management"
+                                },
+                                {
+                                    "id": 14575,
+                                    "name": "4.C  Rice Cultivation"
+                                },
+                                {
+                                    "id": 14572,
+                                    "name": "4.D  Agricultural Soils"
+                                },
+                                {
+                                    "id": 14574,
+                                    "name": "4.E  Prescribed Burning of Savannas"
+                                },
+                                {
+                                    "id": 14573,
+                                    "name": "4.F  Field Burning of Agricultural Residues"
+                                },
+                                {
+                                    "id": 14576,
+                                    "name": "4.G  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24543,
+                            "name": "5.  LULUCF",
+                            "children": [
+                                {
+                                    "id": 14564,
+                                    "name": "5.A  Forest Land"
+                                },
+                                {
+                                    "id": 14561,
+                                    "name": "5.B  Cropland"
+                                },
+                                {
+                                    "id": 14560,
+                                    "name": "5.C  Grassland"
+                                },
+                                {
+                                    "id": 14566,
+                                    "name": "5.D  Wetlands"
+                                },
+                                {
+                                    "id": 14562,
+                                    "name": "5.E  Settlements"
+                                },
+                                {
+                                    "id": 14567,
+                                    "name": "5.F  Other Land"
+                                },
+                                {
+                                    "id": 14563,
+                                    "name": "5.G  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 25183,
+                            "name": "5bis  Land-Use Change and Forestry",
+                            "children": [
+                                {
+                                    "id": 15185,
+                                    "name": "5bis.A  Changes in Forest and Other Woody Biomass Stocks"
+                                },
+                                {
+                                    "id": 15184,
+                                    "name": "5bis.B  Forest and Grassland Conversion"
+                                },
+                                {
+                                    "id": 15188,
+                                    "name": "5bis.C  Abandonment of Managed Lands"
+                                },
+                                {
+                                    "id": 15187,
+                                    "name": "5bis.D  CO2 Emissions and Removals from Soil"
+                                },
+                                {
+                                    "id": 15186,
+                                    "name": "5bis.E  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24546,
+                            "name": "6.  Waste",
+                            "children": [
+                                {
+                                    "id": 14578,
+                                    "name": "6.A  Solid Waste Disposal on Land"
+                                },
+                                {
+                                    "id": 14579,
+                                    "name": "6.B  Wastewater Handling"
+                                },
+                                {
+                                    "id": 14580,
+                                    "name": "6.C  Waste Incineration"
+                                },
+                                {
+                                    "id": 14581,
+                                    "name": "6.D  Other"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24547,
+                            "name": "7.  Other"
+                        },
+                        {
+                            "id": 24568,
+                            "name": "Memo items",
+                            "children": [
+                                {
+                                    "id": 14638,
+                                    "name": "CO2 Emissions from Biomass"
+                                },
+                                {
+                                    "id": 14637,
+                                    "name": "International bunkers",
+                                    "children": [
+                                        {
+                                            "id": 14424,
+                                            "name": "Aviation"
+                                        },
+                                        {
+                                            "id": 14423,
+                                            "name": "Marine"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
