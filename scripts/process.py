@@ -59,8 +59,9 @@ for group in ["annex-one", "non-annex-one"]:
 
                 values = {}
                 values["Party"] = name
-                values["Parent Category"] = parent_category
-                values["Category"] = row["name"].replace("  ", " ")
+                values["Parent Category"] = parent_category.replace("_-_", "/")
+                values["Category"] = row["name"].replace(
+                  "  ", " ").replace("_-_", "/")
                 values["Gas"] = gas
                 if row["unitId"] is not None:
                     unit = units[row["unitId"]]
