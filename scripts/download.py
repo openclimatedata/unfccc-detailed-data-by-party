@@ -52,7 +52,7 @@ for group in ["annexOne", "nonAnnexOne"]:
                 print("Skipping (already exists): archive/{}: {}".format(
                     group, filename))
                 continue
-            print("archive/{}: {}".format(group, filename))
+            print("archive :: {} :: {}".format(group, filename))
             r = requests.get(url, params=params)
             if r.ok:
                 with open(fullpath, "w") as f:
