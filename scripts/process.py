@@ -35,7 +35,6 @@ df_columns = {
 }
 
 for group in ["annex-one", "non-annex-one"]:
-
     files = glob.glob(
         os.path.join(archivepath, group, "*.json")
     )
@@ -49,33 +48,34 @@ for group in ["annex-one", "non-annex-one"]:
 
         # Shorten e.g. "Last Inventory Year (2015)" to just the year
         index_keys = list(index.keys())
-        index[index_keys[-1]] = index[index_keys[-1]][-5:-1]
+        if index_keys:        
+            index[index_keys[-1]] = index[index_keys[-1]][-5:-1]
+            
+            parties = table["data"]
+            for party in parties:
+                name = party["name"]
+                rows = party["rows"]
+                for row in rows:
 
-        parties = table["data"]
-        for party in parties:
-            name = party["name"]
-            rows = party["rows"]
-            for row in rows:
-
-                values = {}
-                values["Party"] = name
-                values["Parent Category"] = parent_category.replace("_-_", "/")
-                values["Category"] = row["name"].replace(
-                  "  ", " ").replace("_-_", "/")
-                values["Gas"] = gas
-                if row["unitId"] is not None:
-                    unit = units[row["unitId"]]
-                else:
-                    unit = None
-
-                values["Unit"] = unit
-                for cell in row["cells"]:
-                    if "numberValue" in cell:
-                        values[index[cell["column"]]] = cell["numberValue"]
+                    values = {}
+                    values["Party"] = name
+                    values["Parent Category"] = parent_category.replace("_-_", "/")
+                    values["Category"] = row["name"].replace(
+                      "  ", " ").replace("_-_", "/")
+                    values["Gas"] = gas
+                    if row["unitId"] is not None:
+                        unit = units[row["unitId"]]
                     else:
-                        values[index[cell["column"]]] = None
+                        unit = None
 
-                data.append(values)
+                    values["Unit"] = unit
+                    for cell in row["cells"]:
+                        if "numberValue" in cell:
+                            values[index[cell["column"]]] = cell["numberValue"]
+                        else:
+                            values[index[cell["column"]]] = None
+
+                    data.append(values)
 
     df = pd.DataFrame(data)
     df = df[df_columns[group]]
