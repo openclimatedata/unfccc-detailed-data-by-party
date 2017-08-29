@@ -46,11 +46,12 @@ for group in ["annex-one", "non-annex-one"]:
         table = json.load(open(filename))
         index = {i["id"]: i["name"] for i in table["columns"]}
 
-        # Shorten e.g. "Last Inventory Year (2015)" to just the year
-        index_keys = list(index.keys())
-        if index_keys:        
+        # Skip empty category/gas combinations.
+        if len(index) > 0:
+            # Shorten e.g. "Last Inventory Year (2015)" to just the year
+            index_keys = list(index.keys())
             index[index_keys[-1]] = index[index_keys[-1]][-5:-1]
-            
+
             parties = table["data"]
             for party in parties:
                 name = party["name"]
