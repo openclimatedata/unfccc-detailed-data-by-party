@@ -221,7 +221,8 @@
             },
             {
                 "id": 67,
-                "name": "Andorra"
+                "name": "Andorra",
+                "noData": true
             },
             {
                 "id": 68,
@@ -389,7 +390,8 @@
             },
             {
                 "id": 109,
-                "name": "Equatorial Guinea"
+                "name": "Equatorial Guinea",
+                "noData": true
             },
             {
                 "id": 110,
@@ -461,7 +463,8 @@
             },
             {
                 "id": 127,
-                "name": "Iraq"
+                "name": "Iraq",
+                "noData": true
             },
             {
                 "id": 128,
@@ -509,7 +512,8 @@
             },
             {
                 "id": 140,
-                "name": "Libya"
+                "name": "Libya",
+                "noData": true
             },
             {
                 "id": 141,
@@ -705,7 +709,8 @@
             },
             {
                 "id": 189,
-                "name": "Somalia"
+                "name": "Somalia",
+                "noData": true
             },
             {
                 "id": 190,
@@ -713,7 +718,8 @@
             },
             {
                 "id": 191,
-                "name": "South Sudan"
+                "name": "South Sudan",
+                "noData": true
             },
             {
                 "id": 192,
