@@ -10,17 +10,23 @@ _path = os.path.join(
 party_groups = json.load(open(os.path.join(_path, "parties.json")))
 
 parties = {}
+no_data = []
 # Annex I
 parties["annexOne"] = {}
 assert(party_groups[1]["name"] == "Annex I")
 for party in party_groups[1]["parties"]:
     parties["annexOne"][party["name"]] = party["id"]
+    if "noData" in party.keys():
+        no_data.append(party["name"])
 
 # Non Annex I
 parties["nonAnnexOne"] = {}
 assert(party_groups[2]["name"] == "Non Annex I")
 for party in party_groups[2]["parties"]:
     parties["nonAnnexOne"][party["name"]] = party["id"]
+    if "noData" in party.keys():
+        no_data.append(party["name"])
+
 
 # Year Ids, see years.json
 # zero is base year; 1990 is 32
