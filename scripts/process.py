@@ -6,7 +6,7 @@ import os
 
 import pandas as pd
 
-from mappings import *
+from mappings import units
 
 
 path = os.path.dirname(os.path.realpath(__file__))
@@ -60,9 +60,10 @@ for group in ["annex-one", "non-annex-one"]:
 
                     values = {}
                     values["Party"] = name
-                    values["Parent Category"] = parent_category.replace("_-_", "/")
+                    values["Parent Category"] = parent_category.replace(
+                        "_-_", "/")
                     values["Category"] = row["name"].replace(
-                      "  ", " ").replace("_-_", "/")
+                        "  ", " ").replace("_-_", "/")
                     values["Gas"] = gas
                     if row["unitId"] is not None:
                         unit = units[row["unitId"]]
@@ -87,4 +88,3 @@ for group in ["annex-one", "non-annex-one"]:
         ["Party", "Parent Category", "Category", "Gas", "Unit"]).sort_index()
     print("=> ", csv_paths[group])
     filtered.to_csv(csv_paths[group])
-

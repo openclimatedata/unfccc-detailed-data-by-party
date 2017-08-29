@@ -25,7 +25,7 @@ for party in party_groups[2]["parties"]:
 # Year Ids, see years.json
 # zero is base year; 1990 is 32
 years = {}
-years["annexOne"] = [0]+ list(range(32, 58))
+years["annexOne"] = [0] + list(range(32, 58))
 years["nonAnnexOne"] = list(range(32, 58))
 
 # Category Ids
@@ -37,4 +37,3 @@ gases = json.load(open(os.path.join(_path, "gases.json")))
 # Conversion
 _units = json.load(open(os.path.join(_path, "conversion.json")))["units"]
 units = {item["id"]: item["name"] for item in _units}
-

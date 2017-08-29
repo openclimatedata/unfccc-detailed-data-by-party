@@ -1,11 +1,8 @@
-#!/usr/env/bin python3
-
-import json
 import os
 
 import requests
 
-from mappings import *
+from mappings import categories, gases, parties, years
 
 path = os.path.dirname(os.path.realpath(__file__))
 outpath = {
@@ -14,6 +11,7 @@ outpath = {
 }
 
 url = "http://di.unfccc.int/api/records/detail-by-category"
+
 
 def get_children(items, parent=None):
     all_categories = []
