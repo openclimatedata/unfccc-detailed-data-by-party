@@ -5,19 +5,19 @@ Detailed Data By Party
 
 Run
 
-```
+```shell
 make mappings
 ```
 
 to download category and group mappings,
 
-```
+```shell
 make download
 ```
 
 to download the data as JSON files and
 
-```
+```shell
 make process
 ```
 
