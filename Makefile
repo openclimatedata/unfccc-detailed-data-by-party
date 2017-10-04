@@ -16,6 +16,9 @@ venv: scripts/requirements.txt
 	touch venv
 
 clean:
-	rm -rf data/*.csv venv
+	rm -rf data/*.csv archive/annex-one/* archive/non-annex-one/*
+
+clean-venv:
+	rm -rf venv
 
 .PHONY: clean download mappings
