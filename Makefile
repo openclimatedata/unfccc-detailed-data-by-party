@@ -16,7 +16,8 @@ venv: scripts/requirements.txt
 	touch venv
 
 clean:
-	rm -rf data/*.csv archive/annex-one/* archive/non-annex-one/*
+	rm -rf data/*.csv
+	find archive -name "*.json" -print0 | xargs -0 rm
 
 clean-venv:
 	rm -rf venv
