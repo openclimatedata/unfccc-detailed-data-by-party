@@ -22,7 +22,7 @@
             "gasId": 10466,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10466,
@@ -70,7 +70,7 @@
             "gasId": 10467,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10467,
@@ -136,13 +136,13 @@
             "gasId": 10468,
             "unitFromId": 4,
             "unitToId": 144,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10468,
             "unitFromId": 4,
             "unitToId": 145,
-            "factor": 2.4999999999999996e-08
+            "factor": 2.5000000000000002e-08
         },
         {
             "gasId": 10468,
@@ -232,13 +232,13 @@
             "gasId": 10468,
             "unitFromId": 96,
             "unitToId": 144,
-            "factor": 3.999999999999999e-11
+            "factor": 4.0000000000000004e-11
         },
         {
             "gasId": 10468,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10468,
@@ -310,7 +310,7 @@
             "gasId": 10469,
             "unitFromId": 4,
             "unitToId": 144,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10469,
@@ -358,7 +358,7 @@
             "gasId": 10469,
             "unitFromId": 96,
             "unitToId": 144,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10469,
@@ -406,7 +406,7 @@
             "gasId": 10470,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10470,
@@ -472,13 +472,13 @@
             "gasId": 10471,
             "unitFromId": 4,
             "unitToId": 144,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10471,
             "unitFromId": 4,
             "unitToId": 145,
-            "factor": 2.9799999999999994e-07
+            "factor": 2.98e-07
         },
         {
             "gasId": 10471,
@@ -568,13 +568,13 @@
             "gasId": 10471,
             "unitFromId": 96,
             "unitToId": 144,
-            "factor": 3.3557046979865768e-12
+            "factor": 3.3557046979865776e-12
         },
         {
             "gasId": 10471,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10471,
@@ -664,13 +664,13 @@
             "gasId": 10472,
             "unitFromId": 4,
             "unitToId": 144,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10472,
             "unitFromId": 4,
             "unitToId": 145,
-            "factor": 1.7199999999999998e-05
+            "factor": 1.72e-05
         },
         {
             "gasId": 10472,
@@ -760,13 +760,13 @@
             "gasId": 10472,
             "unitFromId": 96,
             "unitToId": 144,
-            "factor": 5.813953488372092e-14
+            "factor": 5.813953488372094e-14
         },
         {
             "gasId": 10472,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10472,
@@ -838,7 +838,7 @@
             "gasId": 10473,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10473,
@@ -904,13 +904,13 @@
             "gasId": 10474,
             "unitFromId": 4,
             "unitToId": 144,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10474,
             "unitFromId": 4,
             "unitToId": 145,
-            "factor": 2.2799999999999995e-05
+            "factor": 2.2800000000000002e-05
         },
         {
             "gasId": 10474,
@@ -1000,13 +1000,13 @@
             "gasId": 10474,
             "unitFromId": 96,
             "unitToId": 144,
-            "factor": 4.385964912280701e-14
+            "factor": 4.385964912280702e-14
         },
         {
             "gasId": 10474,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10474,
@@ -1078,7 +1078,7 @@
             "gasId": 10475,
             "unitFromId": 96,
             "unitToId": 145,
-            "factor": 9.999999999999999e-10
+            "factor": 1e-09
         },
         {
             "gasId": 10475,

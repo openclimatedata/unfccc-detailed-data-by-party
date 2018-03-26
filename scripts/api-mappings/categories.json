@@ -10,25 +10,36 @@
                     "children": [
                         {
                             "id": 10481,
-                            "name": "1.  Energy"
+                            "name": "1.  Energy",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 10482,
-                            "name": "2.  Industrial Processes and Product Use"
+                            "name": "2.  Industrial Processes and Product Use",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 10483,
-                            "name": "3.  Agriculture"
+                            "name": "3.  Agriculture",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 10484,
-                            "name": "5.  Waste"
+                            "name": "5.  Waste",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 10485,
-                            "name": "6.  Other"
+                            "name": "6.  Other",
+                            "children": null,
+                            "hideCharts": null
                         }
-                    ]
+                    ],
+                    "hideCharts": null
                 },
                 {
                     "id": 8677,
@@ -52,25 +63,36 @@
                                                     "children": [
                                                         {
                                                             "id": 8616,
-                                                            "name": "1.A.1.a.i  Electricity Generation"
+                                                            "name": "1.A.1.a.i  Electricity Generation",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9614,
-                                                            "name": "1.A.1.a.ii  Combined heat and power generation"
+                                                            "name": "1.A.1.a.ii  Combined heat and power generation",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9971,
-                                                            "name": "1.A.1.a.iii  Heat plants"
+                                                            "name": "1.A.1.a.iii  Heat plants",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8368,
-                                                            "name": "1.A.1.a.iv  Other"
+                                                            "name": "1.A.1.a.iv  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9771,
-                                                    "name": "1.A.1.b  Petroleum Refining"
+                                                    "name": "1.A.1.b  Petroleum Refining",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9004,
@@ -78,23 +100,33 @@
                                                     "children": [
                                                         {
                                                             "id": 10306,
-                                                            "name": "1.A.1.c.i  Manufacture of solid fuels"
+                                                            "name": "1.A.1.c.i  Manufacture of solid fuels",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10425,
-                                                            "name": "1.A.1.c.ii  Oil and gas extraction"
+                                                            "name": "1.A.1.c.ii  Oil and gas extraction",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8335,
-                                                            "name": "1.A.1.c.iii  Other energy industries"
+                                                            "name": "1.A.1.c.iii  Other energy industries",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8656,
-                                                            "name": "1.A.1.c.iv  Other"
+                                                            "name": "1.A.1.c.iv  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8556,
@@ -102,27 +134,39 @@
                                             "children": [
                                                 {
                                                     "id": 10329,
-                                                    "name": "1.A.2.a  Iron and Steel"
+                                                    "name": "1.A.2.a  Iron and Steel",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9859,
-                                                    "name": "1.A.2.b  Non-Ferrous Metals"
+                                                    "name": "1.A.2.b  Non-Ferrous Metals",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9369,
-                                                    "name": "1.A.2.c  Chemicals"
+                                                    "name": "1.A.2.c  Chemicals",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10119,
-                                                    "name": "1.A.2.d  Pulp, Paper and Print"
+                                                    "name": "1.A.2.d  Pulp, Paper and Print",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8321,
-                                                    "name": "1.A.2.e  Food Processing, Beverages and Tobacco"
+                                                    "name": "1.A.2.e  Food Processing, Beverages and Tobacco",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8876,
-                                                    "name": "1.A.2.f  Non-metallic Minerals"
+                                                    "name": "1.A.2.f  Non-metallic Minerals",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9832,
@@ -130,39 +174,57 @@
                                                     "children": [
                                                         {
                                                             "id": 10308,
-                                                            "name": "1.A.2.g.i  Manufacturing of machinery"
+                                                            "name": "1.A.2.g.i  Manufacturing of machinery",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10150,
-                                                            "name": "1.A.2.g.ii  Manufacturing of transport equipment"
+                                                            "name": "1.A.2.g.ii  Manufacturing of transport equipment",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8527,
-                                                            "name": "1.A.2.g.iii  Mining (excluding fuels) and quarrying"
+                                                            "name": "1.A.2.g.iii  Mining (excluding fuels) and quarrying",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8424,
-                                                            "name": "1.A.2.g.iv  Wood and wood products"
+                                                            "name": "1.A.2.g.iv  Wood and wood products",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10287,
-                                                            "name": "1.A.2.g.v  Construction"
+                                                            "name": "1.A.2.g.v  Construction",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8721,
-                                                            "name": "1.A.2.g.vi  Textile and leather"
+                                                            "name": "1.A.2.g.vi  Textile and leather",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8587,
-                                                            "name": "1.A.2.g.vii  Off-road vehicles and other machinery"
+                                                            "name": "1.A.2.g.vii  Off-road vehicles and other machinery",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8794,
-                                                            "name": "1.A.2.g.viii  Other"
+                                                            "name": "1.A.2.g.viii  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8322,
@@ -170,7 +232,9 @@
                                             "children": [
                                                 {
                                                     "id": 10419,
-                                                    "name": "1.A.3.a  Domestic Aviation"
+                                                    "name": "1.A.3.a  Domestic Aviation",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9607,
@@ -178,33 +242,48 @@
                                                     "children": [
                                                         {
                                                             "id": 9279,
-                                                            "name": "1.A.3.b.i  Cars"
+                                                            "name": "1.A.3.b.i  Cars",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9702,
-                                                            "name": "1.A.3.b.ii  Light duty trucks"
+                                                            "name": "1.A.3.b.ii  Light duty trucks",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8358,
-                                                            "name": "1.A.3.b.iii  Heavy duty trucks and buses"
+                                                            "name": "1.A.3.b.iii  Heavy duty trucks and buses",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9622,
-                                                            "name": "1.A.3.b.iv  Motorcycles"
+                                                            "name": "1.A.3.b.iv  Motorcycles",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9083,
-                                                            "name": "1.A.3.b.v  Other"
+                                                            "name": "1.A.3.b.v  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8924,
-                                                    "name": "1.A.3.c  Railways"
+                                                    "name": "1.A.3.c  Railways",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9670,
-                                                    "name": "1.A.3.d  Domestic Navigation"
+                                                    "name": "1.A.3.d  Domestic Navigation",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8456,
@@ -212,15 +291,21 @@
                                                     "children": [
                                                         {
                                                             "id": 9504,
-                                                            "name": "1.A.3.e.i  Pipeline Transport"
+                                                            "name": "1.A.3.e.i  Pipeline Transport",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9935,
-                                                            "name": "1.A.3.e.ii  Other"
+                                                            "name": "1.A.3.e.ii  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9815,
@@ -232,17 +317,24 @@
                                                     "children": [
                                                         {
                                                             "id": 8216,
-                                                            "name": "1.A.4.a.i  Stationary combustion"
+                                                            "name": "1.A.4.a.i  Stationary combustion",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8251,
-                                                            "name": "1.A.4.a.ii  Off-road vehicles and other machinery"
+                                                            "name": "1.A.4.a.ii  Off-road vehicles and other machinery",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8223,
-                                                            "name": "1.A.4.a.iii  Other"
+                                                            "name": "1.A.4.a.iii  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9823,
@@ -250,17 +342,24 @@
                                                     "children": [
                                                         {
                                                             "id": 8609,
-                                                            "name": "1.A.4.b.i  Stationary combustion"
+                                                            "name": "1.A.4.b.i  Stationary combustion",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10435,
-                                                            "name": "1.A.4.b.ii  Off-road vehicles and other machinery"
+                                                            "name": "1.A.4.b.ii  Off-road vehicles and other machinery",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8632,
-                                                            "name": "1.A.4.b.iii  Other"
+                                                            "name": "1.A.4.b.iii  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8554,
@@ -268,19 +367,27 @@
                                                     "children": [
                                                         {
                                                             "id": 8364,
-                                                            "name": "1.A.4.c.i  Stationary"
+                                                            "name": "1.A.4.c.i  Stationary",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10080,
-                                                            "name": "1.A.4.c.ii  Off-road vehicles and other machinery"
+                                                            "name": "1.A.4.c.ii  Off-road vehicles and other machinery",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9812,
-                                                            "name": "1.A.4.c.iii  Fishing"
+                                                            "name": "1.A.4.c.iii  Fishing",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10273,
@@ -288,23 +395,33 @@
                                             "children": [
                                                 {
                                                     "id": 9861,
-                                                    "name": "1.A.5.a  Stationary"
+                                                    "name": "1.A.5.a  Stationary",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9101,
-                                                    "name": "1.A.5.b  Mobile"
+                                                    "name": "1.A.5.b  Mobile",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8533,
-                                    "name": "1.AB  Fuel Combustion - Reference Approach"
+                                    "name": "1.AB  Fuel Combustion - Reference Approach",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8731,
-                                    "name": "1.AD  Feedstocks, reductants and other non-energy use of fuels"
+                                    "name": "1.AD  Feedstocks, reductants and other non-energy use of fuels",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9374,
@@ -324,17 +441,24 @@
                                                             "children": [
                                                                 {
                                                                     "id": 9933,
-                                                                    "name": "1.B.1.a.1.i  Mining Activities"
+                                                                    "name": "1.B.1.a.1.i  Mining Activities",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9427,
-                                                                    "name": "1.B.1.a.1.ii  Post-Mining Activities"
+                                                                    "name": "1.B.1.a.1.ii  Post-Mining Activities",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 8211,
-                                                                    "name": "1.B.1.a.1.iii  Abandoned Underground Mines"
+                                                                    "name": "1.B.1.a.1.iii  Abandoned Underground Mines",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8573,
@@ -342,25 +466,36 @@
                                                             "children": [
                                                                 {
                                                                     "id": 10282,
-                                                                    "name": "1.B.1.a.2.i  Mining Activities"
+                                                                    "name": "1.B.1.a.2.i  Mining Activities",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9601,
-                                                                    "name": "1.B.1.a.2.ii  Post-Mining Activities"
+                                                                    "name": "1.B.1.a.2.ii  Post-Mining Activities",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8300,
-                                                    "name": "1.B.1.b  Solid Fuel Transformation"
+                                                    "name": "1.B.1.b  Solid Fuel Transformation",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8964,
-                                                    "name": "1.B.1.c  Other"
+                                                    "name": "1.B.1.c  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8806,
@@ -372,29 +507,42 @@
                                                     "children": [
                                                         {
                                                             "id": 8165,
-                                                            "name": "1.B.2.a.1  Exploration"
+                                                            "name": "1.B.2.a.1  Exploration",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10078,
-                                                            "name": "1.B.2.a.2  Production"
+                                                            "name": "1.B.2.a.2  Production",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9550,
-                                                            "name": "1.B.2.a.3  Transport"
+                                                            "name": "1.B.2.a.3  Transport",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9891,
-                                                            "name": "1.B.2.a.4  Refining / Storage"
+                                                            "name": "1.B.2.a.4  Refining / Storage",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8371,
-                                                            "name": "1.B.2.a.5  Distribution of Oil Products"
+                                                            "name": "1.B.2.a.5  Distribution of Oil Products",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8228,
-                                                            "name": "1.B.2.a.6  Other"
+                                                            "name": "1.B.2.a.6  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8493,
@@ -402,29 +550,42 @@
                                                     "children": [
                                                         {
                                                             "id": 9314,
-                                                            "name": "1.B.2.b.1  Exploration"
+                                                            "name": "1.B.2.b.1  Exploration",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8474,
-                                                            "name": "1.B.2.b.2  Production"
+                                                            "name": "1.B.2.b.2  Production",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9999,
-                                                            "name": "1.B.2.b.3  Processing"
+                                                            "name": "1.B.2.b.3  Processing",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9902,
-                                                            "name": "1.B.2.b.4  Transmission and storage"
+                                                            "name": "1.B.2.b.4  Transmission and storage",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9728,
-                                                            "name": "1.B.2.b.5  Distribution"
+                                                            "name": "1.B.2.b.5  Distribution",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9974,
-                                                            "name": "1.B.2.b.6  Other"
+                                                            "name": "1.B.2.b.6  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8333,
@@ -436,17 +597,24 @@
                                                             "children": [
                                                                 {
                                                                     "id": 9827,
-                                                                    "name": "1.B.2.c.1.i  Oil"
+                                                                    "name": "1.B.2.c.1.i  Oil",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 10239,
-                                                                    "name": "1.B.2.c.1.ii  Gas"
+                                                                    "name": "1.B.2.c.1.ii  Gas",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 8576,
-                                                                    "name": "1.B.2.c.1.iii  Combined"
+                                                                    "name": "1.B.2.c.1.iii  Combined",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10392,
@@ -454,27 +622,39 @@
                                                             "children": [
                                                                 {
                                                                     "id": 9210,
-                                                                    "name": "1.B.2.c.2.i  Oil"
+                                                                    "name": "1.B.2.c.2.i  Oil",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 8904,
-                                                                    "name": "1.B.2.c.2.ii  Gas"
+                                                                    "name": "1.B.2.c.2.ii  Gas",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9824,
-                                                                    "name": "1.B.2.c.2.iii  Combined"
+                                                                    "name": "1.B.2.c.2.iii  Combined",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9077,
-                                                    "name": "1.B.2.d  Other"
+                                                    "name": "1.B.2.d  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9070,
@@ -486,17 +666,24 @@
                                             "children": [
                                                 {
                                                     "id": 9769,
-                                                    "name": "Pipelines"
+                                                    "name": "1.C.1.a  Pipelines",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10197,
-                                                    "name": "Ships"
+                                                    "name": "1.C.1.b  Ships",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9366,
-                                                    "name": "Other"
+                                                    "name": "1.C.1.c  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9474,
@@ -504,21 +691,30 @@
                                             "children": [
                                                 {
                                                     "id": 8741,
-                                                    "name": "Injection"
+                                                    "name": "1.C.2.a  Injection",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10333,
-                                                    "name": "Storage"
+                                                    "name": "1.C.2.b  Storage",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9330,
-                                            "name": "Other"
+                                            "name": "1.C.3  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 10393,
@@ -530,15 +726,21 @@
                                     "children": [
                                         {
                                             "id": 8787,
-                                            "name": "2.A.1  Cement Production"
+                                            "name": "2.A.1  Cement Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8702,
-                                            "name": "2.A.2  Lime Production"
+                                            "name": "2.A.2  Lime Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8579,
-                                            "name": "2.A.3  Glass production"
+                                            "name": "2.A.3  Glass production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9731,
@@ -546,23 +748,33 @@
                                             "children": [
                                                 {
                                                     "id": 8539,
-                                                    "name": "2.A.4.a  Ceramics"
+                                                    "name": "2.A.4.a  Ceramics",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9452,
-                                                    "name": "2.A.4.b  Other uses of Soda Ash"
+                                                    "name": "2.A.4.b  Other uses of Soda Ash",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10101,
-                                                    "name": "2.A.4.c  Non-metallurgical Magnesium Production"
+                                                    "name": "2.A.4.c  Non-metallurgical Magnesium Production",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9342,
-                                                    "name": "2.A.4.d  Other"
+                                                    "name": "2.A.4.d  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9304,
@@ -570,15 +782,21 @@
                                     "children": [
                                         {
                                             "id": 9658,
-                                            "name": "2.B.1  Ammonia Production"
+                                            "name": "2.B.1  Ammonia Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9410,
-                                            "name": "2.B.2  Nitric Acid Production"
+                                            "name": "2.B.2  Nitric Acid Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8468,
-                                            "name": "2.B.3  Adipic Acid Production"
+                                            "name": "2.B.3  Adipic Acid Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8544,
@@ -586,17 +804,24 @@
                                             "children": [
                                                 {
                                                     "id": 9515,
-                                                    "name": "2.B.4.a  Caprolactam"
+                                                    "name": "2.B.4.a  Caprolactam",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9564,
-                                                    "name": "2.B.4.b  Glyoxal"
+                                                    "name": "2.B.4.b  Glyoxal",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8789,
-                                                    "name": "2.B.4.c  Glyoxylic Acid"
+                                                    "name": "2.B.4.c  Glyoxylic Acid",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9531,
@@ -604,21 +829,30 @@
                                             "children": [
                                                 {
                                                     "id": 9683,
-                                                    "name": "2.B.5.a  Silicon Carbide"
+                                                    "name": "2.B.5.a  Silicon Carbide",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9206,
-                                                    "name": "2.B.5.b  Calcium Carbide"
+                                                    "name": "2.B.5.b  Calcium Carbide",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9917,
-                                            "name": "2.B.6  Titanium Dioxide Production"
+                                            "name": "2.B.6  Titanium Dioxide Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8530,
-                                            "name": "2.B.7  Soda Ash Production"
+                                            "name": "2.B.7  Soda Ash Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9000,
@@ -626,27 +860,39 @@
                                             "children": [
                                                 {
                                                     "id": 8934,
-                                                    "name": "2.B.8.a  Methanol"
+                                                    "name": "2.B.8.a  Methanol",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9146,
-                                                    "name": "2.B.8.b  Ethylene"
+                                                    "name": "2.B.8.b  Ethylene",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8686,
-                                                    "name": "2.B.8.c  Ethylene Dichloride and Vinyl Chloride Monomer"
+                                                    "name": "2.B.8.c  Ethylene Dichloride and Vinyl Chloride Monomer",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9468,
-                                                    "name": "2.B.8.d  Ethylene Oxide"
+                                                    "name": "2.B.8.d  Ethylene Oxide",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9784,
-                                                    "name": "2.B.8.e  Acrylonitrile"
+                                                    "name": "2.B.8.e  Acrylonitrile",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8864,
-                                                    "name": "2.B.8.f  Carbon Black"
+                                                    "name": "2.B.8.f  Carbon Black",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9384,
@@ -654,15 +900,21 @@
                                                     "children": [
                                                         {
                                                             "id": 9941,
-                                                            "name": "Styrene"
+                                                            "name": "Styrene",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8276,
-                                                            "name": "Other"
+                                                            "name": "Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8884,
@@ -674,13 +926,18 @@
                                                     "children": [
                                                         {
                                                             "id": 9992,
-                                                            "name": "2.B.9.a.1  Production of HCFC-22"
+                                                            "name": "2.B.9.a.1  Production of HCFC-22",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8782,
-                                                            "name": "2.B.9.a.2  Other"
+                                                            "name": "2.B.9.a.2  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9938,
@@ -688,25 +945,36 @@
                                                     "children": [
                                                         {
                                                             "id": 8427,
-                                                            "name": "2.B.9.b.1  Production of HFC-134a"
+                                                            "name": "2.B.9.b.1  Production of HFC-134a",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8150,
-                                                            "name": "2.B.9.b.2  Production of SF6"
+                                                            "name": "2.B.9.b.2  Production of SF6",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8419,
-                                                            "name": "2.B.9.b.3  Other"
+                                                            "name": "2.B.9.b.3  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9953,
-                                            "name": "2.B.10  Other"
+                                            "name": "2.B.10  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9064,
@@ -718,33 +986,48 @@
                                             "children": [
                                                 {
                                                     "id": 9540,
-                                                    "name": "2.C.1.a  Steel"
+                                                    "name": "2.C.1.a  Steel",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9567,
-                                                    "name": "2.C.1.b  Pig Iron"
+                                                    "name": "2.C.1.b  Pig Iron",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9679,
-                                                    "name": "2.C.1.c  Direct Reduced Iron"
+                                                    "name": "2.C.1.c  Direct Reduced Iron",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8962,
-                                                    "name": "2.C.1.d  Sinter"
+                                                    "name": "2.C.1.d  Sinter",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9387,
-                                                    "name": "2.C.1.e  Pellet"
+                                                    "name": "2.C.1.e  Pellet",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10223,
-                                                    "name": "2.C.1.f  Other"
+                                                    "name": "2.C.1.f  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10390,
-                                            "name": "2.C.2  Ferroalloys Production"
+                                            "name": "2.C.2  Ferroalloys Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10068,
@@ -752,35 +1035,51 @@
                                             "children": [
                                                 {
                                                     "id": 9079,
-                                                    "name": "2.C.3.a  CO2 Emissions"
+                                                    "name": "2.C.3.a  CO2 Emissions",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9445,
-                                                    "name": "2.C.3.b  By-Product Emissions"
+                                                    "name": "2.C.3.b  By-Product Emissions",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9072,
-                                                    "name": "2.C.3.c  F-gases used in foundries"
+                                                    "name": "2.C.3.c  F-gases used in foundries",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9635,
-                                            "name": "2.C.4  Magnesium Production"
+                                            "name": "2.C.4  Magnesium Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10210,
-                                            "name": "2.C.5  Lead Production"
+                                            "name": "2.C.5  Lead Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9667,
-                                            "name": "2.C.6  Zinc Production"
+                                            "name": "2.C.6  Zinc Production",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10447,
-                                            "name": "2.C.7  Other"
+                                            "name": "2.C.7  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 10094,
@@ -788,11 +1087,15 @@
                                     "children": [
                                         {
                                             "id": 8852,
-                                            "name": "2.D.1  Lubricant Use"
+                                            "name": "2.D.1  Lubricant Use",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8925,
-                                            "name": "2.D.2  Paraffin Wax Use"
+                                            "name": "2.D.2  Paraffin Wax Use",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8811,
@@ -800,23 +1103,33 @@
                                             "children": [
                                                 {
                                                     "id": 8822,
-                                                    "name": "Asphalt roofing"
+                                                    "name": "Asphalt roofing",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10044,
-                                                    "name": "Road paving with asphalt"
+                                                    "name": "Road paving with asphalt",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10214,
-                                                    "name": "Solvent use"
+                                                    "name": "Solvent use",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8212,
-                                                    "name": "Other"
+                                                    "name": "Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8938,
@@ -824,25 +1137,36 @@
                                     "children": [
                                         {
                                             "id": 10075,
-                                            "name": "2.E.1  Integrated Circuit or Semiconductor"
+                                            "name": "2.E.1  Integrated Circuit or Semiconductor",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10442,
-                                            "name": "2.E.2  TFT Flat Panel Display"
+                                            "name": "2.E.2  TFT Flat Panel Display",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8601,
-                                            "name": "2.E.3  Photovoltaics"
+                                            "name": "2.E.3  Photovoltaics",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9911,
-                                            "name": "2.E.4  Heat Transfer Fluid"
+                                            "name": "2.E.4  Heat Transfer Fluid",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8434,
-                                            "name": "2.E.5  Other"
+                                            "name": "2.E.5  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8262,
@@ -854,29 +1178,42 @@
                                             "children": [
                                                 {
                                                     "id": 9129,
-                                                    "name": "2.F.1.a  Commercial Refrigeration"
+                                                    "name": "2.F.1.a  Commercial Refrigeration",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9780,
-                                                    "name": "2.F.1.b  Domestic Refrigeration"
+                                                    "name": "2.F.1.b  Domestic Refrigeration",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10252,
-                                                    "name": "2.F.1.c  Industrial Refrigeration"
+                                                    "name": "2.F.1.c  Industrial Refrigeration",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9634,
-                                                    "name": "2.F.1.d  Transport Refrigeration"
+                                                    "name": "2.F.1.d  Transport Refrigeration",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10244,
-                                                    "name": "2.F.1.e  Mobile Air-Conditioning"
+                                                    "name": "2.F.1.e  Mobile Air-Conditioning",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10298,
-                                                    "name": "2.F.1.f  Stationary Air-Conditioning"
+                                                    "name": "2.F.1.f  Stationary Air-Conditioning",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9352,
@@ -884,17 +1221,24 @@
                                             "children": [
                                                 {
                                                     "id": 8642,
-                                                    "name": "2.F.2.a  Closed Cells"
+                                                    "name": "2.F.2.a  Closed Cells",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9224,
-                                                    "name": "2.F.2.b  Open Cells"
+                                                    "name": "2.F.2.b  Open Cells",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9296,
-                                            "name": "2.F.3  Fire Protection"
+                                            "name": "2.F.3  Fire Protection",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10383,
@@ -902,17 +1246,24 @@
                                             "children": [
                                                 {
                                                     "id": 8519,
-                                                    "name": "2.F.4.a  Metered Dose Inhalers"
+                                                    "name": "2.F.4.a  Metered Dose Inhalers",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8379,
-                                                    "name": "2.F.4.b  Other"
+                                                    "name": "2.F.4.b  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8316,
-                                            "name": "2.F.5  Solvents"
+                                            "name": "2.F.5  Solvents",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8607,
@@ -920,15 +1271,21 @@
                                             "children": [
                                                 {
                                                     "id": 10246,
-                                                    "name": "2.F.6.a  Emissive"
+                                                    "name": "2.F.6.a  Emissive",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10042,
-                                                    "name": "2.F.6.b  Contained"
+                                                    "name": "2.F.6.b  Contained",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8201,
@@ -936,7 +1293,9 @@
                                     "children": [
                                         {
                                             "id": 9490,
-                                            "name": "2.G.1  Electrical Equipment"
+                                            "name": "2.G.1  Electrical Equipment",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10301,
@@ -944,25 +1303,36 @@
                                             "children": [
                                                 {
                                                     "id": 9055,
-                                                    "name": "2.G.2.a  Military Applications"
+                                                    "name": "2.G.2.a  Military Applications",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9925,
-                                                    "name": "2.G.2.b  Accelerators"
+                                                    "name": "2.G.2.b  Accelerators",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9789,
-                                                    "name": "2.G.2.c  Soundproof Windows"
+                                                    "name": "2.G.2.c  Soundproof Windows",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9610,
-                                                    "name": "2.G.2.d  Adiabatic Properties: Shoes and Tyres"
+                                                    "name": "2.G.2.d  Adiabatic Properties: Shoes and Tyres",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8978,
-                                                    "name": "2.G.2.e  Other"
+                                                    "name": "2.G.2.e  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10433,
@@ -970,7 +1340,9 @@
                                             "children": [
                                                 {
                                                     "id": 8737,
-                                                    "name": "2.G.3.a  Medical Applications"
+                                                    "name": "2.G.3.a  Medical Applications",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9014,
@@ -978,21 +1350,30 @@
                                                     "children": [
                                                         {
                                                             "id": 9201,
-                                                            "name": "Propellant for pressure and aerosol products"
+                                                            "name": "Propellant for pressure and aerosol products",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8566,
-                                                            "name": "Other"
+                                                            "name": "Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8534,
-                                            "name": "2.G.4  Other"
+                                            "name": "2.G.4  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9899,
@@ -1000,19 +1381,27 @@
                                     "children": [
                                         {
                                             "id": 8644,
-                                            "name": "2.H.1  Pulp and paper"
+                                            "name": "2.H.1  Pulp and paper",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8797,
-                                            "name": "2.H.2  Food and beverages industry"
+                                            "name": "2.H.2  Food and beverages industry",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8883,
-                                            "name": "2.H.3  Other"
+                                            "name": "2.H.3  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 10096,
@@ -1020,11 +1409,15 @@
                             "children": [
                                 {
                                     "id": 9559,
-                                    "name": "3.A  Enteric Fermentation"
+                                    "name": "3.A  Enteric Fermentation",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9608,
-                                    "name": "3.B  Manure Management"
+                                    "name": "3.B  Manure Management",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 10228,
@@ -1036,7 +1429,9 @@
                                             "children": [
                                                 {
                                                     "id": 10315,
-                                                    "name": "3.C.1.1  Continuously Flooded"
+                                                    "name": "3.C.1.1  Continuously Flooded",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8915,
@@ -1044,15 +1439,21 @@
                                                     "children": [
                                                         {
                                                             "id": 9184,
-                                                            "name": "3.C.1.2.1  Single Aeration"
+                                                            "name": "3.C.1.2.1  Single Aeration",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 10065,
-                                                            "name": "3.C.1.2.2  Multiple aeration"
+                                                            "name": "3.C.1.2.2  Multiple aeration",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8984,
@@ -1060,13 +1461,18 @@
                                             "children": [
                                                 {
                                                     "id": 9942,
-                                                    "name": "3.C.2.1  Flood Prone"
+                                                    "name": "3.C.2.1  Flood Prone",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8941,
-                                                    "name": "3.C.2.2  Drought Prone"
+                                                    "name": "3.C.2.2  Drought Prone",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9094,
@@ -1074,19 +1480,27 @@
                                             "children": [
                                                 {
                                                     "id": 8995,
-                                                    "name": "3.C.3.1  Water Depth 50-100 cm"
+                                                    "name": "3.C.3.1  Water Depth 50-100 cm",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8373,
-                                                    "name": "3.C.3.2  Water Depth > 100 cm"
+                                                    "name": "3.C.3.2  Water Depth > 100 cm",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8747,
-                                            "name": "3.C.4  Other"
+                                            "name": "3.C.4  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9678,
@@ -1098,7 +1512,9 @@
                                             "children": [
                                                 {
                                                     "id": 9566,
-                                                    "name": "3.D.1.1  Inorganic N Fertilizers"
+                                                    "name": "3.D.1.1  Inorganic N Fertilizers",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9523,
@@ -1106,39 +1522,57 @@
                                                     "children": [
                                                         {
                                                             "id": 8365,
-                                                            "name": "3.D.1.2.a  Animal Manure Applied to Soils"
+                                                            "name": "3.D.1.2.a  Animal Manure Applied to Soils",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8482,
-                                                            "name": "3.D.1.2.b  Sewage Sludge Applied to Soils"
+                                                            "name": "3.D.1.2.b  Sewage Sludge Applied to Soils",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8218,
-                                                            "name": "3.D.1.2.c  Other Organic Fertilizers Applied to Soils"
+                                                            "name": "3.D.1.2.c  Other Organic Fertilizers Applied to Soils",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9041,
-                                                    "name": "3.D.1.3  Urine and Dung Deposited by Grazing Animals"
+                                                    "name": "3.D.1.3  Urine and Dung Deposited by Grazing Animals",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10142,
-                                                    "name": "3.D.1.4  Crop Residues"
+                                                    "name": "3.D.1.4  Crop Residues",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9302,
-                                                    "name": "3.D.1.5  Mineralization/Immobilization Associated with Loss/Gain of Soil Organic Matter"
+                                                    "name": "3.D.1.5  Mineralization/Immobilization Associated with Loss/Gain of Soil Organic Matter",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10437,
-                                                    "name": "3.D.1.6  Cultivation of Organic Soils"
+                                                    "name": "3.D.1.6  Cultivation of Organic Soils",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8502,
-                                                    "name": "3.D.1.7  Other"
+                                                    "name": "3.D.1.7  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8920,
@@ -1146,15 +1580,21 @@
                                             "children": [
                                                 {
                                                     "id": 9821,
-                                                    "name": "3.D.2.1  Atmospheric Deposition"
+                                                    "name": "3.D.2.1  Atmospheric Deposition",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9875,
-                                                    "name": "3.D.2.2  Nitrogen Leaching and Run-off"
+                                                    "name": "3.D.2.2  Nitrogen Leaching and Run-off",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 10322,
@@ -1162,13 +1602,18 @@
                                     "children": [
                                         {
                                             "id": 9488,
-                                            "name": "Forest land (specify ecological zone)"
+                                            "name": "Forest land (specify ecological zone)",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9970,
-                                            "name": "Grassland (specify ecological zone)"
+                                            "name": "Grassland (specify ecological zone)",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8783,
@@ -1180,21 +1625,30 @@
                                             "children": [
                                                 {
                                                     "id": 8669,
-                                                    "name": "3.F.1.1  Wheat"
+                                                    "name": "3.F.1.1  Wheat",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10193,
-                                                    "name": "3.F.1.2  Barley"
+                                                    "name": "3.F.1.2  Barley",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8990,
-                                                    "name": "3.F.1.3  Maize"
+                                                    "name": "3.F.1.3  Maize",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9507,
-                                                    "name": "3.F.1.4  Other"
+                                                    "name": "3.F.1.4  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9749,
@@ -1202,9 +1656,12 @@
                                             "children": [
                                                 {
                                                     "id": 8535,
-                                                    "name": "3.F.2.1  Other"
+                                                    "name": "3.F.2.1  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9142,
@@ -1212,19 +1669,27 @@
                                             "children": [
                                                 {
                                                     "id": 8913,
-                                                    "name": "3.F.3.1  Other"
+                                                    "name": "3.F.3.1  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10387,
-                                            "name": "3.F.4  Sugar Cane"
+                                            "name": "3.F.4  Sugar Cane",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10336,
-                                            "name": "3.F.5  Other"
+                                            "name": "3.F.5  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8278,
@@ -1232,27 +1697,39 @@
                                     "children": [
                                         {
                                             "id": 8504,
-                                            "name": "3.G.1  Limestone CaCO3"
+                                            "name": "3.G.1  Limestone CaCO3",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8267,
-                                            "name": "3.G.2  Dolomite CaMg(CO3)2"
+                                            "name": "3.G.2  Dolomite CaMg(CO3)2",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9927,
-                                    "name": "3.H  Urea Application"
+                                    "name": "3.H  Urea Application",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8417,
-                                    "name": "3.I  Other Carbon-containing Fertilizers"
+                                    "name": "3.I  Other Carbon-containing Fertilizers",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 10025,
-                                    "name": "3.J  Other"
+                                    "name": "3.J  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 9411,
@@ -1264,7 +1741,9 @@
                                     "children": [
                                         {
                                             "id": 8348,
-                                            "name": "4.A.1  Forest Land Remaining Forest Land"
+                                            "name": "4.A.1  Forest Land Remaining Forest Land",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8416,
@@ -1272,27 +1751,39 @@
                                             "children": [
                                                 {
                                                     "id": 9741,
-                                                    "name": "4.A.2.1  Cropland Converted to Forest Land"
+                                                    "name": "4.A.2.1  Cropland Converted to Forest Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9851,
-                                                    "name": "4.A.2.2  Grassland Converted to Forest Land"
+                                                    "name": "4.A.2.2  Grassland Converted to Forest Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9306,
-                                                    "name": "4.A.2.3  Wetlands Converted to Forest Land"
+                                                    "name": "4.A.2.3  Wetlands Converted to Forest Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10297,
-                                                    "name": "4.A.2.4  Settlements Converted to Forest Land"
+                                                    "name": "4.A.2.4  Settlements Converted to Forest Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8735,
-                                                    "name": "4.A.2.5  Other Land Converted to Forest Land"
+                                                    "name": "4.A.2.5  Other Land Converted to Forest Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9805,
@@ -1300,7 +1791,9 @@
                                     "children": [
                                         {
                                             "id": 10430,
-                                            "name": "4.B.1  Cropland Remaining Cropland"
+                                            "name": "4.B.1  Cropland Remaining Cropland",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8678,
@@ -1308,27 +1801,39 @@
                                             "children": [
                                                 {
                                                     "id": 9799,
-                                                    "name": "4.B.2.1  Forest Land Converted to Cropland"
+                                                    "name": "4.B.2.1  Forest Land Converted to Cropland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9491,
-                                                    "name": "4.B.2.2  Grassland Converted to Cropland"
+                                                    "name": "4.B.2.2  Grassland Converted to Cropland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10450,
-                                                    "name": "4.B.2.3  Wetlands Converted to Cropland"
+                                                    "name": "4.B.2.3  Wetlands Converted to Cropland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8709,
-                                                    "name": "4.B.2.4  Settlements Converted to Cropland"
+                                                    "name": "4.B.2.4  Settlements Converted to Cropland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9560,
-                                                    "name": "4.B.2.5  Other Land Converted to Cropland"
+                                                    "name": "4.B.2.5  Other Land Converted to Cropland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8849,
@@ -1336,7 +1841,9 @@
                                     "children": [
                                         {
                                             "id": 9360,
-                                            "name": "4.C.1  Grassland Remaining Grassland"
+                                            "name": "4.C.1  Grassland Remaining Grassland",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8259,
@@ -1344,27 +1851,39 @@
                                             "children": [
                                                 {
                                                     "id": 9405,
-                                                    "name": "4.C.2.1  Forest Land Converted to Grassland"
+                                                    "name": "4.C.2.1  Forest Land Converted to Grassland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9966,
-                                                    "name": "4.C.2.2  Cropland Converted to Grassland"
+                                                    "name": "4.C.2.2  Cropland Converted to Grassland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10323,
-                                                    "name": "4.C.2.3  Wetlands Converted to Grassland"
+                                                    "name": "4.C.2.3  Wetlands Converted to Grassland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9444,
-                                                    "name": "4.C.2.4  Settlements Converted to Grassland"
+                                                    "name": "4.C.2.4  Settlements Converted to Grassland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10189,
-                                                    "name": "4.C.2.5  Other Land Converted to Grassland"
+                                                    "name": "4.C.2.5  Other Land Converted to Grassland",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9897,
@@ -1376,23 +1895,33 @@
                                             "children": [
                                                 {
                                                     "id": 10156,
-                                                    "name": "4.D.1.1  Peat Extraction Remaining Peat Extraction"
+                                                    "name": "4.D.1.1  Peat Extraction Remaining Peat Extraction",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9151,
-                                                    "name": "4.D.1.2  Flooded Land Remaining Flooded Land"
+                                                    "name": "4.D.1.2  Flooded Land Remaining Flooded Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8307,
-                                                    "name": "4.D.1.3  Other Wetlands Remaining Other Wetlands"
+                                                    "name": "4.D.1.3  Other Wetlands Remaining Other Wetlands",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8232,
-                                            "name": "4.D.2  Land Converted to Wetlands"
+                                            "name": "4.D.2  Land Converted to Wetlands",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 10314,
@@ -1400,7 +1929,9 @@
                                     "children": [
                                         {
                                             "id": 10132,
-                                            "name": "4.E.1  Settlements Remaining Settlements"
+                                            "name": "4.E.1  Settlements Remaining Settlements",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9506,
@@ -1408,27 +1939,39 @@
                                             "children": [
                                                 {
                                                     "id": 10183,
-                                                    "name": "4.E.2.1  Forest Land Converted to Settlements"
+                                                    "name": "4.E.2.1  Forest Land Converted to Settlements",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9914,
-                                                    "name": "4.E.2.2  Cropland Converted to Settlements"
+                                                    "name": "4.E.2.2  Cropland Converted to Settlements",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10026,
-                                                    "name": "4.E.2.3  Grassland Converted to Settlements"
+                                                    "name": "4.E.2.3  Grassland Converted to Settlements",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8465,
-                                                    "name": "4.E.2.4  Wetlands Converted to Settlements"
+                                                    "name": "4.E.2.4  Wetlands Converted to Settlements",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9857,
-                                                    "name": "4.E.2.5  Other Land Converted to Settlements"
+                                                    "name": "4.E.2.5  Other Land Converted to Settlements",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8288,
@@ -1440,37 +1983,54 @@
                                             "children": [
                                                 {
                                                     "id": 8488,
-                                                    "name": "4.F.2.1  Forest Land Converted to Other Land"
+                                                    "name": "4.F.2.1  Forest Land Converted to Other Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8234,
-                                                    "name": "4.F.2.2  Cropland Converted to Other Land"
+                                                    "name": "4.F.2.2  Cropland Converted to Other Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8574,
-                                                    "name": "4.F.2.3  Grassland Converted  to Other Land"
+                                                    "name": "4.F.2.3  Grassland Converted  to Other Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 10371,
-                                                    "name": "4.F.2.4  Wetlands Converted to Other Land"
+                                                    "name": "4.F.2.4  Wetlands Converted to Other Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9019,
-                                                    "name": "4.F.2.5  Settlements Converted to Other Land"
+                                                    "name": "4.F.2.5  Settlements Converted to Other Land",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9133,
-                                    "name": "4.G  Harvested Wood Products"
+                                    "name": "4.G  Harvested Wood Products",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9158,
-                                    "name": "4.H  Other"
+                                    "name": "4.H  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 10159,
@@ -1486,23 +2046,33 @@
                                             "children": [
                                                 {
                                                     "id": 9839,
-                                                    "name": "5.A.1.a  Anaerobic"
+                                                    "name": "5.A.1.a  Anaerobic",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9144,
-                                                    "name": "5.A.1.b  Semi-aerobic"
+                                                    "name": "5.A.1.b  Semi-aerobic",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 10235,
-                                            "name": "5.A.2  Unmanaged Waste Disposal Sites"
+                                            "name": "5.A.2  Unmanaged Waste Disposal Sites",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8652,
-                                            "name": "5.A.3  Uncategorized Waste Disposal Sites"
+                                            "name": "5.A.3  Uncategorized Waste Disposal Sites",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 9245,
@@ -1514,13 +2084,18 @@
                                             "children": [
                                                 {
                                                     "id": 9682,
-                                                    "name": "5.B.1.a  Municipal Solid Waste"
+                                                    "name": "5.B.1.a  Municipal Solid Waste",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8640,
-                                                    "name": "5.B.1.b  Other"
+                                                    "name": "5.B.1.b  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8225,
@@ -1528,15 +2103,21 @@
                                             "children": [
                                                 {
                                                     "id": 9290,
-                                                    "name": "5.B.2.a  Municipal Solid Waste"
+                                                    "name": "5.B.2.a  Municipal Solid Waste",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9639,
-                                                    "name": "5.B.2.b  Other"
+                                                    "name": "5.B.2.b  Other",
+                                                    "children": null,
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8227,
@@ -1552,7 +2133,9 @@
                                                     "children": [
                                                         {
                                                             "id": 9069,
-                                                            "name": "5.C.1.1.a  Municipal Solid Waste"
+                                                            "name": "5.C.1.1.a  Municipal Solid Waste",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8401,
@@ -1560,27 +2143,39 @@
                                                             "children": [
                                                                 {
                                                                     "id": 9141,
-                                                                    "name": "Clinical Waste"
+                                                                    "name": "Clinical Waste",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9329,
-                                                                    "name": "Hazardous Waste"
+                                                                    "name": "Hazardous Waste",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 8260,
-                                                                    "name": "Industrial Solid Wastes"
+                                                                    "name": "Industrial Solid Wastes",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9538,
-                                                                    "name": "Sewage Sludge"
+                                                                    "name": "Sewage Sludge",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9218,
-                                                                    "name": "Other"
+                                                                    "name": "Other",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 9979,
@@ -1588,7 +2183,9 @@
                                                     "children": [
                                                         {
                                                             "id": 10302,
-                                                            "name": "5.C.1.2.a  Municipal Solid Waste"
+                                                            "name": "5.C.1.2.a  Municipal Solid Waste",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9696,
@@ -1596,33 +2193,48 @@
                                                             "children": [
                                                                 {
                                                                     "id": 10050,
-                                                                    "name": "Clinical Waste"
+                                                                    "name": "Clinical Waste",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9730,
-                                                                    "name": "Fossil liquid waste"
+                                                                    "name": "Fossil liquid waste",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9250,
-                                                                    "name": "Hazardous Waste"
+                                                                    "name": "Hazardous Waste",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 8158,
-                                                                    "name": "Industrial Solid Wastes"
+                                                                    "name": "Industrial Solid Wastes",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 8619,
-                                                                    "name": "Sewage Sludge"
+                                                                    "name": "Sewage Sludge",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 },
                                                                 {
                                                                     "id": 9649,
-                                                                    "name": "Other"
+                                                                    "name": "Other",
+                                                                    "children": null,
+                                                                    "hideCharts": null
                                                                 }
-                                                            ]
+                                                            ],
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8943,
@@ -1634,13 +2246,18 @@
                                                     "children": [
                                                         {
                                                             "id": 10182,
-                                                            "name": "5.C.2.1.a  Municipal Solid Waste"
+                                                            "name": "5.C.2.1.a  Municipal Solid Waste",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 8772,
-                                                            "name": "5.C.2.1.b  Other"
+                                                            "name": "5.C.2.1.b  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 },
                                                 {
                                                     "id": 8910,
@@ -1648,17 +2265,24 @@
                                                     "children": [
                                                         {
                                                             "id": 8768,
-                                                            "name": "5.C.2.2.a  Municipal Solid Waste"
+                                                            "name": "5.C.2.2.a  Municipal Solid Waste",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         },
                                                         {
                                                             "id": 9181,
-                                                            "name": "5.C.2.2.b  Other"
+                                                            "name": "5.C.2.2.b  Other",
+                                                            "children": null,
+                                                            "hideCharts": null
                                                         }
-                                                    ]
+                                                    ],
+                                                    "hideCharts": null
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8423,
@@ -1666,27 +2290,39 @@
                                     "children": [
                                         {
                                             "id": 10391,
-                                            "name": "5.D.1  Domestic Wastewater"
+                                            "name": "5.D.1  Domestic Wastewater",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 9831,
-                                            "name": "5.D.2  Industrial Wastewater"
+                                            "name": "5.D.2  Industrial Wastewater",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8153,
-                                            "name": "5.D.3  Other"
+                                            "name": "5.D.3  Other",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8284,
-                                    "name": "5.E  Other"
+                                    "name": "5.E  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 10476,
-                            "name": "6.  Other"
+                            "name": "6.  Other",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 8869,
@@ -1698,35 +2334,51 @@
                                     "children": [
                                         {
                                             "id": 10357,
-                                            "name": "1.D.1.a  International Aviation"
+                                            "name": "1.D.1.a  International Aviation",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 8828,
-                                            "name": "1.D.1.b  International Navigation"
+                                            "name": "1.D.1.b  International Navigation",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8987,
-                                    "name": "1.D.2  Multilateral Operations"
+                                    "name": "1.D.2  Multilateral Operations",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 8270,
-                                    "name": "1.D.3  CO2 Emissions from Biomass"
+                                    "name": "1.D.3  CO2 Emissions from Biomass",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": true
                         }
-                    ]
+                    ],
+                    "hideCharts": null
                 },
                 {
                     "id": 10479,
-                    "name": "Total GHG emissions, including indirect CO2,  without LULUCF"
+                    "name": "Total GHG emissions, including indirect CO2,  without LULUCF",
+                    "children": null,
+                    "hideCharts": null
                 },
                 {
                     "id": 10480,
-                    "name": "Total GHG emissions, including indirect CO2,  with LULUCF"
+                    "name": "Total GHG emissions, including indirect CO2,  with LULUCF",
+                    "children": null,
+                    "hideCharts": null
                 }
-            ]
+            ],
+            "hideCharts": true
         }
     ],
     "nonAnnexOne": [
@@ -1740,33 +2392,48 @@
                     "children": [
                         {
                             "id": 14544,
-                            "name": "1.  Energy"
+                            "name": "1.  Energy",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 14542,
-                            "name": "2.  Industrial Processes"
+                            "name": "2.  Industrial Processes",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 14541,
-                            "name": "3.  Solvent and Other Product Use"
+                            "name": "3.  Solvent and Other Product Use",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 14545,
-                            "name": "4.  Agriculture"
+                            "name": "4.  Agriculture",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 14546,
-                            "name": "6.  Waste"
+                            "name": "6.  Waste",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 14547,
-                            "name": "7.  Other"
+                            "name": "7.  Other",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 14568,
-                            "name": "Memo items"
+                            "name": "Memo items",
+                            "children": null,
+                            "hideCharts": true
                         }
-                    ]
+                    ],
+                    "hideCharts": null
                 },
                 {
                     "id": 24540,
@@ -1782,25 +2449,36 @@
                                     "children": [
                                         {
                                             "id": 14434,
-                                            "name": "1.A.1  Energy Industries"
+                                            "name": "1.A.1  Energy Industries",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 14432,
-                                            "name": "1.A.2  Manufacturing Industries and Construction"
+                                            "name": "1.A.2  Manufacturing Industries and Construction",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 14435,
-                                            "name": "1.A.3  Transport"
+                                            "name": "1.A.3  Transport",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 14436,
-                                            "name": "1.A.4  Other Sectors"
+                                            "name": "1.A.4  Other Sectors",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 14433,
-                                            "name": "1.A.5  Other (Not elsewhere specified)"
+                                            "name": "1.A.5  Other (Not elsewhere specified)",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14569,
@@ -1808,15 +2486,21 @@
                                     "children": [
                                         {
                                             "id": 14640,
-                                            "name": "1.B.1  Solid Fuels"
+                                            "name": "1.B.1  Solid Fuels",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 14641,
-                                            "name": "1.B.2  Oil and Natural Gas"
+                                            "name": "1.B.2  Oil and Natural Gas",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 24542,
@@ -1824,37 +2508,54 @@
                             "children": [
                                 {
                                     "id": 14553,
-                                    "name": "2.A  Mineral Products"
+                                    "name": "2.A  Mineral Products",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14558,
-                                    "name": "2.B  Chemical Industry"
+                                    "name": "2.B  Chemical Industry",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14552,
-                                    "name": "2.C  Metal Production"
+                                    "name": "2.C  Metal Production",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14556,
-                                    "name": "2.D  Other Production"
+                                    "name": "2.D  Other Production",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14557,
-                                    "name": "2.E  Production of Halocarbons and SF6"
+                                    "name": "2.E  Production of Halocarbons and SF6",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14559,
-                                    "name": "2.F  Consumption of Halocarbons and SF6"
+                                    "name": "2.F  Consumption of Halocarbons and SF6",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14554,
-                                    "name": "2.G  Other"
+                                    "name": "2.G  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 24541,
-                            "name": "3.  Solvent and Other Product Use"
+                            "name": "3.  Solvent and Other Product Use",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 24545,
@@ -1862,33 +2563,48 @@
                             "children": [
                                 {
                                     "id": 14577,
-                                    "name": "4.A  Enteric Fermentation"
+                                    "name": "4.A  Enteric Fermentation",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14571,
-                                    "name": "4.B  Manure Management"
+                                    "name": "4.B  Manure Management",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14575,
-                                    "name": "4.C  Rice Cultivation"
+                                    "name": "4.C  Rice Cultivation",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14572,
-                                    "name": "4.D  Agricultural Soils"
+                                    "name": "4.D  Agricultural Soils",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14574,
-                                    "name": "4.E  Prescribed Burning of Savannas"
+                                    "name": "4.E  Prescribed Burning of Savannas",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14573,
-                                    "name": "4.F  Field Burning of Agricultural Residues"
+                                    "name": "4.F  Field Burning of Agricultural Residues",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14576,
-                                    "name": "4.G  Other"
+                                    "name": "4.G  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 24543,
@@ -1896,33 +2612,48 @@
                             "children": [
                                 {
                                     "id": 14564,
-                                    "name": "5.A  Forest Land"
+                                    "name": "5.A  Forest Land",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14561,
-                                    "name": "5.B  Cropland"
+                                    "name": "5.B  Cropland",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14560,
-                                    "name": "5.C  Grassland"
+                                    "name": "5.C  Grassland",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14566,
-                                    "name": "5.D  Wetlands"
+                                    "name": "5.D  Wetlands",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14562,
-                                    "name": "5.E  Settlements"
+                                    "name": "5.E  Settlements",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14567,
-                                    "name": "5.F  Other Land"
+                                    "name": "5.F  Other Land",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14563,
-                                    "name": "5.G  Other"
+                                    "name": "5.G  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 25183,
@@ -1930,25 +2661,36 @@
                             "children": [
                                 {
                                     "id": 15185,
-                                    "name": "5bis.A  Changes in Forest and Other Woody Biomass Stocks"
+                                    "name": "5bis.A  Changes in Forest and Other Woody Biomass Stocks",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 15184,
-                                    "name": "5bis.B  Forest and Grassland Conversion"
+                                    "name": "5bis.B  Forest and Grassland Conversion",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 15188,
-                                    "name": "5bis.C  Abandonment of Managed Lands"
+                                    "name": "5bis.C  Abandonment of Managed Lands",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 15187,
-                                    "name": "5bis.D  CO2 Emissions and Removals from Soil"
+                                    "name": "5bis.D  CO2 Emissions and Removals from Soil",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 15186,
-                                    "name": "5bis.E  Other"
+                                    "name": "5bis.E  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 24546,
@@ -1956,25 +2698,36 @@
                             "children": [
                                 {
                                     "id": 14578,
-                                    "name": "6.A  Solid Waste Disposal on Land"
+                                    "name": "6.A  Solid Waste Disposal on Land",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14579,
-                                    "name": "6.B  Wastewater Handling"
+                                    "name": "6.B  Wastewater Handling",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14580,
-                                    "name": "6.C  Waste Incineration"
+                                    "name": "6.C  Waste Incineration",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14581,
-                                    "name": "6.D  Other"
+                                    "name": "6.D  Other",
+                                    "children": null,
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": null
                         },
                         {
                             "id": 24547,
-                            "name": "7.  Other"
+                            "name": "7.  Other",
+                            "children": null,
+                            "hideCharts": null
                         },
                         {
                             "id": 24568,
@@ -1982,7 +2735,9 @@
                             "children": [
                                 {
                                     "id": 14638,
-                                    "name": "CO2 Emissions from Biomass"
+                                    "name": "CO2 Emissions from Biomass",
+                                    "children": null,
+                                    "hideCharts": null
                                 },
                                 {
                                     "id": 14637,
@@ -1990,19 +2745,27 @@
                                     "children": [
                                         {
                                             "id": 14424,
-                                            "name": "Aviation"
+                                            "name": "Aviation",
+                                            "children": null,
+                                            "hideCharts": null
                                         },
                                         {
                                             "id": 14423,
-                                            "name": "Marine"
+                                            "name": "Marine",
+                                            "children": null,
+                                            "hideCharts": null
                                         }
-                                    ]
+                                    ],
+                                    "hideCharts": null
                                 }
-                            ]
+                            ],
+                            "hideCharts": true
                         }
-                    ]
+                    ],
+                    "hideCharts": null
                 }
-            ]
+            ],
+            "hideCharts": true
         }
     ]
 }

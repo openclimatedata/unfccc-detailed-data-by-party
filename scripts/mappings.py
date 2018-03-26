@@ -16,7 +16,7 @@ parties["annexOne"] = {}
 assert(party_groups[1]["name"] == "Annex I")
 for party in party_groups[1]["parties"]:
     parties["annexOne"][party["name"]] = party["id"]
-    if "noData" in party.keys():
+    if party["noData"] == True:
         no_data.append(party["name"])
 
 # Non Annex I
@@ -24,7 +24,7 @@ parties["nonAnnexOne"] = {}
 assert(party_groups[2]["name"] == "Non Annex I")
 for party in party_groups[2]["parties"]:
     parties["nonAnnexOne"][party["name"]] = party["id"]
-    if "noData" in party.keys():
+    if party["noData"] == True:
         no_data.append(party["name"])
 
 

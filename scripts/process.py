@@ -89,8 +89,8 @@ for group in ["annex-one", "non-annex-one"]:
     print("=> ", csv_paths[group])
     party_names = filtered.index.get_level_values("Party").unique()
 
-    # Check if countries with no data (listed with attribute "noData"
-    # in `parties.json`) have no data.
+    # Check if countries with no data (listed with attribute "noData" set
+    # to 'true' in `parties.json`) have no data.
     assert set(party_names).isdisjoint(set(no_data))
 
     filtered.to_csv(csv_paths[group])
