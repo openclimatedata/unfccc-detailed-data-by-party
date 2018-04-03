@@ -1,0 +1,338 @@
+{
+  "resources": [
+    {
+      "name": "detailed-data-by-country-annex-one",
+      "path": "data/detailed-data-by-country-annex-one.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Party",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Parent Category",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Gas",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Base year",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1990",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1991",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1992",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1993",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1994",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1995",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1996",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1997",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1998",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1999",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2000",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2001",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2002",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2003",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2004",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2005",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2006",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2007",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2008",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2009",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2010",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2011",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2012",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2013",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2014",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2015",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "detailed-data-by-country-non-annex-one",
+      "path": "data/detailed-data-by-country-non-annex-one.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Party",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Parent Category",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Gas",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "1990",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1991",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1992",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1993",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1994",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1995",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1996",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1997",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1998",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1999",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2000",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2001",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2002",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2003",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2004",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2005",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2006",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2007",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2008",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2009",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2010",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2011",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2012",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2013",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Greenhouse Gas Inventory Data - Detailed data by Party",
+      "path": "http://di.unfccc.int/detailed_data_by_party"
+    }
+  ],
+  "name": "unfccc-detailed-data-by-party",
+  "title": "UNFCCC - Detailed Data by Party",
+  "description": "Emissions Data downloaded from the UNFCCC - Detailed Data By Party interface"
+}
