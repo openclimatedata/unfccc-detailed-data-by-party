@@ -45,6 +45,16 @@ make process
 
 to generate CSV files for Annex-I and Non-Annex-I.
 
+To remove all downloaded and generated files run
+
+```shell
+make clean
+```
+
+This needs to be done to check for updated data. To continue an interrupted
+download or check for new data simply re-run `make download`.
+Files already downloaded are skipped.
+
 
 ## License
 
