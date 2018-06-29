@@ -1666,7 +1666,7 @@
         },
         {
             "id": 17,
-            "name": "Gg CO2 equivalent"
+            "name": "Gg CO\u2082 equivalent"
         },
         {
             "id": 144,
@@ -1674,7 +1674,7 @@
         },
         {
             "id": 145,
-            "name": "Gt CO2 equivalent"
+            "name": "Gt CO\u2082 equivalent"
         },
         {
             "id": 2,
@@ -1682,7 +1682,7 @@
         },
         {
             "id": 143,
-            "name": "Mg CO2 equivalent"
+            "name": "Mg CO\u2082 equivalent"
         },
         {
             "id": 6,
@@ -1690,7 +1690,7 @@
         },
         {
             "id": 142,
-            "name": "Mt CO2 equivalent"
+            "name": "Mt CO\u2082 equivalent"
         },
         {
             "id": 147,
@@ -1698,7 +1698,7 @@
         },
         {
             "id": 148,
-            "name": "Pg CO2 equivalent"
+            "name": "Pg CO\u2082 equivalent"
         },
         {
             "id": 122,
@@ -1706,7 +1706,7 @@
         },
         {
             "id": 146,
-            "name": "Tg CO2 equivalent"
+            "name": "Tg CO\u2082 equivalent"
         },
         {
             "id": 5,
@@ -1714,7 +1714,7 @@
         },
         {
             "id": 140,
-            "name": "kt CO2 equivalent"
+            "name": "kt CO\u2082 equivalent"
         },
         {
             "id": 4,
@@ -1722,7 +1722,7 @@
         },
         {
             "id": 96,
-            "name": "t CO2 equivalent"
+            "name": "t CO\u2082 equivalent"
         }
     ]
 }

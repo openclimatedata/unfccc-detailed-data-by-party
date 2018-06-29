@@ -5,18 +5,18 @@
         "parties": [
             {
                 "id": 1000001,
-                "name": "Annex I",
-                "noData": null
+                "code": "ANI",
+                "name": "Annex I"
             },
             {
                 "id": 1000002,
-                "name": "Annex I EIT",
-                "noData": null
+                "code": "ANEIT",
+                "name": "Annex I EIT"
             },
             {
                 "id": 1000003,
-                "name": "Annex I non-EIT",
-                "noData": null
+                "code": "ANNEIT",
+                "name": "Annex I non-EIT"
             }
         ]
     },
@@ -26,228 +26,228 @@
         "parties": [
             {
                 "id": 3,
-                "name": "Australia",
-                "noData": null
+                "code": "AUS",
+                "name": "Australia"
             },
             {
                 "id": 4,
-                "name": "Austria",
-                "noData": null
+                "code": "AUT",
+                "name": "Austria"
             },
             {
                 "id": 7,
-                "name": "Belarus",
-                "noData": null
+                "code": "BLR",
+                "name": "Belarus"
             },
             {
                 "id": 5,
-                "name": "Belgium",
-                "noData": null
+                "code": "BEL",
+                "name": "Belgium"
             },
             {
                 "id": 6,
-                "name": "Bulgaria",
-                "noData": null
+                "code": "BGR",
+                "name": "Bulgaria"
             },
             {
                 "id": 9,
-                "name": "Canada",
-                "noData": null
+                "code": "CAN",
+                "name": "Canada"
             },
             {
                 "id": 30,
-                "name": "Croatia",
-                "noData": null
+                "code": "HRV",
+                "name": "Croatia"
             },
             {
                 "id": 11,
-                "name": "Cyprus",
-                "noData": null
+                "code": "CYP",
+                "name": "Cyprus"
             },
             {
                 "id": 12,
-                "name": "Czech Republic",
-                "noData": null
+                "code": "CZE",
+                "name": "Czech Republic"
             },
             {
                 "id": 15,
-                "name": "Denmark",
-                "noData": null
+                "code": "DNK",
+                "name": "Denmark"
             },
             {
                 "id": 18,
-                "name": "Estonia",
-                "noData": null
+                "code": "EST",
+                "name": "Estonia"
             },
             {
                 "id": 19,
-                "name": "European Union (Convention)",
-                "noData": null
+                "code": "EUA",
+                "name": "European Union (Convention)"
             },
             {
                 "id": 20,
-                "name": "European Union (KP)",
-                "noData": null
+                "code": "EUC",
+                "name": "European Union (KP)"
             },
             {
                 "id": 21,
-                "name": "Finland",
-                "noData": null
+                "code": "FIN",
+                "name": "Finland"
             },
             {
                 "id": 23,
-                "name": "France",
-                "noData": null
+                "code": "FRA",
+                "name": "France"
             },
             {
                 "id": 13,
-                "name": "Germany",
-                "noData": null
+                "code": "DEU",
+                "name": "Germany"
             },
             {
                 "id": 28,
-                "name": "Greece",
-                "noData": null
+                "code": "GRC",
+                "name": "Greece"
             },
             {
                 "id": 31,
-                "name": "Hungary",
-                "noData": null
+                "code": "HUN",
+                "name": "Hungary"
             },
             {
                 "id": 33,
-                "name": "Iceland",
-                "noData": null
+                "code": "ISL",
+                "name": "Iceland"
             },
             {
                 "id": 32,
-                "name": "Ireland",
-                "noData": null
+                "code": "IRL",
+                "name": "Ireland"
             },
             {
                 "id": 34,
-                "name": "Italy",
-                "noData": null
+                "code": "ITA",
+                "name": "Italy"
             },
             {
                 "id": 35,
-                "name": "Japan",
-                "noData": null
+                "code": "JPN",
+                "name": "Japan"
             },
             {
                 "id": 36,
-                "name": "Kazakhstan",
-                "noData": null
+                "code": "KAZ",
+                "name": "Kazakhstan"
             },
             {
                 "id": 41,
-                "name": "Latvia",
-                "noData": null
+                "code": "LVA",
+                "name": "Latvia"
             },
             {
                 "id": 38,
-                "name": "Liechtenstein",
-                "noData": null
+                "code": "LIE",
+                "name": "Liechtenstein"
             },
             {
                 "id": 39,
-                "name": "Lithuania",
-                "noData": null
+                "code": "LTU",
+                "name": "Lithuania"
             },
             {
                 "id": 40,
-                "name": "Luxembourg",
-                "noData": null
+                "code": "LUX",
+                "name": "Luxembourg"
             },
             {
                 "id": 43,
-                "name": "Malta",
-                "noData": null
+                "code": "MLT",
+                "name": "Malta"
             },
             {
                 "id": 42,
-                "name": "Monaco",
-                "noData": null
+                "code": "MCO",
+                "name": "Monaco"
             },
             {
                 "id": 44,
-                "name": "Netherlands",
-                "noData": null
+                "code": "NLD",
+                "name": "Netherlands"
             },
             {
                 "id": 46,
-                "name": "New Zealand",
-                "noData": null
+                "code": "NZL",
+                "name": "New Zealand"
             },
             {
                 "id": 45,
-                "name": "Norway",
-                "noData": null
+                "code": "NOR",
+                "name": "Norway"
             },
             {
                 "id": 47,
-                "name": "Poland",
-                "noData": null
+                "code": "POL",
+                "name": "Poland"
             },
             {
                 "id": 48,
-                "name": "Portugal",
-                "noData": null
+                "code": "PRT",
+                "name": "Portugal"
             },
             {
                 "id": 49,
-                "name": "Romania",
-                "noData": null
+                "code": "ROU",
+                "name": "Romania"
             },
             {
                 "id": 50,
-                "name": "Russian Federation",
-                "noData": null
+                "code": "RUS",
+                "name": "Russian Federation"
             },
             {
                 "id": 51,
-                "name": "Slovakia",
-                "noData": null
+                "code": "SVK",
+                "name": "Slovakia"
             },
             {
                 "id": 52,
-                "name": "Slovenia",
-                "noData": null
+                "code": "SVN",
+                "name": "Slovenia"
             },
             {
                 "id": 17,
-                "name": "Spain",
-                "noData": null
+                "code": "ESP",
+                "name": "Spain"
             },
             {
                 "id": 53,
-                "name": "Sweden",
-                "noData": null
+                "code": "SWE",
+                "name": "Sweden"
             },
             {
                 "id": 10,
-                "name": "Switzerland",
-                "noData": null
+                "code": "CHE",
+                "name": "Switzerland"
             },
             {
                 "id": 54,
-                "name": "Turkey",
-                "noData": null
+                "code": "TUR",
+                "name": "Turkey"
             },
             {
                 "id": 55,
-                "name": "Ukraine",
-                "noData": null
+                "code": "UKR",
+                "name": "Ukraine"
             },
             {
                 "id": 27,
-                "name": "United Kingdom of Great Britain and Northern Ireland",
-                "noData": null
+                "code": "GBR",
+                "name": "United Kingdom of Great Britain and Northern Ireland"
             },
             {
                 "id": 56,
-                "name": "United States of America",
-                "noData": null
+                "code": "USA",
+                "name": "United States of America"
             }
         ]
     },
@@ -257,768 +257,773 @@
         "parties": [
             {
                 "id": 100064,
-                "name": "Afghanistan",
-                "noData": null
+                "code": "AFG",
+                "name": "Afghanistan"
             },
             {
                 "id": 100065,
-                "name": "Albania",
-                "noData": null
+                "code": "ALB",
+                "name": "Albania"
             },
             {
                 "id": 100066,
-                "name": "Algeria",
-                "noData": null
+                "code": "DZA",
+                "name": "Algeria"
             },
             {
                 "id": 100067,
+                "code": "AND",
                 "name": "Andorra",
                 "noData": true
             },
             {
                 "id": 100068,
-                "name": "Angola",
-                "noData": null
+                "code": "AGO",
+                "name": "Angola"
             },
             {
                 "id": 100069,
-                "name": "Antigua and Barbuda",
-                "noData": null
+                "code": "ATG",
+                "name": "Antigua and Barbuda"
             },
             {
                 "id": 100070,
-                "name": "Argentina",
-                "noData": null
+                "code": "ARG",
+                "name": "Argentina"
             },
             {
                 "id": 100071,
-                "name": "Armenia",
-                "noData": null
+                "code": "ARM",
+                "name": "Armenia"
             },
             {
                 "id": 100072,
-                "name": "Azerbaijan",
-                "noData": null
+                "code": "AZE",
+                "name": "Azerbaijan"
             },
             {
                 "id": 100073,
-                "name": "Bahamas",
-                "noData": null
+                "code": "BHS",
+                "name": "Bahamas"
             },
             {
                 "id": 100074,
-                "name": "Bahrain",
-                "noData": null
+                "code": "BHR",
+                "name": "Bahrain"
             },
             {
                 "id": 100075,
-                "name": "Bangladesh",
-                "noData": null
+                "code": "BGD",
+                "name": "Bangladesh"
             },
             {
                 "id": 100076,
-                "name": "Barbados",
-                "noData": null
+                "code": "BRB",
+                "name": "Barbados"
             },
             {
                 "id": 100077,
-                "name": "Belize",
-                "noData": null
+                "code": "BLZ",
+                "name": "Belize"
             },
             {
                 "id": 100078,
-                "name": "Benin",
-                "noData": null
+                "code": "BEN",
+                "name": "Benin"
             },
             {
                 "id": 100079,
-                "name": "Bhutan",
-                "noData": null
+                "code": "BTN",
+                "name": "Bhutan"
             },
             {
                 "id": 100080,
-                "name": "Bolivia (Plurinational State of)",
-                "noData": null
+                "code": "BOL",
+                "name": "Bolivia (Plurinational State of)"
             },
             {
                 "id": 100081,
-                "name": "Bosnia and Herzegovina",
-                "noData": null
+                "code": "BIH",
+                "name": "Bosnia and Herzegovina"
             },
             {
                 "id": 100082,
-                "name": "Botswana",
-                "noData": null
+                "code": "BWA",
+                "name": "Botswana"
             },
             {
                 "id": 100083,
-                "name": "Brazil",
-                "noData": null
+                "code": "BRA",
+                "name": "Brazil"
             },
             {
                 "id": 100084,
-                "name": "Brunei Darussalam",
-                "noData": null
+                "code": "BRN",
+                "name": "Brunei Darussalam"
             },
             {
                 "id": 100085,
-                "name": "Burkina Faso",
-                "noData": null
+                "code": "BFA",
+                "name": "Burkina Faso"
             },
             {
                 "id": 100086,
-                "name": "Burundi",
-                "noData": null
+                "code": "BDI",
+                "name": "Burundi"
             },
             {
                 "id": 100087,
-                "name": "Cabo Verde",
-                "noData": null
+                "code": "CPV",
+                "name": "Cabo Verde"
             },
             {
                 "id": 100088,
-                "name": "Cambodia",
-                "noData": null
+                "code": "KHM",
+                "name": "Cambodia"
             },
             {
                 "id": 100089,
-                "name": "Cameroon",
-                "noData": null
+                "code": "CMR",
+                "name": "Cameroon"
             },
             {
                 "id": 100090,
-                "name": "Central African Republic",
-                "noData": null
+                "code": "CAF",
+                "name": "Central African Republic"
             },
             {
                 "id": 100091,
-                "name": "Chad",
-                "noData": null
+                "code": "TCD",
+                "name": "Chad"
             },
             {
                 "id": 100092,
-                "name": "Chile",
-                "noData": null
+                "code": "CHL",
+                "name": "Chile"
             },
             {
                 "id": 100093,
-                "name": "China",
-                "noData": null
+                "code": "CHN",
+                "name": "China"
             },
             {
                 "id": 100094,
-                "name": "Colombia",
-                "noData": null
+                "code": "COL",
+                "name": "Colombia"
             },
             {
                 "id": 100095,
-                "name": "Comoros",
-                "noData": null
+                "code": "COM",
+                "name": "Comoros"
             },
             {
                 "id": 100096,
-                "name": "Congo",
-                "noData": null
+                "code": "COG",
+                "name": "Congo"
             },
             {
                 "id": 100097,
-                "name": "Cook Islands",
-                "noData": null
+                "code": "COK",
+                "name": "Cook Islands"
             },
             {
                 "id": 100098,
-                "name": "Costa Rica",
-                "noData": null
+                "code": "CRI",
+                "name": "Costa Rica"
             },
             {
                 "id": 100099,
-                "name": "Cote d'Ivoire",
-                "noData": null
+                "code": "CIV",
+                "name": "Cote d'Ivoire"
             },
             {
                 "id": 100100,
-                "name": "Cuba",
-                "noData": null
+                "code": "CUB",
+                "name": "Cuba"
             },
             {
                 "id": 100101,
-                "name": "Democratic People's Republic of Korea",
-                "noData": null
+                "code": "PRK",
+                "name": "Democratic People's Republic of Korea"
             },
             {
                 "id": 100102,
-                "name": "Democratic Republic of the Congo",
-                "noData": null
+                "code": "COD",
+                "name": "Democratic Republic of the Congo"
             },
             {
                 "id": 100103,
-                "name": "Djibouti",
-                "noData": null
+                "code": "DJI",
+                "name": "Djibouti"
             },
             {
                 "id": 100104,
-                "name": "Dominica",
-                "noData": null
+                "code": "DMA",
+                "name": "Dominica"
             },
             {
                 "id": 100105,
-                "name": "Dominican Republic",
-                "noData": null
+                "code": "DOM",
+                "name": "Dominican Republic"
             },
             {
                 "id": 100106,
-                "name": "Ecuador",
-                "noData": null
+                "code": "ECU",
+                "name": "Ecuador"
             },
             {
                 "id": 100107,
-                "name": "Egypt",
-                "noData": null
+                "code": "EGY",
+                "name": "Egypt"
             },
             {
                 "id": 100108,
-                "name": "El Salvador",
-                "noData": null
+                "code": "SLV",
+                "name": "El Salvador"
             },
             {
                 "id": 100109,
+                "code": "GNQ",
                 "name": "Equatorial Guinea",
                 "noData": true
             },
             {
                 "id": 100110,
-                "name": "Eritrea",
-                "noData": null
+                "code": "ERI",
+                "name": "Eritrea"
+            },
+            {
+                "id": 100195,
+                "code": "SWZ",
+                "name": "Eswatini"
             },
             {
                 "id": 100111,
-                "name": "Ethiopia",
-                "noData": null
+                "code": "ETH",
+                "name": "Ethiopia"
             },
             {
                 "id": 100112,
-                "name": "Fiji",
-                "noData": null
+                "code": "FJI",
+                "name": "Fiji"
             },
             {
                 "id": 100113,
-                "name": "Gabon",
-                "noData": null
+                "code": "GAB",
+                "name": "Gabon"
             },
             {
                 "id": 100114,
-                "name": "Gambia",
-                "noData": null
+                "code": "GMB",
+                "name": "Gambia"
             },
             {
                 "id": 100115,
-                "name": "Georgia",
-                "noData": null
+                "code": "GEO",
+                "name": "Georgia"
             },
             {
                 "id": 100116,
-                "name": "Ghana",
-                "noData": null
+                "code": "GHA",
+                "name": "Ghana"
             },
             {
                 "id": 100117,
-                "name": "Grenada",
-                "noData": null
+                "code": "GRD",
+                "name": "Grenada"
             },
             {
                 "id": 100118,
-                "name": "Guatemala",
-                "noData": null
+                "code": "GTM",
+                "name": "Guatemala"
             },
             {
                 "id": 100119,
-                "name": "Guinea",
-                "noData": null
+                "code": "GIN",
+                "name": "Guinea"
             },
             {
                 "id": 100120,
-                "name": "Guinea-Bissau",
-                "noData": null
+                "code": "GNB",
+                "name": "Guinea-Bissau"
             },
             {
                 "id": 100121,
-                "name": "Guyana",
-                "noData": null
+                "code": "GUY",
+                "name": "Guyana"
             },
             {
                 "id": 100122,
-                "name": "Haiti",
-                "noData": null
+                "code": "HTI",
+                "name": "Haiti"
             },
             {
                 "id": 100123,
-                "name": "Honduras",
-                "noData": null
+                "code": "HND",
+                "name": "Honduras"
             },
             {
                 "id": 100124,
-                "name": "India",
-                "noData": null
+                "code": "IND",
+                "name": "India"
             },
             {
                 "id": 100125,
-                "name": "Indonesia",
-                "noData": null
+                "code": "IDN",
+                "name": "Indonesia"
             },
             {
                 "id": 100126,
-                "name": "Iran (Islamic Republic of)",
-                "noData": null
+                "code": "IRN",
+                "name": "Iran (Islamic Republic of)"
             },
             {
                 "id": 100127,
-                "name": "Iraq",
-                "noData": null
+                "code": "IRQ",
+                "name": "Iraq"
             },
             {
                 "id": 100128,
-                "name": "Israel",
-                "noData": null
+                "code": "ISR",
+                "name": "Israel"
             },
             {
                 "id": 100129,
-                "name": "Jamaica",
-                "noData": null
+                "code": "JAM",
+                "name": "Jamaica"
             },
             {
                 "id": 100130,
-                "name": "Jordan",
-                "noData": null
+                "code": "JOR",
+                "name": "Jordan"
             },
             {
                 "id": 100132,
-                "name": "Kenya",
-                "noData": null
+                "code": "KEN",
+                "name": "Kenya"
             },
             {
                 "id": 100133,
-                "name": "Kiribati",
-                "noData": null
+                "code": "KIR",
+                "name": "Kiribati"
             },
             {
                 "id": 100134,
-                "name": "Kuwait",
-                "noData": null
+                "code": "KWT",
+                "name": "Kuwait"
             },
             {
                 "id": 100135,
-                "name": "Kyrgyzstan",
-                "noData": null
+                "code": "KGZ",
+                "name": "Kyrgyzstan"
             },
             {
                 "id": 100136,
-                "name": "Lao People's Democratic Republic",
-                "noData": null
+                "code": "LAO",
+                "name": "Lao People's Democratic Republic"
             },
             {
                 "id": 100137,
-                "name": "Lebanon",
-                "noData": null
+                "code": "LBN",
+                "name": "Lebanon"
             },
             {
                 "id": 100138,
-                "name": "Lesotho",
-                "noData": null
+                "code": "LSO",
+                "name": "Lesotho"
             },
             {
                 "id": 100139,
-                "name": "Liberia",
-                "noData": null
+                "code": "LBR",
+                "name": "Liberia"
             },
             {
                 "id": 100140,
+                "code": "LBY",
                 "name": "Libya",
                 "noData": true
             },
             {
                 "id": 100141,
-                "name": "Madagascar",
-                "noData": null
+                "code": "MDG",
+                "name": "Madagascar"
             },
             {
                 "id": 100142,
-                "name": "Malawi",
-                "noData": null
+                "code": "MWI",
+                "name": "Malawi"
             },
             {
                 "id": 100143,
-                "name": "Malaysia",
-                "noData": null
+                "code": "MYS",
+                "name": "Malaysia"
             },
             {
                 "id": 100144,
-                "name": "Maldives",
-                "noData": null
+                "code": "MDV",
+                "name": "Maldives"
             },
             {
                 "id": 100145,
-                "name": "Mali",
-                "noData": null
+                "code": "MLI",
+                "name": "Mali"
             },
             {
                 "id": 100146,
-                "name": "Marshall Islands",
-                "noData": null
+                "code": "MHL",
+                "name": "Marshall Islands"
             },
             {
                 "id": 100147,
-                "name": "Mauritania",
-                "noData": null
+                "code": "MRT",
+                "name": "Mauritania"
             },
             {
                 "id": 100148,
-                "name": "Mauritius",
-                "noData": null
+                "code": "MUS",
+                "name": "Mauritius"
             },
             {
                 "id": 100149,
-                "name": "Mexico",
-                "noData": null
+                "code": "MEX",
+                "name": "Mexico"
             },
             {
                 "id": 100150,
-                "name": "Micronesia (Federated States of)",
-                "noData": null
+                "code": "FSM",
+                "name": "Micronesia (Federated States of)"
             },
             {
                 "id": 100152,
-                "name": "Mongolia",
-                "noData": null
+                "code": "MNG",
+                "name": "Mongolia"
             },
             {
                 "id": 100153,
-                "name": "Montenegro",
-                "noData": null
+                "code": "MNE",
+                "name": "Montenegro"
             },
             {
                 "id": 100154,
-                "name": "Morocco",
-                "noData": null
+                "code": "MAR",
+                "name": "Morocco"
             },
             {
                 "id": 100155,
-                "name": "Mozambique",
-                "noData": null
+                "code": "MOZ",
+                "name": "Mozambique"
             },
             {
                 "id": 100156,
-                "name": "Myanmar",
-                "noData": null
+                "code": "MMR",
+                "name": "Myanmar"
             },
             {
                 "id": 100157,
-                "name": "Namibia",
-                "noData": null
+                "code": "NAM",
+                "name": "Namibia"
             },
             {
                 "id": 100158,
-                "name": "Nauru",
-                "noData": null
+                "code": "NRU",
+                "name": "Nauru"
             },
             {
                 "id": 100159,
-                "name": "Nepal",
-                "noData": null
+                "code": "NPL",
+                "name": "Nepal"
             },
             {
                 "id": 100160,
-                "name": "Nicaragua",
-                "noData": null
+                "code": "NIC",
+                "name": "Nicaragua"
             },
             {
                 "id": 100161,
-                "name": "Niger",
-                "noData": null
+                "code": "NER",
+                "name": "Niger"
             },
             {
                 "id": 100162,
-                "name": "Nigeria",
-                "noData": null
+                "code": "NGA",
+                "name": "Nigeria"
             },
             {
                 "id": 100163,
-                "name": "Niue",
-                "noData": null
+                "code": "NIU",
+                "name": "Niue"
             },
             {
                 "id": 100164,
-                "name": "Oman",
-                "noData": null
+                "code": "OMN",
+                "name": "Oman"
             },
             {
                 "id": 100165,
-                "name": "Pakistan",
-                "noData": null
+                "code": "PAK",
+                "name": "Pakistan"
             },
             {
                 "id": 100166,
-                "name": "Palau",
-                "noData": null
+                "code": "PLW",
+                "name": "Palau"
             },
             {
                 "id": 100229,
-                "name": "Palestine",
-                "noData": null
+                "code": "PSE",
+                "name": "Palestine"
             },
             {
                 "id": 100167,
-                "name": "Panama",
-                "noData": null
+                "code": "PAN",
+                "name": "Panama"
             },
             {
                 "id": 100168,
-                "name": "Papua New Guinea",
-                "noData": null
+                "code": "PNG",
+                "name": "Papua New Guinea"
             },
             {
                 "id": 100169,
-                "name": "Paraguay",
-                "noData": null
+                "code": "PRY",
+                "name": "Paraguay"
             },
             {
                 "id": 100170,
-                "name": "Peru",
-                "noData": null
+                "code": "PER",
+                "name": "Peru"
             },
             {
                 "id": 100171,
-                "name": "Philippines",
-                "noData": null
+                "code": "PHL",
+                "name": "Philippines"
             },
             {
                 "id": 100172,
-                "name": "Qatar",
-                "noData": null
+                "code": "QAT",
+                "name": "Qatar"
             },
             {
                 "id": 100173,
-                "name": "Republic of Korea",
-                "noData": null
+                "code": "KOR",
+                "name": "Republic of Korea"
             },
             {
                 "id": 100174,
-                "name": "Republic of Moldova",
-                "noData": null
+                "code": "MDA",
+                "name": "Republic of Moldova"
             },
             {
                 "id": 100175,
-                "name": "Rwanda",
-                "noData": null
+                "code": "RWA",
+                "name": "Rwanda"
             },
             {
                 "id": 100176,
-                "name": "Saint Kitts and Nevis",
-                "noData": null
+                "code": "KNA",
+                "name": "Saint Kitts and Nevis"
             },
             {
                 "id": 100177,
-                "name": "Saint Lucia",
-                "noData": null
+                "code": "LCA",
+                "name": "Saint Lucia"
             },
             {
                 "id": 100178,
-                "name": "Saint Vincent and the Grenadines",
-                "noData": null
+                "code": "VCT",
+                "name": "Saint Vincent and the Grenadines"
             },
             {
                 "id": 100179,
-                "name": "Samoa",
-                "noData": null
+                "code": "WSM",
+                "name": "Samoa"
             },
             {
                 "id": 100180,
-                "name": "San Marino",
-                "noData": null
+                "code": "SMR",
+                "name": "San Marino"
             },
             {
                 "id": 100181,
-                "name": "Sao Tome and Principe",
-                "noData": null
+                "code": "STP",
+                "name": "Sao Tome and Principe"
             },
             {
                 "id": 100182,
-                "name": "Saudi Arabia",
-                "noData": null
+                "code": "SAU",
+                "name": "Saudi Arabia"
             },
             {
                 "id": 100183,
-                "name": "Senegal",
-                "noData": null
+                "code": "SEN",
+                "name": "Senegal"
             },
             {
                 "id": 100184,
-                "name": "Serbia",
-                "noData": null
+                "code": "SCG",
+                "name": "Serbia"
             },
             {
                 "id": 100185,
-                "name": "Seychelles",
-                "noData": null
+                "code": "SYC",
+                "name": "Seychelles"
             },
             {
                 "id": 100186,
-                "name": "Sierra Leone",
-                "noData": null
+                "code": "SLE",
+                "name": "Sierra Leone"
             },
             {
                 "id": 100187,
-                "name": "Singapore",
-                "noData": null
+                "code": "SGP",
+                "name": "Singapore"
             },
             {
                 "id": 100188,
-                "name": "Solomon Islands",
-                "noData": null
+                "code": "SLB",
+                "name": "Solomon Islands"
             },
             {
                 "id": 100189,
+                "code": "SOM",
                 "name": "Somalia",
                 "noData": true
             },
             {
                 "id": 100190,
-                "name": "South Africa",
-                "noData": null
+                "code": "ZAF",
+                "name": "South Africa"
             },
             {
                 "id": 100191,
+                "code": "SSD",
                 "name": "South Sudan",
                 "noData": true
             },
             {
                 "id": 100192,
-                "name": "Sri Lanka",
-                "noData": null
+                "code": "LKA",
+                "name": "Sri Lanka"
             },
             {
                 "id": 100193,
-                "name": "Sudan",
-                "noData": null
+                "code": "SDN",
+                "name": "Sudan"
             },
             {
                 "id": 100194,
-                "name": "Suriname",
-                "noData": null
-            },
-            {
-                "id": 100195,
-                "name": "Swaziland",
-                "noData": null
+                "code": "SUR",
+                "name": "Suriname"
             },
             {
                 "id": 100196,
-                "name": "Syrian Arab Republic",
-                "noData": null
+                "code": "SYR",
+                "name": "Syrian Arab Republic"
             },
             {
                 "id": 100197,
-                "name": "Tajikistan",
-                "noData": null
+                "code": "TJK",
+                "name": "Tajikistan"
             },
             {
                 "id": 100198,
-                "name": "Thailand",
-                "noData": null
+                "code": "THA",
+                "name": "Thailand"
             },
             {
                 "id": 100199,
-                "name": "The former Yugoslav Republic of Macedonia",
-                "noData": null
+                "code": "MKD",
+                "name": "The former Yugoslav Republic of Macedonia"
             },
             {
                 "id": 100200,
-                "name": "Timor-Leste",
-                "noData": null
+                "code": "TLS",
+                "name": "Timor-Leste"
             },
             {
                 "id": 100201,
-                "name": "Togo",
-                "noData": null
+                "code": "TGO",
+                "name": "Togo"
             },
             {
                 "id": 100202,
-                "name": "Tonga",
-                "noData": null
+                "code": "TON",
+                "name": "Tonga"
             },
             {
                 "id": 100203,
-                "name": "Trinidad and Tobago",
-                "noData": null
+                "code": "TTO",
+                "name": "Trinidad and Tobago"
             },
             {
                 "id": 100204,
-                "name": "Tunisia",
-                "noData": null
+                "code": "TUN",
+                "name": "Tunisia"
             },
             {
                 "id": 100205,
-                "name": "Turkmenistan",
-                "noData": null
+                "code": "TKM",
+                "name": "Turkmenistan"
             },
             {
                 "id": 100206,
-                "name": "Tuvalu",
-                "noData": null
+                "code": "TUV",
+                "name": "Tuvalu"
             },
             {
                 "id": 100207,
-                "name": "Uganda",
-                "noData": null
+                "code": "UGA",
+                "name": "Uganda"
             },
             {
                 "id": 100208,
-                "name": "United Arab Emirates",
-                "noData": null
+                "code": "ARE",
+                "name": "United Arab Emirates"
             },
             {
                 "id": 100209,
-                "name": "United Republic of Tanzania",
-                "noData": null
+                "code": "TZA",
+                "name": "United Republic of Tanzania"
             },
             {
                 "id": 100210,
-                "name": "Uruguay",
-                "noData": null
+                "code": "URY",
+                "name": "Uruguay"
             },
             {
                 "id": 100211,
-                "name": "Uzbekistan",
-                "noData": null
+                "code": "UZB",
+                "name": "Uzbekistan"
             },
             {
                 "id": 100212,
-                "name": "Vanuatu",
-                "noData": null
+                "code": "VUT",
+                "name": "Vanuatu"
             },
             {
                 "id": 100213,
-                "name": "Venezuela (Bolivarian Republic of)",
-                "noData": null
+                "code": "VEN",
+                "name": "Venezuela (Bolivarian Republic of)"
             },
             {
                 "id": 100214,
-                "name": "Viet Nam",
-                "noData": null
+                "code": "VNM",
+                "name": "Viet Nam"
             },
             {
                 "id": 100215,
-                "name": "Yemen",
-                "noData": null
+                "code": "YEM",
+                "name": "Yemen"
             },
             {
                 "id": 100216,
-                "name": "Zambia",
-                "noData": null
+                "code": "ZMB",
+                "name": "Zambia"
             },
             {
                 "id": 100217,
-                "name": "Zimbabwe",
-                "noData": null
+                "code": "ZWE",
+                "name": "Zimbabwe"
             }
         ]
     }

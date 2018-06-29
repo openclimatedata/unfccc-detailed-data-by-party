@@ -2,113 +2,77 @@
     "annexOne": [
         {
             "id": 10467,
-            "name": "Aggregate GHGs",
-            "children": null,
-            "hideCharts": null
+            "name": "Aggregate GHGs"
         },
         {
             "id": 10469,
-            "name": "CO2",
-            "children": null,
-            "hideCharts": null
+            "name": "CO\u2082"
         },
         {
             "id": 10468,
-            "name": "CH4",
-            "children": null,
-            "hideCharts": null
+            "name": "CH\u2084"
         },
         {
             "id": 10471,
-            "name": "N2O",
-            "children": null,
-            "hideCharts": null
+            "name": "N\u2082O"
         },
         {
             "id": 10466,
-            "name": "Aggregate F-gases",
-            "children": null,
-            "hideCharts": null
+            "name": "Aggregate F-gases"
         },
         {
             "id": 10470,
-            "name": "HFCs",
-            "children": null,
-            "hideCharts": null
+            "name": "HFCs"
         },
         {
             "id": 10473,
-            "name": "PFCs",
-            "children": null,
-            "hideCharts": null
+            "name": "PFCs"
         },
         {
             "id": 10475,
-            "name": "Unspecified mix of HFCs and PFCs",
-            "children": null,
-            "hideCharts": null
+            "name": "Unspecified mix of HFCs and PFCs"
         },
         {
             "id": 10474,
-            "name": "SF6",
-            "children": null,
-            "hideCharts": null
+            "name": "SF\u2086"
         },
         {
             "id": 10472,
-            "name": "NF3",
-            "children": null,
-            "hideCharts": null
+            "name": "NF\u2083"
         }
     ],
     "nonAnnexOne": [
         {
             "id": 10467,
-            "name": "Aggregate GHGs",
-            "children": null,
-            "hideCharts": null
+            "name": "Aggregate GHGs"
         },
         {
             "id": 10469,
-            "name": "CO2",
-            "children": null,
-            "hideCharts": null
+            "name": "CO\u2082"
         },
         {
             "id": 10468,
-            "name": "CH4",
-            "children": null,
-            "hideCharts": null
+            "name": "CH\u2084"
         },
         {
             "id": 10471,
-            "name": "N2O",
-            "children": null,
-            "hideCharts": null
+            "name": "N\u2082O"
         },
         {
             "id": 10466,
-            "name": "Aggregate F-gases",
-            "children": null,
-            "hideCharts": null
+            "name": "Aggregate F-gases"
         },
         {
             "id": 10470,
-            "name": "HFCs",
-            "children": null,
-            "hideCharts": null
+            "name": "HFCs"
         },
         {
             "id": 10473,
-            "name": "PFCs",
-            "children": null,
-            "hideCharts": null
+            "name": "PFCs"
         },
         {
             "id": 10474,
-            "name": "SF6",
-            "children": null,
-            "hideCharts": null
+            "name": "SF\u2086"
         }
     ]
 }

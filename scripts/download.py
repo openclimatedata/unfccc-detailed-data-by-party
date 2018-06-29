@@ -20,7 +20,7 @@ def get_children(items, parent=None):
             item["parent"] = parent
         else:
             item["parent"] = item["name"]
-        if item["children"] is not None:
+        if "children" in item and item["children"] is not None:
             all_categories.append(item)
             all_categories = (
                 all_categories + get_children(item["children"], item["name"]))
