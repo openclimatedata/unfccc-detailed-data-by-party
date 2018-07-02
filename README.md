@@ -8,7 +8,7 @@ Is is in a "wide" format, with base year and individual years as columns.
 
 According to the [overview webpage](http://unfccc.int/ghg_data/new_reporting_requirements/items/9560.php) the interface contains data
 
-> reported by Annex I Parties and, to the extent possible, information provided in the national communications and biennial update reports of non-Annex I Parties as of 9 February 2018
+>  reported by Annex I Parties and, to the extent possible, information provided in the national communications and biennial update reports of non-Annex I Parties as of 27 May 2018
 
 Note also the following footnotes from the data interface:
 
@@ -16,7 +16,7 @@ Note also the following footnotes from the data interface:
 
 > Base year data in the data interface relate to the base year under the Climate Change Convention (UNFCCC). The base year under the Convention is defined slightly different than the base year under the Kyoto Protocol. An exception is made for European Union (KP) whereby the base year under the Kyoto Protocol is displayed.
 
-> Some non-Annex I Parties submitted their GHG inventory data using the format of the 2006 IPCC Guidelines in reporting GHG emissions/removals. For this reason, these data could not be included in the data interface. However, the data are available in the national communications (Antigua and Barbuda, Armenia, Brunei Darussalam, Côte d'Ivoire, Colombia, Ghana, Indonesia, Jamaica, Kiribati, Mauritania, Namibia, Republic of Moldova, Samoa, Serbia, Suriname, Swaziland and Venezuela) and biennial update reports (Andorra, Argentina, Armenia, Chile, Colombia, Costa Rica, Indonesia, Jordan, The Former Yugoslav Republic of Macedonia, Mauritania, Mongolia, Montenegro, Namibia, Serbia, South Africa, Togo, Tunisia and Uruguay).
+> Some non-Annex I Parties submitted their GHG inventory data using the format of the 2006 IPCC Guidelines in reporting GHG emissions/removals. For this reason, these data could not be included in the data interface. However, the data are available in the national communications (Andorra, Antigua and Barbuda, Armenia, Brunei Darussalam, Côte d'Ivoire, Colombia, Eswatini, Ghana, Indonesia, Jamaica, Kiribati, Mauritania, Mongolia, Namibia, Republic of Moldova, Samoa, Serbia, Sierra Leone, Suriname, United Arab Emirates and Venezuela) and biennial update reports (Andorra, Argentina, Armenia, Chile, Colombia, Costa Rica, Indonesia, Jordan, The Former Yugoslav Republic of Macedonia, Mauritania, Mongolia, Montenegro, Namibia, Nigeria, Serbia, South Africa, Togo, Tunisia and Uruguay).
 
 > Data displayed on the data interface are "as received" from Parties. The publication of Party submissions on this website does not imply the expression of any opinion whatsoever on the part of the UNFCCC or the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries as may be referred to in any of the submissions.
 
