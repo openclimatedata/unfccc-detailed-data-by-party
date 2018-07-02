@@ -26,12 +26,12 @@ df_columns = {
                   'Base year', '1990', '1991', '1992', '1993', '1994', '1995',
                   '1996', '1997', '1998', '1999', '2000', '2001', '2002',
                   '2003', '2004', '2005', '2006', '2007', '2008', '2009',
-                  '2010', '2011', '2012', '2013', '2014', '2015'],
+                  '2010', '2011', '2012', '2013', '2014', '2015', "2016"],
     "non-annex-one": ['Party', 'Parent Category', 'Category', 'Gas', 'Unit',
                       '1990', '1991', '1992', '1993', '1994', '1995', '1996',
                       '1997', '1998', '1999', '2000', '2001', '2002', '2003',
                       '2004', '2005', '2006', '2007', '2008', '2009', '2010',
-                      '2011', '2012', '2013']
+                      '2011', '2012', '2013', '2014', '2015']
 }
 
 for group in ["annex-one", "non-annex-one"]:
@@ -42,13 +42,14 @@ for group in ["annex-one", "non-annex-one"]:
     print(group, len(files), " JSON files")
     for filename in files:
         basename = os.path.splitext(os.path.basename(filename))[0]
+        print(group, basename)
         parent_category, _, gas = basename.split("___")
         table = json.load(open(filename))
         index = {i["id"]: i["name"] for i in table["columns"]}
 
         # Skip empty category/gas combinations.
-        if len(index) > 0:
-            # Shorten e.g. "Last Inventory Year (2015)" to just the year
+        if len(table["columns"]) > 0:
+            # Shorten e.g. "Last Inventory Year (2016)" to just the year
             index_keys = list(index.keys())
             index[index_keys[-1]] = index[index_keys[-1]][-5:-1]
 
