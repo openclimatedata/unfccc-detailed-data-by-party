@@ -2,6 +2,8 @@ Data Package with UNFCCC emissions data, downloaded from the UNFCCC ["Detailed D
 
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.1300334.svg)](https://zenodo.org/record/1300334)
 
+Maintainer: Robert Gieseke <robert.gieseke@pik-potsdam.de>
+
 ## Data
 
 The data is available in two files, one for Annex-I and one for Non-Annex-I parties.
