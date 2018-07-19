@@ -1,7 +1,10 @@
-# Changelog for openclimatedata/unfccc-detailed-data-by-party
-## Release: Download from 2018-07-02
+# Changelog
+
+## Download from 2018-07-02
+
 ### The following countries have new or changed data:
-* Bosnia and Herzegovina: new data for 2012 and 2014 for individual gases and for aggregate Kyoto gases complete new timeseries from 2001 to 2014. Data unchanged from 1990 to 2000
+
+* Bosnia and Herzegovina: new data for 2012 and 2014 for individual gases and for aggregate Kyoto gases complete new timeseries from 2001 to 2014. Data unchanged from 1990 to 2000.
 * Chile: 2010, Kyoto GHG, category 2 datapoint that seemed erroneus in the last version has been corrected.
 * Dominican Republic: Data for Year 2010 has been added.
 * Ecuador: Data for 2012 has been added. Historical data has been changed (some data points have been removed). 1994 emissions are much higher than emissions for subsequent years.
@@ -16,7 +19,13 @@
 * Thailand: Data for Year 2014 has been added. For aggregate Kyoto GHG a complete  timeseries from 2000 to 2013 has been added.
 * Viet Nam: Data for Year 2013 has been added.
 
-Small changes in individual sectors might be missing as countries where only investigated in detail where changes we visible in CATM0EL Kyoto GHG data.
+Small changes in individual sectors might be missing as countries were only investigated in detail when changes were visible in aggregated Kyoto GHG data
+(CATM0EL in [PRIMAP-hist](http://www.pik-potsdam.de/paris-reality-check/primap-hist/)).
 
 ### General problems
-* Belize: Aggregate Kyoto GHG CATM0EL data does not coincide with calculated sums for years 2003, 2006, and 2009. (not a change actually)
+
+* Belize: Aggregate Kyoto GHG (CATM0EL in PRIMAP-hist) data does not coincide with calculated sums for years 2003, 2006, and 2009.
+
+## Download from 2018-03-26
+
+Initial publication of downloaded data.
