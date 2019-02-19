@@ -14,7 +14,7 @@ Is is in a "wide" format, with base year and individual years as columns.
 
 According to the [overview webpage](http://unfccc.int/ghg_data/new_reporting_requirements/items/9560.php) the interface contains data
 
->  reported by Annex I Parties and, to the extent possible, information provided in the national communications and biennial update reports of non-Annex I Parties as of 27 May 2018
+>  reported by Annex I Parties and, to the extent possible, information provided in the national communications and biennial update reports of non-Annex I Parties as of 31 August 2018.
 
 Note also the following footnotes from the data interface:
 
