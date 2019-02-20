@@ -11,7 +11,7 @@
 * Guinea-Bissau: Data for Year 2010 has been added.
 * Israel: Data for 2014 and 2015 has been added. Historical time series have been updated slightly.
 * Republic of Korea: Data for 2013 and 2014 has been added. Historical CH4 time series have been updated and amended.
-* Saint Lucia: Data for 2005 and 2010 has been added. Year 200 data has been adjusted. 1995 emissions still very high compared to other years (originating from CH4, category 6 (waste)).
+* Saint Lucia: Data for 2005 and 2010 has been added. Year 2000 data has been adjusted. 1995 emissions still very high compared to other years (originating from CH4, category 6 (waste)).
 * Madagascar: Data for 2005 - 2010 has been added.
 * Paraguay: Data for 2005,2012 has been added. 1994 data has been revised.
 * Saudi Arabia: Data for 2012 has been added.
