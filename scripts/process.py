@@ -21,18 +21,6 @@ csv_paths = {
     "non-annex-one": os.path.join(
         datapath, "detailed-data-by-country-non-annex-one.csv")
 }
-df_columns = {
-    "annex-one": ['Party', 'Parent Category', 'Category', 'Gas', 'Unit',
-                  'Base year', '1990', '1991', '1992', '1993', '1994', '1995',
-                  '1996', '1997', '1998', '1999', '2000', '2001', '2002',
-                  '2003', '2004', '2005', '2006', '2007', '2008', '2009',
-                  '2010', '2011', '2012', '2013', '2014', '2015', "2016"],
-    "non-annex-one": ['Party', 'Parent Category', 'Category', 'Gas', 'Unit',
-                      '1990', '1991', '1992', '1993', '1994', '1995', '1996',
-                      '1997', '1998', '1999', '2000', '2001', '2002', '2003',
-                      '2004', '2005', '2006', '2007', '2008', '2009', '2010',
-                      '2011', '2012', '2013', '2014', '2015']
-}
 
 for group in ["annex-one", "non-annex-one"]:
     files = glob.glob(
@@ -81,17 +69,24 @@ for group in ["annex-one", "non-annex-one"]:
                     data.append(values)
 
     df = pd.DataFrame(data)
-    df = df[df_columns[group]]
+
     filtered = df.set_index(
         ["Party", "Parent Category", "Category", "Gas", "Unit"])
     filtered = filtered.dropna(how="all").reset_index()
     filtered = filtered.drop_duplicates().set_index(
-        ["Party", "Parent Category", "Category", "Gas", "Unit"]).sort_index()
+        ["Party", "Parent Category", "Category", "Gas", "Unit"]
+        ).sort_index()
+
+    filtered = filtered.reset_index()
+    if "Base year" in filtered.columns:  # Annex-One
+        ordered = ["Party", "Parent Category", "Category", "Gas", "Unit", "Base year"] + list(filtered.columns[5:-1])
+        filtered = filtered[ordered]
+
     print("=> ", csv_paths[group])
-    party_names = filtered.index.get_level_values("Party").unique()
+    party_names = filtered["Party"].unique()
 
     # Check if countries with no data (listed with attribute "noData" set
     # to 'true' in `parties.json`) have no data.
     assert set(party_names).isdisjoint(set(no_data))
 
-    filtered.to_csv(csv_paths[group])
+    filtered.to_csv(csv_paths[group], index=False)
