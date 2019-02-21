@@ -1,5 +1,9 @@
 # Changelog
 
+## Download from 2019-02-19
+
+Updated data, main website states data as provided by 31 August 2018.
+
 ## Download from 2018-07-02
 
 ### The following countries have new or changed data:
