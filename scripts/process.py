@@ -16,16 +16,14 @@ datapath = os.path.join(path, "../data")
 
 metadata = ["Party", "Category", "Gas", "Unit"]
 csv_paths = {
-    "annex-one": os.path.join(
-        datapath, "detailed-data-by-country-annex-one.csv"),
+    "annex-one": os.path.join(datapath, "detailed-data-by-country-annex-one.csv"),
     "non-annex-one": os.path.join(
-        datapath, "detailed-data-by-country-non-annex-one.csv")
+        datapath, "detailed-data-by-country-non-annex-one.csv"
+    ),
 }
 
 for group in ["annex-one", "non-annex-one"]:
-    files = glob.glob(
-        os.path.join(archivepath, group, "*.json")
-    )
+    files = glob.glob(os.path.join(archivepath, group, "*.json"))
     data = []
     print(group, len(files), " JSON files")
     for filename in files:
@@ -49,10 +47,10 @@ for group in ["annex-one", "non-annex-one"]:
 
                     values = {}
                     values["Party"] = name
-                    values["Parent Category"] = parent_category.replace(
-                        "_-_", "/")
-                    values["Category"] = row["name"].replace(
-                        "  ", " ").replace("_-_", "/")
+                    values["Parent Category"] = parent_category.replace("_-_", "/")
+                    values["Category"] = (
+                        row["name"].replace("  ", " ").replace("_-_", "/")
+                    )
                     values["Gas"] = gas
                     if row["unitId"] is not None:
                         unit = units[row["unitId"]]
@@ -70,16 +68,24 @@ for group in ["annex-one", "non-annex-one"]:
 
     df = pd.DataFrame(data)
 
-    filtered = df.set_index(
-        ["Party", "Parent Category", "Category", "Gas", "Unit"])
+    filtered = df.set_index(["Party", "Parent Category", "Category", "Gas", "Unit"])
     filtered = filtered.dropna(how="all").reset_index()
-    filtered = filtered.drop_duplicates().set_index(
-        ["Party", "Parent Category", "Category", "Gas", "Unit"]
-        ).sort_index()
+    filtered = (
+        filtered.drop_duplicates()
+        .set_index(["Party", "Parent Category", "Category", "Gas", "Unit"])
+        .sort_index()
+    )
 
     filtered = filtered.reset_index()
     if "Base year" in filtered.columns:  # Annex-One
-        ordered = ["Party", "Parent Category", "Category", "Gas", "Unit", "Base year"] + list(filtered.columns[5:-1])
+        ordered = [
+            "Party",
+            "Parent Category",
+            "Category",
+            "Gas",
+            "Unit",
+            "Base year",
+        ] + list(filtered.columns[5:-1])
         filtered = filtered[ordered]
 
     print("=> ", csv_paths[group])
