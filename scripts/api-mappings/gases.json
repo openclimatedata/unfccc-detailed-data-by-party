@@ -17,10 +17,6 @@
             "name": "N\u2082O"
         },
         {
-            "id": 10466,
-            "name": "Aggregate F-gases"
-        },
-        {
             "id": 10470,
             "name": "HFCs"
         },
@@ -39,6 +35,158 @@
         {
             "id": 10472,
             "name": "NF\u2083"
+        },
+        {
+            "id": 10466,
+            "name": "Aggregate F-gases"
+        },
+        {
+            "id": 10603,
+            "name": "HFC-23"
+        },
+        {
+            "id": 10604,
+            "name": "HFC-32"
+        },
+        {
+            "id": 10605,
+            "name": "HFC-41"
+        },
+        {
+            "id": 10606,
+            "name": "HFC-43-10mee"
+        },
+        {
+            "id": 10607,
+            "name": "HFC-125"
+        },
+        {
+            "id": 10608,
+            "name": "HFC-134"
+        },
+        {
+            "id": 10609,
+            "name": "HFC-134a"
+        },
+        {
+            "id": 10610,
+            "name": "HFC-143"
+        },
+        {
+            "id": 10611,
+            "name": "HFC-143a"
+        },
+        {
+            "id": 10612,
+            "name": "HFC-152"
+        },
+        {
+            "id": 10613,
+            "name": "HFC-152a"
+        },
+        {
+            "id": 10614,
+            "name": "HFC-161"
+        },
+        {
+            "id": 10615,
+            "name": "HFC-227ea"
+        },
+        {
+            "id": 10616,
+            "name": "HFC-236cb"
+        },
+        {
+            "id": 10617,
+            "name": "HFC-236ea"
+        },
+        {
+            "id": 10618,
+            "name": "HFC-236fa"
+        },
+        {
+            "id": 10619,
+            "name": "HFC-245ca"
+        },
+        {
+            "id": 10620,
+            "name": "HFC-245fa"
+        },
+        {
+            "id": 10621,
+            "name": "HFC-365mfc"
+        },
+        {
+            "id": 10601,
+            "name": "Unspecified mix of HFCs"
+        },
+        {
+            "id": 10622,
+            "name": "CF\u2084"
+        },
+        {
+            "id": 10623,
+            "name": "C\u2082F\u2086"
+        },
+        {
+            "id": 10624,
+            "name": "c-C\u2083F\u2086"
+        },
+        {
+            "id": 10625,
+            "name": "C\u2083F\u2088"
+        },
+        {
+            "id": 10626,
+            "name": "c-C\u2084F\u2088"
+        },
+        {
+            "id": 10627,
+            "name": "C\u2084F\u2081\u2080"
+        },
+        {
+            "id": 10628,
+            "name": "C5F\u2081\u2082"
+        },
+        {
+            "id": 10629,
+            "name": "C\u2086F\u2081\u2084"
+        },
+        {
+            "id": 10630,
+            "name": "C\u2081\u2080F\u2081\u2088"
+        },
+        {
+            "id": 10602,
+            "name": "Unspecified mix of PFCs"
+        },
+        {
+            "id": 10635,
+            "name": "NO\u2093"
+        },
+        {
+            "id": 10632,
+            "name": "CO"
+        },
+        {
+            "id": 10634,
+            "name": "NMVOC"
+        },
+        {
+            "id": 10636,
+            "name": "SO\u2082"
+        },
+        {
+            "id": 10631,
+            "name": "C"
+        },
+        {
+            "id": 10633,
+            "name": "NH\u2083"
+        },
+        {
+            "id": 10637,
+            "name": "No gas"
         }
     ],
     "nonAnnexOne": [
@@ -59,10 +207,6 @@
             "name": "N\u2082O"
         },
         {
-            "id": 10466,
-            "name": "Aggregate F-gases"
-        },
-        {
             "id": 10470,
             "name": "HFCs"
         },
@@ -73,6 +217,159 @@
         {
             "id": 10474,
             "name": "SF\u2086"
+        },
+        {
+            "id": 10466,
+            "name": "Aggregate F-gases"
+        },
+        {
+            "id": 10603,
+            "name": "HFC-23"
+        },
+        {
+            "id": 10604,
+            "name": "HFC-32"
+        },
+        {
+            "id": 10605,
+            "name": "HFC-41"
+        },
+        {
+            "id": 10606,
+            "name": "HFC-43-10mee"
+        },
+        {
+            "id": 10607,
+            "name": "HFC-125"
+        },
+        {
+            "id": 10608,
+            "name": "HFC-134"
+        },
+        {
+            "id": 10609,
+            "name": "HFC-134a"
+        },
+        {
+            "id": 10610,
+            "name": "HFC-143"
+        },
+        {
+            "id": 10611,
+            "name": "HFC-143a"
+        },
+        {
+            "id": 10612,
+            "name": "HFC-152"
+        },
+        {
+            "id": 10613,
+            "name": "HFC-152a"
+        },
+        {
+            "id": 10614,
+            "name": "HFC-161"
+        },
+        {
+            "id": 10615,
+            "name": "HFC-227ea"
+        },
+        {
+            "id": 10616,
+            "name": "HFC-236cb"
+        },
+        {
+            "id": 10617,
+            "name": "HFC-236ea"
+        },
+        {
+            "id": 10618,
+            "name": "HFC-236fa"
+        },
+        {
+            "id": 10619,
+            "name": "HFC-245ca"
+        },
+        {
+            "id": 10620,
+            "name": "HFC-245fa"
+        },
+        {
+            "id": 10621,
+            "name": "HFC-365mfc"
+        },
+        {
+            "id": 10601,
+            "name": "Unspecified mix of HFCs"
+        },
+        {
+            "id": 10622,
+            "name": "CF\u2084"
+        },
+        {
+            "id": 10623,
+            "name": "C\u2082F\u2086"
+        },
+        {
+            "id": 10624,
+            "name": "c-C\u2083F\u2086"
+        },
+        {
+            "id": 10625,
+            "name": "C\u2083F\u2088"
+        },
+        {
+            "id": 10626,
+            "name": "c-C\u2084F\u2088"
+        },
+        {
+            "id": 10627,
+            "name": "C\u2084F\u2081\u2080"
+        },
+        {
+            "id": 10628,
+            "name": "C5F\u2081\u2082"
+        },
+        {
+            "id": 10629,
+            "name": "C\u2086F\u2081\u2084"
+        },
+        {
+            "id": 10630,
+            "name": "C\u2081\u2080F\u2081\u2088"
+        },
+        {
+            "id": 10602,
+            "name": "Unspecified mix of PFCs"
+        },
+        {
+            "id": 10635,
+            "name": "NO\u2093"
+        },
+        {
+            "id": 10632,
+            "name": "CO"
+        },
+        {
+            "id": 10634,
+            "name": "NMVOC"
+        },
+        {
+            "id": 10636,
+            "name": "SO\u2082"
+        },
+        {
+            "id": 10631,
+            "name": "C"
+        },
+        {
+            "id": 10633,
+            "name": "NH\u2083"
+        },
+        {
+            "id": 10637,
+            "name": "No gas"
         }
-    ]
+    ],
+    "extData": null
 }
