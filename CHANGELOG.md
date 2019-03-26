@@ -1,8 +1,13 @@
 # Changelog
 
+## Download from 2019-03-26
+
+Updated data, main website states data provided as of 1 March 2019.
+Some category names have changed slightly (capitalization, numbering scheme).
+
 ## Download from 2019-02-19
 
-Updated data, main website states data as provided by 31 August 2018.
+Updated data, main website states data provided as of 31 August 2018.
 
 ## Download from 2018-07-02
 
