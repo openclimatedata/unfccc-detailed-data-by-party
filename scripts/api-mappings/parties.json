@@ -67,7 +67,7 @@
             {
                 "id": 12,
                 "code": "CZE",
-                "name": "Czech Republic"
+                "name": "Czechia"
             },
             {
                 "id": 15,
@@ -754,6 +754,11 @@
                 "name": "Niue"
             },
             {
+                "id": 100199,
+                "code": "MKD",
+                "name": "North Macedonia"
+            },
+            {
                 "id": 100164,
                 "code": "OMN",
                 "name": "Oman"
@@ -767,11 +772,6 @@
                 "id": 100166,
                 "code": "PLW",
                 "name": "Palau"
-            },
-            {
-                "id": 100229,
-                "code": "PSE",
-                "name": "Palestine"
             },
             {
                 "id": 100167,
@@ -860,7 +860,7 @@
             },
             {
                 "id": 100184,
-                "code": "SCG",
+                "code": "SRB",
                 "name": "Serbia"
             },
             {
@@ -906,6 +906,11 @@
                 "name": "Sri Lanka"
             },
             {
+                "id": 100229,
+                "code": "PSE",
+                "name": "State of Palestine"
+            },
+            {
                 "id": 100193,
                 "code": "SDN",
                 "name": "Sudan"
@@ -929,11 +934,6 @@
                 "id": 100198,
                 "code": "THA",
                 "name": "Thailand"
-            },
-            {
-                "id": 100199,
-                "code": "MKD",
-                "name": "The former Yugoslav Republic of Macedonia"
             },
             {
                 "id": 100200,
