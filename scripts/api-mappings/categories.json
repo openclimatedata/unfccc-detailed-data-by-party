@@ -3010,5 +3010,177 @@
                 }
             ]
         }
+    ],
+    "cad": [
+        {
+            "id": 10931,
+            "name": "Accounting parameters",
+            "children": [
+                {
+                    "id": 10976,
+                    "name": "Quantified emission limitation or reduction commitment for the first commitment period (% of base year level)"
+                },
+                {
+                    "id": 10932,
+                    "name": "Total GHG emissions for the base year"
+                },
+                {
+                    "id": 10933,
+                    "name": "Assigned amounts pursuant to Article 3, paragraph 7 and 8"
+                },
+                {
+                    "id": 10934,
+                    "name": "Total allowable issuance of RMUs from forest management activities"
+                },
+                {
+                    "id": 10935,
+                    "name": "Limits on net acquisition of CERs from afforestation and reforestation activities"
+                },
+                {
+                    "id": 10978,
+                    "name": "Total greenhouse gas emissions in the first commitment period"
+                },
+                {
+                    "id": 10977,
+                    "name": "Quantity available in the national registry for carry-over to the second commitment period"
+                },
+                {
+                    "id": 10979,
+                    "name": "Quantity by which Annex A emissions exceed the quantity of units retired"
+                }
+            ]
+        },
+        {
+            "id": 10973,
+            "name": "GHG emissions from Annex A sources",
+            "children": [
+                {
+                    "id": 10936,
+                    "name": "Total GHG emissions from Annex A sources",
+                    "children": [
+                        {
+                            "id": 10937,
+                            "name": "Energy"
+                        },
+                        {
+                            "id": 10938,
+                            "name": "Industrial processes"
+                        },
+                        {
+                            "id": 10939,
+                            "name": "Solvents and other product use"
+                        },
+                        {
+                            "id": 10940,
+                            "name": "Agriculture"
+                        },
+                        {
+                            "id": 10941,
+                            "name": "Waste"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10974,
+            "name": "LULUCF Activities",
+            "children": [
+                {
+                    "id": 10942,
+                    "name": "LULUCF activities (Articles 3.3 and 3.4)",
+                    "children": [
+                        {
+                            "id": 10943,
+                            "name": "Article 3.3 activities",
+                            "children": [
+                                {
+                                    "id": 10944,
+                                    "name": "Afforestation and reforestation"
+                                },
+                                {
+                                    "id": 10945,
+                                    "name": "Deforestation"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10946,
+                            "name": "Article 3.4 activities",
+                            "children": [
+                                {
+                                    "id": 10947,
+                                    "name": "Forest management"
+                                },
+                                {
+                                    "id": 10948,
+                                    "name": "Cropland management"
+                                },
+                                {
+                                    "id": 10949,
+                                    "name": "Grazing land management"
+                                },
+                                {
+                                    "id": 10950,
+                                    "name": "Revegetation"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10975,
+            "name": "Quantities of KP units for first commitment period",
+            "children": [
+                {
+                    "id": 10951,
+                    "name": "Holdings of Kyoto Protocol units",
+                    "children": [
+                        {
+                            "id": 10952,
+                            "name": "Party holding accounts"
+                        },
+                        {
+                            "id": 10953,
+                            "name": "Entity holding accounts"
+                        },
+                        {
+                            "id": 10954,
+                            "name": "Article 3.3/3.4 net source cancellation accounts"
+                        },
+                        {
+                            "id": 10955,
+                            "name": "Non-compliance cancellation accounts"
+                        },
+                        {
+                            "id": 10956,
+                            "name": "Other cancellation accounts"
+                        },
+                        {
+                            "id": 10957,
+                            "name": "Retirement account"
+                        },
+                        {
+                            "id": 10958,
+                            "name": "tCER replacement account for expiry"
+                        },
+                        {
+                            "id": 10959,
+                            "name": "lCER replacement account for expiry"
+                        },
+                        {
+                            "id": 10960,
+                            "name": "lCER replacement account for reversal in storage"
+                        },
+                        {
+                            "id": 10961,
+                            "name": "lCER replacement account for non-submission of certification report"
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
