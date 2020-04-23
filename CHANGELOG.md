@@ -1,7 +1,7 @@
 # Changelog
 
 ## Download from 2020-03-30
-* The active fork of the project is now [JGuetschow/unfccc-detailed-data-by-party](https://github.com/JGuetschow/national-inventory-submisions). The Zeenodo repository is also new [XXX].
+* The active fork of the project is now [JGuetschow/unfccc-detailed-data-by-party](https://github.com/JGuetschow/national-inventory-submisions). The Zeenodo repository is also new [10.5281/zenodo.3763020](https://doi.org/10.5281/zenodo.3763020).
 
 * Updated data, main website stated data provided as of 8 November 2019.
 
