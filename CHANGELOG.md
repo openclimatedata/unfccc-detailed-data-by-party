@@ -5,7 +5,7 @@
 
 * Updated data, main website stated data provided as of 8 November 2019.
 
-### The following countries have additional or updated data:
+### The following countries have additional or updated data (only non-AnnexI listed):
 * South Sudan is included for the first time
 * Burundi has updated data for 2005 and additional data for 2010 and 2015
 * Botswana has additional data for 2015
