@@ -1,6 +1,7 @@
 Data Package with UNFCCC emissions data, downloaded from the UNFCCC ["Detailed Data By Party"](http://di.unfccc.int/detailed_data_by_party) interface.
 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.1300334.svg)](https://zenodo.org/record/1300334)
+[![DOI](https://zenodo.org/badge/251323371.svg)](https://zenodo.org/badge/latestdoi/251323371)
+
 
 Maintainers:
 
