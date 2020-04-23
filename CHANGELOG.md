@@ -1,5 +1,23 @@
 # Changelog
 
+## Download from 2020-03-30
+* The active fork of the project is now [JGuetschow/unfccc-detailed-data-by-party](https://github.com/JGuetschow/national-inventory-submisions). The Zeenodo repository is also new [XXX].
+
+* Updated data, main website stated data provided as of 8 November 2019.
+
+### The following countries have additional or updated data:
+* South Sudan is included for the first time
+* Burundi has updated data for 2005 and additional data for 2010 and 2015
+* Botswana has additional data for 2015
+* China has updated data for 2005 and additional data for 2010 and 2015. Additionally, some sector-gas combinations are included for the first time.
+* South Korea has additional data for 2015 and 2016 and updated data for all previous years.
+* Kuwait has added data for 2016.
+* Pakistan has updated data for 1994 and additional data for 2008, 2012, and 2015. Some data points have been removed.
+* Palau has updated data for 2000 and additional data for 2005. Additionally, some sector-gas combinations are included for the first time.
+* Sao Tome and Principe: Additional data for 2012. Removed data for 1998 and 2005.
+* Tonga has additional data for 2006.
+* Uruguay has additional data for 2016 and 2017.
+
 ## Download from 2019-03-26
 
 Updated data, main website states data provided as of 1 March 2019.
