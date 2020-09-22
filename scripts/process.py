@@ -76,17 +76,33 @@ for group in ["annex-one", "non-annex-one"]:
         .sort_index()
     )
 
+    
+
     filtered = filtered.reset_index()
     if "Base year" in filtered.columns:  # Annex-One
-        ordered = [
+        meta = [
             "Party",
             "Parent Category",
             "Category",
             "Gas",
             "Unit",
             "Base year",
-        ] + list(filtered.columns[5:-1])
-        filtered = filtered[ordered]
+            ]
+    else:
+        meta = [
+            "Party",
+            "Parent Category",
+            "Category",
+            "Gas",
+            "Unit",
+        ]    
+    
+    year_cols = list(set(filtered.columns) - set(meta))
+    year_cols.sort()
+    ordered = meta + year_cols
+
+ 
+    filtered = filtered[ordered]
 
     print("=> ", csv_paths[group])
     party_names = filtered["Party"].unique()
