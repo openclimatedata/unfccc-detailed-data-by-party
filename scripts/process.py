@@ -111,4 +111,4 @@ for group in ["annex-one", "non-annex-one"]:
     # to 'true' in `parties.json`) have no data.
     assert set(party_names).isdisjoint(set(no_data))
 
-    filtered.to_csv(csv_paths[group], index=False)
+    filtered.to_csv(csv_paths[group], index=False, float_format = '%g')
