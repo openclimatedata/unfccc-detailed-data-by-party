@@ -1,5 +1,16 @@
 # Changelog
 
+## Download from 2020-12-08
+
+* Updated data, main website stated data provided as of 8 November 2019, however, new data has been made available since the March update.
+
+### The following countries have additional or updated data (only non-AnnexI listed):
+* Dominica has added data for 2006 - 2017
+* Guyana has changed data for data presented in CO2 equivalents, e.g. all Kyoto GHG basket time series. Probably the underlying GWPs have changed. Be careful when using the data.
+* Honduras has additional data for 2005 and 2015 for most but not all category and gas combinations
+* Israel has added data for 2016 - 2018. Data for previous years have changed slightly for most sectors and gases.
+* Maldives: added data for 2011 - 2015. Existing 2011 data points have changed while 1994 data have remained unchanged.
+
 ## Download from 2020-03-30
 * The active fork of the project is now [JGuetschow/unfccc-detailed-data-by-party](https://github.com/JGuetschow/national-inventory-submisions). The Zeenodo repository is also new [10.5281/zenodo.3763020](https://doi.org/10.5281/zenodo.3763020).
 

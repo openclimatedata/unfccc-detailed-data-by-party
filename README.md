@@ -14,9 +14,11 @@ Maintainers:
 The data is available in two files, one for Annex-I and one for Non-Annex-I parties.
 Is is in a "wide" format, with base year and individual years as columns.
 
-According to the [overview webpage](https://unfccc.int/process-and-meetings/transparency-and-reporting/greenhouse-gas-data/ghg-data-unfccc/ghg-data-from-unfccc) the interface contains data reported until 8 November 2019.
+The [overview webpage](https://unfccc.int/process-and-meetings/transparency-and-reporting/greenhouse-gas-data/ghg-data-unfccc/ghg-data-from-unfccc) states that the interface contains data reported until 8 November 2019.
 
->  The secretariat has completed the upgrade of all nine modules of the GHG data interface on 8 November 2019.
+> The secretariat has completed the upgrade of all nine modules of the GHG data interface on 8 November 2019.
+
+However, newer data is available. The current release contains all data available at December 8th 2020.
 
 Note also the following footnotes from the data interface:
 
@@ -24,7 +26,7 @@ Note also the following footnotes from the data interface:
 
 > Note 2: Base year data in the data interface relate to the base year under the Climate Change Convention (UNFCCC). The base year under the Convention is defined slightly different than the base year under the Kyoto Protocol. An exception is made for European Union (KP) whereby the base year under the Kyoto Protocol is displayed.
 
-> Note 3: Some non-Annex I Parties submitted their GHG inventory data using the format of the 2006 IPCC Guidelines in reporting GHG emissions/removals. For this reason, these data could not be included in the data interface. However, the data are available in the national communications (Andorra, Antigua and Barbuda, Armenia, Bangladesh, Brunei Darussalam, Cabo Verde, Costa Rica, Côte d'Ivoire, Colombia, Equatorial Guinea, Eswatini, Grenada, Ghana, Indonesia, Iran, Jamaica, Kuwait, Malaysia, Mauritania, Mauritius, Mexico, Mongolia, Namibia, Nicaragua, Panama, Oman, Republic of Moldova, Rwanda, Samoa, Serbia, Sierra Leone, Singapore, Somalia, South Africa, Suriname, United Arab Emirates, Venezuela, and Viet Nam) and biennial update reports (Afghanistan, Andorra, Argentina, Armenia, Azerbaijan, Benin, Chile, Colombia, Costa Rica, Côte d'Ivoire, Egypt, El Salvador, Ghana, Georgia, India, Indonesia, Jordan, Malaysia, Mauritania, Mexico, Mongolia, Montenegro, Morocco, Namibia, Nigeria, North Macedonia, Oman, Panama, Paraguay, Papua New Guinea, Peru, Republic of Moldova, Serbia, Singapore, South Africa, Tajikistan, Togo, Tunisia, Uruguay, and Uganda).
+> Note 3: Some non-Annex I Parties submitted their GHG inventory data using the format of the 2006 IPCC Guidelines in reporting GHG emissions/removals. For this reason, these data could not be included in the data interface. However, the data are available in the national communications (Andorra, Antigua and Barbuda, Armenia, Bahrain, Bangladesh, Brunei Darussalam, Cabo Verde, Cook Islands, Costa Rica, Côte d'Ivoire, Colombia, Equatorial Guinea, Eswatini, Fiji, Gambia, Grenada, Ghana, Honduras, Indonesia, Iran, Jamaica, Kuwait, Malaysia, Mauritania, Mauritius, Mexico, Mongolia, Montenegro, Namibia, Nicaragua, Nigeria, Panama, Oman, Republic of Moldova, Rwanda, Samoa, Serbia, Sierra Leone, Singapore, Somalia, South Africa, Suriname, United Arab Emirates, Venezuela, Viet Nam, and Zambia) and biennial update reports (Afghanistan, Andorra, Antigua and Barbuda, Argentina, Armenia, Azerbaijan, Benin, Cambodia, Chile, Colombia, Costa Rica, Côte d'Ivoire, Dominican Republic, Egypt, El Salvador, Ghana, Georgia, Guinea-Bissau, India, Indonesia, Jordan, Laos Peoples Republic, Malaysia, Mauritania, Mexico, Mongolia, Montenegro, Morocco, Namibia, Nigeria, North Macedonia, Oman, Panama, Paraguay, Papua New Guinea, Peru, Republic of Moldova, Serbia, Singapore, South Africa, Tajikistan, Togo, Tunisia, Uruguay, and Uganda).
 
 > Note 5: Data displayed on the data interface are "as received" from Parties. The publication of Party submissions on this website does not imply the expression of any opinion whatsoever on the part of the UNFCCC or the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries as may be referred to in any of the submissions.
 
