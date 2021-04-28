@@ -871,7 +871,8 @@
             {
                 "id": 100186,
                 "code": "SLE",
-                "name": "Sierra Leone"
+                "name": "Sierra Leone",
+                "noData": true
             },
             {
                 "id": 100187,

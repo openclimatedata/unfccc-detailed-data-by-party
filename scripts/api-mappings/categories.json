@@ -316,7 +316,8 @@
                                                     "id": 11028,
                                                     "name": "Waste Incineration with Energy Recovery included as Fossil Fuels"
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": true
                                         }
                                     ]
                                 },
@@ -562,7 +563,8 @@
                                                     "id": 11034,
                                                     "name": "Total Leakage from Transport, Injection and Storage"
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": true
                                         }
                                     ]
                                 },
@@ -1627,7 +1629,8 @@
                                                     "id": 11036,
                                                     "name": "HWP in SWDS"
                                                 }
-                                            ]
+                                            ],
+                                            "hideCharts": true
                                         }
                                     ]
                                 },
