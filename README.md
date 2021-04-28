@@ -18,7 +18,7 @@ The [overview webpage](https://unfccc.int/process-and-meetings/transparency-and-
 
 > The secretariat has completed the upgrade of all nine modules of the GHG data interface on 8 November 2019.
 
-However, newer data is available. The current release contains all data available at December 8th 2020.
+However, newer data is available. The current release contains all data available at April 27th 2021.
 
 Note also the following footnotes from the data interface:
 

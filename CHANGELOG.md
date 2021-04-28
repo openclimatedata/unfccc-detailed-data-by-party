@@ -1,5 +1,18 @@
 # Changelog
 
+## Download from 2021-04-27
+* Updated data, the main website does not indicate a cutoff date for the included submissions. In addition to some new data, older data has been revised including removal of otherwise uncategorized data from "other" subcategories and recalculation of GWP weighted data.
+
+### The following countries have additional or updated data (only non-AnnexI listed):
+* Brazil has added data for 2016. Data for other years have been adjusted.
+* Bhutan has added data for 2015.
+* India has added data for 2016.
+* Several countries have removed data from "other" subcategories. This usually affects the year 1994 where data were often put in "other" subcategories, likely because they didn't fit the IPCC1996 categories.
+* For Afghanistan GWP weighted time-series have been adjusted.
+* For Sierra Leone all data have been removed.
+* For Pakistan all N2O and CH4 data have been removed.
+
+
 ## Download from 2020-12-08
 
 * Updated data, main website stated data provided as of 8 November 2019, however, new data has been made available since the March update.

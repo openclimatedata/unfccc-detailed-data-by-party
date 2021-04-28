@@ -149,6 +149,10 @@
             "name": "2017",
             "type": "number"
           }
+          {
+            "name": "2018",
+            "type": "number"
+          }
         ]
       }
     },
@@ -294,6 +298,10 @@
           },
           {
             "name": "2017",
+            "type": "number"
+          }
+          {
+            "name": "2018",
             "type": "number"
           }
         ]
