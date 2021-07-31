@@ -1,4 +1,7 @@
-Data Package with UNFCCC emissions data, downloaded from the UNFCCC ["Detailed Data By Party"](http://di.unfccc.int/detailed_data_by_party) interface.
+CSV files of UNFCCC emissions data, downloaded from the UNFCCC ["Detailed Data By Party"](http://di.unfccc.int/detailed_data_by_party) interface.
+
+See also the [GHG data from UNFCCC](https://unfccc.int/process-and-meetings/transparency-and-reporting/greenhouse-gas-data/ghg-data-unfccc/ghg-data-from-unfccc)
+pages.
 
 [![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.1300334.svg)](https://doi.org/10.5281/zenodo.1300334)
 
