@@ -1,5 +1,9 @@
 # Changelog
 
+## Download from 2021-07-31
+
+* Updated data, the main website does not indicate a cutoff date for included submissions.
+
 ## Download from 2021-04-27
 * Updated data, the main website does not indicate a cutoff date for the included submissions. In addition to some new data, older data has been revised including removal of otherwise uncategorized data from "other" subcategories and recalculation of GWP weighted data.
 
